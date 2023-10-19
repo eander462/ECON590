@@ -40,8 +40,7 @@ formula_generator = function(y = "lnvalue", x){
 }
 
 # Village fixed effects formula
-village_formula = formula('lnvalue', village)
-
+village_formula = formula_generator('lnvalue', village)
 # Estimate first regression. 
 village_reg = burk_df %>% lm(village_formula,.)
 ```
@@ -52,10 +51,12 @@ village_reg = burk_df %>% lm(village_formula,.)
 household = c(x, "hhn*year*fcrop")
 
 # Formula
-household_formula = formula('lnvalue', household)
-
+household_formula = formula_generator('lnvalue', household)
+# Regression
 household_reg = burk_df %>% lm(household_formula,.)
+```
 
+```{r}
 # Graph the density of residuals from each regression
 resids = tibble(village = village_reg$residuals, household = household_reg$residuals)
 
@@ -77,14 +78,12 @@ with(resids, ks.test(village, household)) # Fail to reject
 
 ```{r}
 # Add log of hh size of other plots to data
-hhsize = c("lnhhsize", x)
+hhsize = c("lnhhsize", x, "village*year*fcrop")
 
 # Formula
-hhsize_formula = formula('lnvalue', hhsize)
-
+hhsize_formula = formula_generator('lnvalue', hhsize)
 # Run regression
 other_reg = burk_df %>% lm(hhsize_formula,.)
-
 summary(other_reg)
 ```
 
