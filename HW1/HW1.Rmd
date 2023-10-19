@@ -1,0 +1,134 @@
+---
+title: "HW1"
+author: "Erik Andersen"
+date: "`r Sys.Date()`"
+output: 
+  html_document:
+    keep_md: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE,
+                      cache = TRUE)
+```
+
+
+```{r}
+# Load packages
+pacman::p_load(tidyverse, magrittr, here, haven)
+
+# Load data
+burk_df = read_dta(here("HW1", "data", "burkina731.dta"))
+```
+
+
+### Question 4
+
+```{r}
+# We're doing this cumbersome method to put the formula in because I thought it was cool, but mostly because I'm lazy and didn't wanna type out all the control variables
+
+# Get vector of all control variables for ease of use
+x = c(grep('soil', names(burk_df), value = TRUE), grep('topo', names(burk_df), value = TRUE), grep('loc', names(burk_df), value = TRUE), "lnarea")
+
+# Add village fixed effects
+village = c(x, "village*year*fcrop")
+
+# Function that outputs regression formula
+formula_generator = function(y = "lnvalue", x){
+  a = paste(y, "~", sep = " ")
+  paste(a, paste(paste0(x),  collapse = " + "))
+}
+
+# Village fixed effects formula
+village_formula = formula('lnvalue', village)
+
+# Estimate first regression. 
+village_reg = burk_df %>% lm(village_formula,.)
+```
+
+
+```{r}
+# Now add household fixed effects
+household = c(x, "hhn*year*fcrop")
+
+# Formula
+household_formula = formula('lnvalue', household)
+
+household_reg = burk_df %>% lm(household_formula,.)
+
+# Graph the density of residuals from each regression
+resids = tibble(village = village_reg$residuals, household = household_reg$residuals)
+
+# Graph residuals
+resids |> 
+  ggplot(aes(village)) +
+  geom_density(col = 'red') +
+  geom_density(aes(x = household), col = 'blue') + 
+  xlab("Deviation from Predicted Yield") +  ylab("Kernel Density Estimate") +
+  xlim(-5,5) + 
+  ggtitle("Estimates of Yield Function Error Terms") + 
+  cowplot::theme_cowplot()
+
+# Test if distributions are different using KS test
+with(resids, ks.test(village, household)) # Fail to reject
+```
+
+### Question 5
+
+```{r}
+# Add log of hh size of other plots to data
+hhsize = c("lnhhsize", x)
+
+# Formula
+hhsize_formula = formula('lnvalue', hhsize)
+
+# Run regression
+other_reg = burk_df %>% lm(hhsize_formula,.)
+
+summary(other_reg)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
