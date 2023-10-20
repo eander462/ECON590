@@ -72,8 +72,8 @@ resids = tibble(village = village_reg$residuals, household = household_reg$resid
 # Graph residuals
 resids |> 
   ggplot(aes(village)) +
-  geom_density(col = 'red') +
-  geom_density(aes(x = household), col = 'blue') + 
+  geom_density(col = '#E8175D', linetype = "twodash") +
+  geom_density(aes(x = household), col = '#474747', linetype = 'longdash') + 
   xlab("Deviation from Predicted Yield") +  ylab("Kernel Density Estimate") +
   ggtitle("Estimates of Yield Function Error Terms") + 
   cowplot::theme_cowplot()
