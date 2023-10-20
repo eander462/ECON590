@@ -2,7 +2,8 @@
 title: "HW1"
 author: "Erik Andersen"
 date: "`r Sys.Date()`"
-output: 
+output:
+  pdf_document: default
   html_document:
     keep_md: yes
 ---
@@ -15,10 +16,18 @@ knitr::opts_chunk$set(echo = TRUE,
 
 ```{r}
 # Load packages
-pacman::p_load(tidyverse, magrittr, here, haven)
+pacman::p_load(tidyverse, here, haven, magrittr)
 
 # Load data
 burk_df = read_dta(here("HW1", "data", "burkina731.dta"))
+
+# Change appropriate variables to factors
+burk_df %<>% mutate(village = as.factor(village),
+                    year = as.factor(year),
+                    fcrop = as.factor(fcrop),
+                    hhn = as.factor(hhn),
+                    hhn_unique = hhn:village)
+
 ```
 
 
@@ -36,13 +45,13 @@ village = c(x, "village*year*fcrop")
 # Function that outputs regression formula
 formula_generator = function(y = "lnvalue", x){
   a = paste(y, "~", sep = " ")
-  paste(a, paste(paste0(x),  collapse = " + "))
+  paste(a, paste(paste0(x),  collapse = " + ")) |> as.formula()
 }
 
 # Village fixed effects formula
 village_formula = formula_generator('lnvalue', village)
 # Estimate first regression. 
-village_reg = burk_df %>% lm(village_formula,.)
+village_reg = lm(village_formula, burk_df)
 ```
 
 
@@ -53,7 +62,7 @@ household = c(x, "hhn*year*fcrop")
 # Formula
 household_formula = formula_generator('lnvalue', household)
 # Regression
-household_reg = burk_df %>% lm(household_formula,.)
+household_reg = lm(household_formula, data = burk_df)
 ```
 
 ```{r}
@@ -66,12 +75,11 @@ resids |>
   geom_density(col = 'red') +
   geom_density(aes(x = household), col = 'blue') + 
   xlab("Deviation from Predicted Yield") +  ylab("Kernel Density Estimate") +
-  xlim(-5,5) + 
   ggtitle("Estimates of Yield Function Error Terms") + 
   cowplot::theme_cowplot()
 
 # Test if distributions are different using KS test
-with(resids, ks.test(village, household)) # Fail to reject
+with(resids, ks.test(village, household)) # Reject
 ```
 
 ### Question 5
@@ -83,7 +91,7 @@ hhsize = c("lnhhsize", x, "village*year*fcrop")
 # Formula
 hhsize_formula = formula_generator('lnvalue', hhsize)
 # Run regression
-other_reg = burk_df %>% lm(hhsize_formula,.)
+other_reg = lm(hhsize_formula, burk_df)
 summary(other_reg)
 ```
 
