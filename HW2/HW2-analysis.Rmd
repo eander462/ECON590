@@ -1,0 +1,59 @@
+---
+title: "HW2 Analysis"
+author: "Erik Andersen"
+date: "2023-12-11"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+here::i_am("HW2/HW2-analysis.Rmd")
+```
+
+```{r message=FALSE, warning=FALSE, include=FALSE}
+pacman::p_load(tidyverse, fixest, modelsummary, feather, parallel)
+```
+
+```{r message=FALSE, warning=FALSE, include=FALSE}
+# Load data
+nigeria_df = read_feather(here::here("HW2", "data", "generated-data", "nigeria.feather"))
+nigeria_area_df = read_feather(here::here("HW2", "data", "generated-data", "nigeria-area.feather"))
+```
+
+In this brief 
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+# use both data sets because including area drops a large percent of the data
+# First a simple comparison of means
+nigeria_df |> 
+  group_by(sex) |> 
+  summarise(yield = mean(yield)) |> 
+  drop_na() |> 
+  gt::gt()
+
+
+nigeria_area_df |> 
+  group_by(sex) |> 
+  summarise(yield = mean(yield)) |> 
+  drop_na() |> 
+  gt::gt()
+```
+
+```{r message=FALSE, warning=FALSE, include=FALSE}
+# Regresions of interest
+reg_no_area = fixest::feols(yield ~ sex | hh_year_crop, nigeria_df) 
+reg_yield_area = fixest::feols(yield_area ~ sex | hh_year_crop, nigeria_area_df)
+reg_area = fixest::feols(yield ~ sex + area | hh_year_crop, nigeria_area_df)
+
+```
+
+```{r echo=FALSE}
+# Model summaries
+msummary(models = list(reg_no_area, reg_yield_area, reg_area),
+         statistic = c("std.error"),
+         fmt = fmt_decimal(2),
+         coef_rename = c("Male", "Area"),
+         title = "Differing Plot Yields by Gender",
+         mc.cores = detectCores())
+```
+

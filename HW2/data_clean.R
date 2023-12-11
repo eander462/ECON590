@@ -38,13 +38,6 @@ owner_2018_19_df = read_csv(here::here("HW2", "data", "2018-19", "secta1_harvest
 
 
 
-
-
-
-
-
-
-
 #### Clean data ###################################
 
 # Clean harvest
@@ -126,6 +119,9 @@ rm(owner_area_df)
 
 # Make appropriate variables into factors
 nigeria_area_df = clean_final(nigeria_area_df)
+# Add yield per area
+nigeria_area_df = nigeria_area_df |> 
+  mutate(yield_area = yield / area)
 
 # Final dataset without area
 temp_df = left_join(harvest_df, owner_df, by = c("year", "plotid", "hhid"))

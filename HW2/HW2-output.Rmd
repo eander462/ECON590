@@ -1,0 +1,94 @@
+---
+title: "HW2 Analysis"
+author: "Erik Andersen"
+date: "2023-12-11"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+here::i_am("HW2/HW2-output.Rmd")
+```
+
+```{r message=FALSE, warning=FALSE, include=FALSE}
+pacman::p_load(tidyverse, fixest, modelsummary, feather, parallel)
+```
+
+```{r message=FALSE, warning=FALSE, include=FALSE}
+# Load data
+nigeria_df = read_feather(here::here("HW2", "data", "generated-data", "nigeria.feather"))
+nigeria_area_df = read_feather(here::here("HW2", "data", "generated-data", "nigeria-area.feather"))
+```
+
+In this brief study, I'm looking to see if the gender of the plot owner matters in determining output in Nigeria. This follows Udry (1996). Below is a raw comparison of the yields by gender. The first table includes all observations, and the second only includes those for which the survey question asking what the plot area is was answered. Intuitively, it makes more sense to control for area, or even standardize output per area, but hardly any plots answered the plot area question, so there is potential for selection bias. I include both for completeness. In either case, we can see that male controlled plots yield much higher outputs than female controlled plots. 
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+# use both data sets because including area drops a large percent of the data
+# First a simple comparison of means
+nigeria_df |> 
+  group_by(sex) |> 
+  summarise(Yield = mean(yield), n = n()) |> 
+  drop_na() |> 
+  gt::gt(caption = "No control for plot area")
+
+
+nigeria_area_df |> 
+  group_by(sex) |> 
+  summarise(Yield = mean(yield), n = n()) |> 
+  drop_na() |> 
+  gt::gt(caption = "Control for area")
+```
+
+```{r message=FALSE, warning=FALSE, include=FALSE}
+# Regresions of interest
+reg_no_area = fixest::feols(yield ~ sex | hh_year_crop, nigeria_df) 
+reg_yield_area = fixest::feols(yield_area ~ sex | hh_year_crop, nigeria_area_df)
+reg_area = fixest::feols(yield ~ sex + area | hh_year_crop, nigeria_area_df)
+
+```
+
+There are many other observable factors that might influence output, so the raw comparison is not that insightful. Below are three regressions in which we control for household-year-crop fixed effects. The first column shows the results for regressing total yield on sex using all the data. Here, a plot being controlled by a male decreased the output by 24. This is very noisily measured however, so we cannot reject the null of no effect. 
+
+The next two regressions use the truncated data set in which people answered the question on the size of their plot. We can see the sample size drops dramatically from more than 40,000 to only around 2500. The second column used yield per unit of land area as its outcome. In this case there is no effect of the gender of the plot owner. When we go back to using total yield as the outcome, we get the opposite effect to the whole data set. A male controlled plot yields more output by 6 units. This effect is significant at the 10% level. This result is closest to Udry (1996). None of the other results show that gender of plot owner matters. This one has a small, and only barely significant effect. 
+
+
+```{r echo=FALSE}
+# Model summaries
+msummary(models = list(reg_no_area, reg_yield_area, reg_area),
+         statistic = c("p.value"),
+         fmt = fmt_decimal(2),
+         coef_rename = c("Male", "Area"),
+         title = "Differing Plot Yields by Gender",
+         gof_omit = "IC|RMSE|R2.",
+         mc.cores = detectCores())
+```
+
+
+Speculating, I think my results are different than Udry's because there are some outlier farms owned by something like a corporation that change the results. Below, the same regressions are shown, but filtering to include only plots with less than 100 units in yield. Doing this only removes about a quarter of the sample size, but now we focus only on rural plots. The coefficients on gender are measured much more precisely this time. In particular when using the whole sample, we go from the incredibly noisily measured -24 output units for being male to a precisely measured 1.4 extra units of output from being male. 
+
+The two regressions where we include only those who gave the area of their plots show similar effects. Now there is a strong, almost significant effect for being male on output per unit area, and an almost identical effect on yield controlling for area. These results match closely to Udry's result. When we look only at the small, probably rural farms, gender of plot owner matters, but when we include large possibly industrialized plots, gender ceases to matter.
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+reg_no_area_filter = nigeria_df |> 
+  filter(yield < 100) %>%
+  fixest::feols(yield ~ sex | hh_year_crop,.)
+
+reg_yield_area_filter = nigeria_area_df |> 
+  filter(yield < 100) |> 
+  fixest::feols(yield_area ~ sex | hh_year_crop)
+
+reg_area_filter = nigeria_area_df |> 
+  filter(yield < 100) |> 
+  fixest::feols(yield ~ sex + area| hh_year_crop)
+
+msummary(models = list(reg_no_area_filter, reg_yield_area_filter, reg_area_filter),
+         statistic = c("p.value"),
+         fmt = fmt_decimal(2),
+         coef_rename = c("Male", "Area"),
+         title = "Differing Plot Yields by Gender",
+         gof_omit = "IC|RMSE|R2.",
+         mc.cores = detectCores())
+```
+
