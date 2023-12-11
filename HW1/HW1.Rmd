@@ -11,12 +11,15 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE,
                       cache = TRUE)
+
+here::i_am('HW1/HW1.Rmd')
 ```
 
 
 ```{r}
 # Load packages
 pacman::p_load(tidyverse, here, haven, magrittr)
+here::i_am('HW1/HW1.Rmd')
 
 # Load data
 burk_df = read_dta(here("HW1", "data", "burkina731.dta"))

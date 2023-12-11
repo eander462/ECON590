@@ -1,0 +1,2039 @@
+"zone","state","lga","sector","ea","event_type","event_seq","event_cd","event_desc","c6q2","c6q3"
+4,1,102,1,536,1,1,2,"Flood",2014,80
+4,1,102,1,536,1,4,9,"Power outages",2014,100
+4,1,102,1,536,1,3,7,"Massive job lay off",2015,75
+4,1,102,1,536,1,2,6,"Sharp changes in prices",2016,100
+4,1,102,1,536,2,1,15,"New school",2015,100
+4,1,102,1,536,2,2,16,"Improved transportation services",2014,100
+4,1,102,1,1690,1,3,10,"Power outages",2015,100
+4,1,102,1,1690,1,4,10,"others specify",2014,100
+4,1,102,1,1690,1,2,9,"Sharp changes in prices",2016,100
+4,1,102,1,1690,1,1,2,"Flood",2014,100
+4,1,102,1,1690,2,2,16,"Improved transportation services",2016,100
+4,1,102,1,1690,2,3,14,"New road",2015,70
+4,1,102,1,1690,2,1,17,"On grid electricity",2015,100
+4,1,104,2,1364,1,3,9,"Power outages",2014,100
+4,1,104,2,1364,1,1,6,"Sharp change in prices",2016,100
+4,1,104,2,1364,1,2,7,"Massive job lay offs",2014,60
+4,1,104,2,1364,1,4,2,"Flood",2014,100
+4,1,104,2,1364,2,1,16,"Improved  transportation",2015,100
+4,1,105,2,638,1,1,2,"Flood",2014,100
+4,1,105,2,638,1,4,9,"Power outage",2014,100
+4,1,105,2,638,1,3,7,"Massive job layout",2014,60
+4,1,105,2,638,1,2,6,"Sharp changes in prices",2014,100
+4,1,105,2,638,2,2,13,"New Health Facility",2015,100
+4,1,105,2,638,2,1,11,"Dev projects",2014,100
+4,1,106,2,880,1,2,8,"Loss of key social Services",2013,100
+4,1,106,2,880,1,3,7,"Massive Job lay off",2012,50
+4,1,106,2,880,1,1,6,"Sharp change in prices",2015,100
+4,1,106,2,880,2,2,13,"New health facility",2014,100
+4,1,106,2,880,2,1,13,"""Other good """,2015,100
+4,1,107,2,1044,1,3,7,"Massive job lay offs",2015,60
+4,1,107,2,1044,1,4,6,"Sharp changes in prices",2016,100
+4,1,107,2,1044,1,1,10,"others",2015,100
+4,1,107,2,1044,1,2,8,"Loss of key  social services",2014,100
+4,1,107,2,1044,2,1,14,"New road",2016,100
+4,1,108,2,904,1,2,6,"Sharp changes in prices",2016,100
+4,1,108,2,904,1,3,10,"Power outages",2014,100
+4,1,108,2,904,1,1,2,"Flood",2015,60
+4,1,108,2,904,2,1,14,"New Roads",2014,100
+4,1,108,2,904,2,2,11,"New Projects",2014,100
+4,1,108,2,904,2,4,16,"Improved transportation services",2016,100
+4,1,108,2,904,2,3,12,"New employment Opportunity",2014,20
+4,1,110,2,76,1,2,9,"Power outages",2015,100
+4,1,110,2,76,1,3,6,"sharp changes in prices",2016,100
+4,1,110,2,76,1,1,2,"Flood",2014,25
+4,1,110,2,76,2,2,16,"improved transportation",2016,100
+4,1,110,2,76,2,1,14,"New road",2016,100
+4,1,111,1,1146,1,1,2,"Flood",2015,100
+4,1,111,1,1146,1,4,9,"Power outsges",2015,100
+4,1,111,1,1146,1,3,9,"Power outages",2014,100
+4,1,111,1,1146,1,2,6,"Sharp changes in prices",2016,100
+4,1,111,1,1146,2,2,14,"New road",2015,100
+4,1,111,1,1146,2,3,17,"On grid electricity",2016,100
+4,1,111,1,1146,2,1,16,"Improved transportatioa services",2014,100
+4,1,115,1,670,1,1,9,"power outages",2014,100
+4,1,115,1,670,1,2,6,"Sharp changes in prices",2016,100
+4,1,115,1,670,1,4,7,"Massive job lay off",2014,60
+4,1,115,1,670,1,3,6,"sharp change in prices",2015,100
+4,1,115,1,670,2,2,17,"On grid electricity",2015,100
+4,1,115,1,670,2,4,11,"Dev project",2015,100
+4,1,115,1,670,2,3,14,"New road",2015,100
+4,1,115,1,670,2,1,16,"Improved transportation services",2015,100
+4,1,117,2,560,1,2,6,"Sharp changes in prices",2016,100
+4,1,117,2,560,1,3,8,"Loss of key social services",2014,100
+4,1,117,2,560,1,1,9,"Power outages",2014,100
+4,1,117,2,560,2,2,16,"Improved transportation services",2015,100
+4,1,117,2,560,2,1,14,"New road",2016,100
+2,2,201,2,60,1,3,1,"Draught",2015,50
+2,2,201,2,60,1,2,2,"Fload",2014,70
+2,2,201,2,60,1,4,10,"Robbery",2013,20
+2,2,201,2,60,1,1,10,"Diversion of project meant for Community",2013,100
+2,2,201,2,60,2,1,14,"Road Construction",2015,100
+2,2,201,2,60,2,3,15,"New School",2015,100
+2,2,201,2,60,2,4,18,"Provision",2014,100
+2,2,201,2,60,2,2,13,"New Hospital",2014,100
+2,2,203,2,1224,1,1,2,"Flood",2015,50
+2,2,203,2,1224,1,2,6,"Inflation",2016,100
+2,2,203,2,1224,2,1,13,"New Hospital Block",2015,100
+2,2,205,2,712,1,1,10,"Insurgency",2014,80
+2,2,205,2,712,1,2,6,"High Cost of Food items",2016,100
+2,2,205,2,712,2,1,11,"Provision of new borehole",2013,100
+2,2,205,2,712,2,2,17,"Electricity",2016,100
+2,2,205,2,712,2,3,14,"Road",2013,100
+2,2,207,2,1302,1,2,10,"Insurgency",2014,100
+2,2,207,2,1302,1,1,2,"Flood",2015,50
+2,2,207,2,1302,2,3,11,"New Borehole",2015,100
+2,2,207,2,1302,2,2,11,"Fencing of Health Center",2016,100
+2,2,207,2,1302,2,1,15,"Construction of New School",2016,100
+2,2,209,2,1040,1,2,6,"Inflation raise",2016,100
+2,2,209,2,1040,1,3,10,"Restricion of use of motorcycle",2015,100
+2,2,209,2,1040,1,1,1,"Insufficient rainfall",2015,100
+2,2,209,2,1040,2,1,17,"Restoration of Electric Power",2015,100
+2,2,210,2,1300,1,2,10,"Fulani Cattle Rearers",2014,50
+2,2,210,2,1300,1,1,10,"Insurgency",2014,100
+2,2,210,2,1300,2,2,11,"New borehole",2014,100
+2,2,210,2,1300,2,1,11,"Road Rehabilitation",2013,100
+2,2,212,2,956,1,1,1,"Drought",2015,100
+2,2,214,2,898,1,1,10,"killings by insurgents",2014,100
+2,2,214,2,898,1,2,10,"Destruction of property",2014,100
+2,2,214,2,898,1,3,6,"High price of Commodity",2016,100
+2,2,214,2,898,2,3,11,"Rehabilitation of Schools",2016,100
+2,2,214,2,898,2,1,11,"Rehabilitation of roads",2016,100
+2,2,214,2,898,2,2,11,"Construction of new boreholes",2015,100
+2,2,215,1,8,1,1,5,"Breakout of Small pox",2013,50
+2,2,215,1,8,1,3,10,"Boko Haram activity",2014,100
+2,2,215,1,8,1,2,6,"High Cost of Comodity",2016,100
+2,2,215,1,8,2,3,17,"Steady power supply",2016,100
+2,2,215,1,8,2,1,11,"Construction of new classroom block",2015,100
+2,2,215,1,8,2,2,11,"Construction of examination hall",2013,100
+2,2,216,2,200,1,2,6,"Inflation",2016,100
+2,2,216,2,200,1,1,2,"Flood",2015,90
+2,2,216,2,200,2,1,19,"Feeder Road",2015,100
+2,2,216,2,200,2,2,19,"Donation of Relief materials",2015,90
+2,2,218,2,1592,1,1,2,"Flood",2015,40
+2,2,218,2,1592,2,1,19,"Imminization of Children",2015,100
+2,2,221,2,18,1,1,2,"Fload",2014,60
+2,2,221,2,18,1,4,6,"inflation",2016,100
+2,2,221,2,18,1,3,1,"draught",2015,100
+2,2,221,2,18,1,2,10,"Robbery",2015,20
+2,2,221,2,18,2,2,15,"Construction of Nursery school",2015,100
+2,2,221,2,18,2,1,13,"Health Clinic",2015,100
+2,2,221,2,18,2,3,11,"Construction Petrol Station",2016,100
+2,2,221,2,18,2,4,11,"Expansion of Market",2015,100
+5,3,301,1,1198,,2,,"road",,
+5,3,301,1,1198,,3,,"price fluctuations",,
+5,3,301,1,1198,,1,,"school",,
+5,3,301,1,1198,,1,,"crop failure",,
+5,3,301,1,1198,,2,,"diseases",,
+5,3,301,1,1198,,3,,"culvert",,
+5,3,305,2,4,,1,,"electricity",,
+5,3,305,2,4,,3,,"natural disaster",,
+5,3,305,2,4,,2,,"price fluctuations",,
+5,3,305,2,4,,1,,"diseases",,
+5,3,305,2,4,,2,,"culvert",,
+5,3,305,2,1542,,2,,"natural disaster",,
+5,3,305,2,1542,,1,,"diseases",,
+5,3,305,2,1542,,3,,"price fluctuations",,
+5,3,305,2,1542,,1,,"new  school",,
+5,3,305,2,1542,,2,,"culvert",,
+5,3,307,1,634,,3,,"culvert",,
+5,3,307,1,634,,2,,"road",,
+5,3,307,1,634,,2,,"price fluctuations",,
+5,3,307,1,634,,1,,"school",,
+5,3,307,1,634,,1,,"diseases",,
+5,3,309,2,478,,1,,"price fluctuations",,
+5,3,309,2,478,,2,,"diseases",,
+5,3,309,2,478,,3,,"water",,
+5,3,309,2,478,,3,,"natural disaster",,
+5,3,309,2,478,,2,,"new road",,
+5,3,309,2,478,,1,,"culvert",,
+5,3,312,2,20,,1,,"new road",,
+5,3,312,2,20,,1,,"crop failures",,
+5,3,312,2,20,,2,,"diseases",,
+5,3,313,2,70,,2,,"water",,
+5,3,313,2,70,,3,,"prices fluctuations",,
+5,3,313,2,70,,1,,"crop failure",,
+5,3,313,2,70,,2,,"diseases",,
+5,3,313,2,70,,1,,"electricity",,
+5,3,316,2,874,,1,,"price fluctuations",,
+5,3,318,2,1136,,2,,"electricity",,
+5,3,318,2,1136,,3,,"natural disaster",,
+5,3,318,2,1136,,1,,"road",,
+5,3,318,2,1136,,1,,"price fluctuations",,
+5,3,318,2,1136,,2,,"diseases",,
+5,3,321,2,364,,2,,"new school block",,
+5,3,321,2,364,,2,,"natural disaster",,
+5,3,321,2,364,,1,,"price fluctuations",,
+5,3,321,2,364,,3,,"culvert",,
+5,3,321,2,364,,1,,"new road",,
+5,3,321,2,364,,3,,"diseases",,
+5,3,323,2,580,,1,,"construction of new road",,
+5,3,323,2,580,,1,,"price fluctuations",,
+5,3,326,2,74,,3,,"price fluctuations",,
+5,3,326,2,74,,2,,"water project",,
+5,3,326,2,74,,1,,"electricity",,
+5,3,326,2,74,,1,,"natural disaster",,
+5,3,326,2,74,,2,,"diseases",,
+5,3,329,2,696,,2,,"new school",,
+5,3,329,2,696,,1,,"new road",,
+5,3,329,2,696,,2,,"crop failure",,
+5,3,329,2,696,,1,,"price fluctuations",,
+5,3,331,1,516,,2,,"new school block",,
+5,3,331,1,516,,1,,"price fluctuations",,
+5,3,331,1,516,,2,,"diseases",,
+5,3,331,1,516,,3,,"natural disaster",,
+5,3,331,1,516,,1,,"new road",,
+5,3,331,1,2322,,1,,"price fluctuations",,
+5,3,331,1,2322,,1,,"new road",,
+4,4,401,1,738,1,1,1,"Drought  01",2013,76
+4,4,401,1,738,1,2,3,"Crop  Disease/Pests  03",2012,75
+4,4,401,1,738,1,3,4,"Livestock  Disease  04",2014,70
+4,4,401,1,738,1,4,6,"Sharp  Change  In  Prices  06",2014,90
+4,4,401,1,738,2,3,14,"New  Road  14",2013,70
+4,4,401,1,738,2,1,11,"Development  Project   11",2011,65
+4,4,401,1,738,2,2,13,"New  Health  Facility  13",2013,68
+4,4,401,1,738,2,4,16,"Improved  Transportation Service  16",2012,70
+4,4,401,1,1460,1,2,3,"Crop Disease/Pests  03",2014,77
+4,4,401,1,1460,1,1,1,"Drought  01",2013,70
+4,4,401,1,1460,1,4,6,"Sharp Change in prices  06",2014,80
+4,4,401,1,1460,1,3,4,"Livestock Disease  04",2013,65
+4,4,401,1,1460,2,1,11,"Development Project  11",2012,60
+4,4,401,1,1460,2,2,13,"New Health Facility  13",2013,70
+4,4,401,1,1460,2,4,16,"Improved Transportation Services  16",2012,70
+4,4,401,1,1460,2,3,14,"New Road  14",2012,62
+4,4,401,2,2106,1,4,6,"Sharp change in prices 06",2014,80
+4,4,401,2,2106,1,1,1,"Drought  01",2012,65
+4,4,401,2,2106,1,2,3,"Crop disease/pests  03",2013,58
+4,4,401,2,2106,1,3,4,"Livestock disease04",2012,64
+4,4,401,2,2106,2,4,16,"Improved Transportation services 16",2015,80
+4,4,401,2,2106,2,1,11,"Development project 11",2015,85
+4,4,401,2,2106,2,3,13,"New Health Facility 13",2013,60
+4,4,401,2,2106,2,2,14,"New Road 14",2014,74
+4,4,402,2,1080,1,2,3,"crop disease 03",2015,35
+4,4,402,2,1080,1,4,9,"power outage 09",2016,100
+4,4,402,2,1080,1,3,6,"sharp change in prices 06",2016,100
+4,4,402,2,1080,1,1,4,"livestock disease 04",2015,35
+4,4,402,2,1080,2,3,11,"development project 11",2013,70
+4,4,402,2,1080,2,4,14,"new road 14",2014,15
+4,4,402,2,1080,2,2,13,"new health facility 13",2014,60
+4,4,402,2,1080,2,1,16,"improved transportation services 16",2013,50
+4,4,403,2,836,1,3,6,"sharp change in prices 06",2016,100
+4,4,403,2,836,1,2,2,"flood 02",2014,100
+4,4,403,2,836,1,4,9,"power outage 06",2016,70
+4,4,403,2,836,1,1,1,"drought 01",2014,90
+4,4,403,2,836,2,2,13,"new health facility 13",2013,40
+4,4,403,2,836,2,3,14,"new road 14",2013,47
+4,4,403,2,836,2,4,16,"improved transportation services 16",2014,60
+4,4,403,2,836,2,1,11,"development project 11",2013,50
+4,4,405,2,484,1,3,3,"Crop Disease/Pests  03",2014,78
+4,4,405,2,484,1,1,1,"Drought   01",2013,78
+4,4,405,2,484,1,2,2,"Flood  02",2012,68
+4,4,405,2,484,1,4,4,"Livestock  Disease  04",2014,80
+4,4,405,2,484,2,2,13,"New  Health  Facility  13",2013,80
+4,4,405,2,484,2,4,16,"Improved Transportation Services  16",2012,60
+4,4,405,2,484,2,1,11,"Development  Project  11",2011,60
+4,4,405,2,484,2,3,14,"New  Road  14",2014,70
+4,4,405,2,722,1,3,4,"Livestock disease  04",2014,40
+4,4,405,2,722,1,1,1,"drought  01",2011,50
+4,4,405,2,722,1,4,6,"sharp change in price 06",2014,60
+4,4,405,2,722,1,2,3,"crop disease  03",2012,45
+4,4,405,2,722,2,2,14,"new road 14",2013,75
+4,4,405,2,722,2,1,11,"development project 11",2013,80
+4,4,405,2,722,2,3,13,"new health facility 13",2013,80
+4,4,405,2,722,2,4,16,"improved transportation services 16",2014,75
+4,4,407,2,796,1,2,3,"Crop disease/pests  03",2013,50
+4,4,407,2,796,1,1,1,"Drought  01",2012,55
+4,4,407,2,796,1,3,4,"Livestock disease 04",2013,60
+4,4,407,2,796,1,4,5,"Human Epidemic disease 05",2011,45
+4,4,407,2,796,2,1,11,"Development project  11",2012,75
+4,4,407,2,796,2,3,14,"New road  14",2014,80
+4,4,407,2,796,2,4,16,"Improved transportation services  16",2012,78
+4,4,407,2,796,2,2,13,"New health facility  13",2011,58
+4,4,410,1,3192,1,1,1,"Drought   01",2012,76
+4,4,410,1,3192,1,4,6,"Sharp  Change In Prices  06",2012,85
+4,4,410,1,3192,1,2,3,"Crop Disease/Pests  03",2013,70
+4,4,410,1,3192,1,3,4,"Livestock  Disease  04",2014,76
+4,4,410,1,3192,2,3,14,"New  Road  14",2013,65
+4,4,410,1,3192,2,2,13,"New  Health Facility  13",2013,75
+4,4,410,1,3192,2,1,11,"Development  Project  11",2012,60
+4,4,410,1,3192,2,4,16,"Improved Transportation Services  16",2014,66
+4,4,410,1,3414,1,1,1,"Drought  01",2013,78
+4,4,410,1,3414,1,4,6,"Shsrp  Change  In  Prices  06",2014,88
+4,4,410,1,3414,1,3,4,"Livestock  Disease  04",2014,80
+4,4,410,1,3414,1,2,3,"Crop  Disease/Pest  03",2012,70
+4,4,410,1,3414,2,2,13,"New  Health  Facility  13",2012,75
+4,4,410,1,3414,2,3,14,"New  Road  14",2013,65
+4,4,410,1,3414,2,4,16,"Improved  Transportation  Services  16",2013,68
+4,4,410,1,3414,2,1,11,"Development  Project  11",2013,60
+4,4,410,2,4036,1,1,2,"flood 02",2013,30
+4,4,410,2,4036,1,3,9,"power outage 09",2016,93
+4,4,410,2,4036,1,4,7,"massive job lay offs 07",2014,50
+4,4,410,2,4036,1,2,6,"sharp change in prices 06",2016,100
+4,4,410,2,4036,2,2,13,"new health facility 13",2013,75
+4,4,410,2,4036,2,4,14,"new road 14",2013,73
+4,4,410,2,4036,2,3,16,"improved transportation services 16",2013,80
+4,4,410,2,4036,2,1,11,"development project 11",2013,60
+4,4,411,1,1486,1,4,2,"Flood 02",2014,50
+4,4,411,1,1486,1,2,9,"Power Outage 09",2014,80
+4,4,411,1,1486,1,3,4,"Livestock Disease 04",2013,40
+4,4,411,1,1486,1,1,6,"Sharp Change in prices 06",2016,100
+4,4,411,1,1486,2,2,13,"New health facility 14",2013,30
+4,4,411,1,1486,2,1,11,"Development project 11",2013,40
+4,4,411,1,1486,2,4,14,"New road 14",2013,20
+4,4,411,1,1486,2,3,16,"Improved transportation services 16",2014,70
+4,4,412,2,1606,1,2,9,"power outage 09",2016,100
+4,4,412,2,1606,1,4,3,"crop disease 03",2014,50
+4,4,412,2,1606,1,1,6,"sharp change in prices 06",2016,100
+4,4,412,2,1606,1,3,1,"drought 01",2013,41
+4,4,412,2,1606,2,4,14,"new road 14",2013,20
+4,4,412,2,1606,2,3,16,"improved transportation services 16",2013,40
+4,4,412,2,1606,2,1,13,"new health facility 13",2013,62
+4,4,412,2,1606,2,2,11,"development project 11",2014,70
+4,4,412,2,2592,1,2,3,"crop disease 03",2013,42
+4,4,412,2,2592,1,3,6,"sharp change in prices 06",2016,100
+4,4,412,2,2592,1,4,9,"power outage 09",2015,95
+4,4,412,2,2592,1,1,1,"drought 01",2014,50
+4,4,412,2,2592,2,3,11,"development project 11",2013,70
+4,4,412,2,2592,2,1,13,"new health facility13",2013,38
+4,4,412,2,2592,2,2,16,"improved transportation services 16",2014,80
+4,4,412,2,2592,2,4,14,"new road 14",2013,23
+4,4,413,2,1540,1,3,4,"Livestock Disease  04",2013,68
+4,4,413,2,1540,1,1,1,"Drought  01",2013,65
+4,4,413,2,1540,1,4,6,"Sharp Change In Prices  06",2014,85
+4,4,413,2,1540,1,2,3,"Crop Disease/Pest  03",2014,70
+4,4,413,2,1540,2,4,16,"Improved Transportation  Services  16",2014,50
+4,4,413,2,1540,2,2,13,"New Health Facility  13",2015,70
+4,4,413,2,1540,2,1,11,"Development Project  11",2014,65
+4,4,413,2,1540,2,3,14,"New Road  14",2012,55
+4,4,414,1,2176,1,3,2,"flood 02",2014,20
+4,4,414,1,2176,1,1,6,"sharp change in prices 06",2016,100
+4,4,414,1,2176,1,2,9,"power outage 09",2016,100
+4,4,414,1,2176,1,4,1,"drought 01",2015,33
+4,4,414,1,2176,2,2,16,"improved transportation services 16",2013,100
+4,4,414,1,2176,2,1,11,"development project 11",2013,30
+4,4,414,1,2176,2,4,14,"new road 14",2014,29
+4,4,414,1,2176,2,3,13,"new health facility 13",2014,50
+4,4,415,1,2108,1,2,3,"crop disease 03",2014,25
+4,4,415,1,2108,1,3,6,"sharp change in prices 06",2016,100
+4,4,415,1,2108,1,1,2,"flood 02",2014,21
+4,4,415,1,2108,1,4,9,"power outage 09",2015,100
+4,4,415,1,2108,2,1,11,"development project 11",2014,45
+4,4,415,1,2108,2,2,13,"new health facility13",2014,53
+4,4,415,1,2108,2,4,16,"improved transportation servicrs16",2013,75
+4,4,415,1,2108,2,3,14,"new road14",2014,60
+4,4,416,1,616,1,3,6,"Sharp change in prices 06",2016,100
+4,4,416,1,616,1,1,1,"Drought 01",2013,20
+4,4,416,1,616,1,2,2,"Flood 02",2014,34
+4,4,416,1,616,1,4,9,"Power Outage 09",2014,90
+4,4,416,1,616,2,3,16,"Improved Transportation services 16",2014,100
+4,4,416,1,616,2,2,14,"New road 14",2013,80
+4,4,416,1,616,2,4,13,"New health facility13",2014,50
+4,4,416,1,616,2,1,11,"Development project 11",2013,90
+4,4,417,1,678,1,1,1,"Drought 01",2014,50
+4,4,417,1,678,1,2,2,"Flood 02",2014,55
+4,4,417,1,678,1,4,9,"Power Outage 09",2014,100
+4,4,417,1,678,1,3,6,"Sharp Change in prices 06",2015,100
+4,4,417,1,678,2,2,14,"New road 14",2013,51
+4,4,417,1,678,2,3,13,"New health facility 13",2013,80
+4,4,417,1,678,2,1,11,"Development project 11",2013,40
+4,4,417,1,678,2,4,16,"Improved transportation services 16",2014,70
+4,4,418,1,44,1,3,2,"Flood 02",2014,35
+4,4,418,1,44,1,4,1,"Drought 01",2014,40
+4,4,418,1,44,1,1,6,"Sharp change in prices 06",2016,85
+4,4,418,1,44,1,2,9,"Power outage 09",2015,90
+4,4,418,1,44,2,3,14,"New road 14",2013,69
+4,4,418,1,44,2,4,16,"Improved transportation services 16",2013,80
+4,4,418,1,44,2,1,11,"Development project 11",2013,50
+4,4,418,1,44,2,2,14,"New health facility 13",2013,75
+4,4,419,2,296,1,1,1,"Drought  01",2013,75
+4,4,419,2,296,1,3,4,"Livestock Disease  04",2013,77
+4,4,419,2,296,1,2,3,"Crop Disease/Pests  03",2014,70
+4,4,419,2,296,1,4,6,"Sharp change in prices  06",2015,90
+4,4,419,2,296,2,3,14,"New Road  14",2013,65
+4,4,419,2,296,2,2,13,"New Health Facility 13",2013,80
+4,4,419,2,296,2,4,16,"Improved Transportation services  16",2012,65
+4,4,419,2,296,2,1,11,"Development Project 11",2014,72
+4,4,421,1,800,1,3,4,"Livestock  Disease  04",2014,80
+4,4,421,1,800,1,4,6,"Sharp Change In Prices  06",2014,85
+4,4,421,1,800,1,2,3,"Crop  Disease/Pests  03",2013,70
+4,4,421,1,800,1,1,1,"Drought  01",2012,75
+4,4,421,1,800,2,2,13,"New  Health  Facility  13",2013,78
+4,4,421,1,800,2,3,14,"New  Road  14",2012,70
+4,4,421,1,800,2,1,11,"Development  Project  11",2012,65
+4,4,421,1,800,2,4,16,"Improved  Transportation  Service  16",2012,80
+2,5,501,2,60,1,3,7,"lack ofwater",2011,30
+2,5,501,2,60,1,1,10,"security threat",2014,20
+2,5,501,2,60,1,2,9,"power outage",2012,70
+2,5,501,2,60,2,1,14,"Road network",2011,80
+2,5,501,2,60,2,2,11,"mobile network",2015,60
+2,5,502,1,2194,1,3,9,"power outage",2014,58
+2,5,502,1,2194,1,1,7,"laid off job",2015,20
+2,5,502,1,2194,1,2,2,"lack of drainage",2014,10
+2,5,502,1,2194,2,1,12,"communications",2010,30
+2,5,502,1,2194,2,4,13,"improved under five clinic",2012,15
+2,5,502,1,2194,2,2,16,"transportation",2011,40
+2,5,502,1,2194,2,3,15,"secondary school",2010,20
+2,5,502,2,3878,1,1,2,"flood",2013,30
+2,5,502,2,3878,1,2,8,"lack of school",2000,98
+2,5,502,2,3878,2,2,19,"communication",2000,25
+2,5,502,2,3878,2,1,16,"Transportation",2009,30
+2,5,504,2,708,,1,,"construction of borhole",,
+2,5,506,2,830,1,1,2,"flood",2014,20
+2,5,506,2,830,1,2,9,"power outage",2013,15
+2,5,506,2,830,2,2,16,"improved transportation",2012,60
+2,5,506,2,830,2,1,11,"overhead water tank",2014,80
+2,5,508,2,718,1,1,2,"flood",2014,30
+2,5,508,2,718,1,3,9,"power outage",2013,50
+2,5,508,2,718,1,2,10,"insurgency activities",2015,20
+2,5,508,2,718,2,3,16,"improved transportation service",2012,80
+2,5,508,2,718,2,2,11,"communication service",2012,45
+2,5,508,2,718,2,1,13,"maternity",2013,80
+2,5,508,2,984,1,2,5,"Epidemics",2015,15
+2,5,508,2,984,1,1,2,"Flood",2014,50
+2,5,508,2,984,2,1,15,"primary school",2012,20
+2,5,508,2,984,2,2,13,"healthcare",2011,60
+2,5,510,1,872,1,1,7,"conflicts",2010,1
+2,5,510,1,872,2,1,19,"peaceful conduct of election",2015,95
+2,5,510,2,1516,1,1,2,"none",2013,22
+2,5,510,2,1516,2,1,13,"political stability",2014,58
+2,5,513,2,348,1,2,4,"death of Animals",2014,15
+2,5,513,2,348,1,3,7,"unemployment",2013,12
+2,5,513,2,348,1,1,2,"flood",2015,30
+2,5,513,2,348,2,2,16,"Transportation improvement",2013,50
+2,5,513,2,348,2,1,11,"mosque building",2014,80
+2,5,514,2,710,1,1,10,"political violence",2015,2
+2,5,514,2,710,2,1,12,"peace full conduct of election",2013,12
+2,5,514,1,2036,1,1,6,"political cricise",2015,5
+2,5,514,1,2036,2,1,16,"security of life",2016,99
+2,5,515,2,18,1,1,10,"Stealing",2015,20
+2,5,515,2,18,1,2,10,"Robbery",2015,10
+2,5,515,2,18,2,1,19,"security of life",2015,60
+2,5,516,2,942,1,1,10,"Tribal conflicts",2012,1
+2,5,516,2,942,2,1,19,"Camper harvest",2013,89
+2,5,518,2,1304,1,3,8,"breakdown of bridge",2013,95
+2,5,518,2,1304,1,1,2,"overflood",2015,60
+2,5,518,2,1304,1,2,10,"cattle theft",2015,20
+2,5,518,2,1304,2,1,15,"secondary school",2015,30
+2,5,518,2,1304,2,2,13,"Health centre",2015,80
+2,5,518,2,1304,2,3,11,"bore hole",2015,98
+2,5,518,2,1588,1,3,8,"lack of school",2000,80
+2,5,518,2,1588,1,2,8,"transportation",1999,95
+2,5,518,2,1588,1,1,10,"insurgency",2015,55
+2,5,518,2,1588,2,3,19,"Agro chemical s",2008,60
+2,5,518,2,1588,2,1,11,"borehole",2013,96
+2,5,518,2,1588,2,2,19,"GSM",2010,20
+2,5,520,2,1756,1,1,10,"non",,99
+2,5,520,2,1756,2,1,19,"peaceful conduct of elections",2015,90
+5,6,601,2,640,1,1,6,"Sea pirates  and sea robbery.",2015,100
+5,6,601,2,640,2,1,16,"roadnetwork",2008,80
+5,6,601,2,640,2,2,12,"constant electricity",2009,100
+5,6,602,2,1356,1,1,10,"Transportation",2012,80
+5,6,602,2,1356,1,2,8,"Lack of employment",2007,80
+5,6,602,2,1356,2,1,18,"Electricity",2008,96
+5,6,605,2,162,1,2,8,"Collaspe of brigde",2012,80
+5,6,605,2,162,1,1,9,"Electricity supply",2015,100
+5,6,605,2,162,2,1,14,"Network of roads",2012,70
+5,6,606,2,1372,2,1,19,"renoviation of schools",2014,90
+5,6,606,2,1372,,1,,"nothing as affected the people of this community",,
+5,6,607,2,1892,1,1,9,"Electricity",2014,90
+5,6,607,2,1892,1,2,10,"Potable water",2012,90
+5,6,607,2,1892,2,1,16,"trading",2015,50
+5,6,608,2,748,1,1,7,"Employment",2015,86
+5,6,608,2,748,1,2,8,"Land dispute",2013,92
+5,6,608,2,748,1,3,8,"Chieftaincy torsule",2010,80
+5,6,608,2,748,2,1,12,"Land leasing",2016,57
+5,6,608,1,3978,1,1,8,"Health facity",2014,100
+5,6,608,1,3978,1,2,8,"Bad road",2001,100
+5,6,608,1,3978,2,1,12,"Installation of the Headman in the community.",2013,100
+1,7,701,2,606,1,1,2,"Flood",2014,90
+1,7,701,2,606,2,2,15,"Reopening of the LGEA primary school",2016,80
+1,7,701,2,606,2,1,14,"Construction of community Road",2015,100
+1,7,702,2,632,1,3,6,"High cost of items and services",2016,100
+1,7,702,2,632,1,2,10,"Crop poor yields",2014,70
+1,7,702,2,632,1,1,10,"Herds men attack on community",2013,80
+1,7,702,2,632,2,1,15,"ESTABLISHMENT OF PRIMARY SCHOOL",2015,100
+1,7,705,2,4186,,1,,"No events that made people worse off.",,
+1,7,705,2,4186,,1,,"No events that made people better off.",,
+1,7,707,2,560,1,3,10,"fire outbreak",2016,40
+1,7,707,2,560,1,1,10,"conflicts",2014,50
+1,7,707,2,560,1,2,1,"drought",2015,100
+1,7,707,2,560,,1,,"o",,
+1,7,708,2,754,1,2,1,"lnadequate rain",2014,60
+1,7,708,2,754,1,1,8,"low prices",2014,100
+1,7,708,2,754,,1,,"No events that made people better off",,
+1,7,709,2,1226,1,1,10,"conflict.",2014,60
+1,7,709,2,1226,2,2,15,"School renovation",2013,90
+1,7,709,2,1226,2,1,13,"construction of health centre",2013,100
+1,7,710,2,2726,1,1,1,"Drought",15,80
+1,7,710,2,2726,2,3,13,"equiping health centre",14,100
+1,7,710,2,2726,2,1,15,"School renovation",2014,100
+1,7,710,2,2726,2,2,19,"Boleholes",16,100
+1,7,711,2,2532,1,1,10,"Conflict.",2014,60
+1,7,711,2,2532,,1,,"No event that made people better off.",,
+1,7,713,2,304,1,3,2,"Flood",2015,80
+1,7,713,2,304,1,2,10,"Herdsmen attack",2014,50
+1,7,713,2,304,1,1,2,"Flood",2013,100
+1,7,713,2,304,2,1,17,"Electricity",2015,90
+1,7,715,1,294,1,2,10,"Early stoppage of rain fall",2015,60
+1,7,715,1,294,1,1,10,"poor Agricultural yields",2015,60
+1,7,715,1,294,1,3,6,"Increase in the prizes of goods and services",2016,80
+1,7,715,1,294,2,1,13,"Building of a clinic",2014,100
+1,7,715,2,780,1,3,6,"Price fluctuations",2015,75
+1,7,715,2,780,1,2,10,"Gullies",2015,100
+1,7,715,2,780,1,1,10,"poor Agricultural yields",2015,25
+1,7,715,2,780,2,1,15,"New nursery school",2015,100
+1,7,717,2,1248,1,1,1,"crop failure",2014,45
+1,7,717,2,1248,1,2,6,"scarcity of fertilizers",2015,65
+1,7,717,2,1248,2,1,14,"ROAD",2014,100
+1,7,718,2,1640,1,1,1,"crop failure",2015,100
+1,7,718,2,1640,1,3,10,"fuel scarcity",2015,80
+1,7,718,2,1640,1,2,6,"Increase in the prizes of goods and services",2016,100
+1,7,718,2,1640,2,1,12,"Employment opportunities",2013,40
+1,7,719,1,1612,1,2,10,"fuel scarcity",2015,100
+1,7,719,1,1612,1,1,6,"High cost of items",2016,80
+1,7,719,1,1612,2,1,12,"Employment",2013,60
+1,7,719,1,1612,2,2,11,"Save drinking water",2016,100
+1,7,719,1,1612,2,3,11,"New Roads",2014,100
+1,7,722,2,234,,1,,"No events that made people better off.",,
+1,7,722,2,234,,1,,"No events that made people worse off",,
+1,7,722,2,892,1,1,1,"No enough rain",2015,89
+1,7,722,2,892,2,1,19,"Primary school renovation.",2014,75
+2,8,802,2,1152,,,,,,
+2,8,803,1,944,,,,,,
+2,8,805,2,46,1,1,10,"None",2016,100
+2,8,805,2,46,2,1,19,"School renovation",2016,90
+2,8,807,2,946,,,,,,
+2,8,807,2,1438,,,,,,
+2,8,807,2,2396,,,,,,
+2,8,809,2,1748,,,,,,
+2,8,811,2,390,,,,,,
+2,8,811,1,1558,,,,,,
+2,8,812,2,866,1,1,10,"Insurgents activities",2015,10
+2,8,812,2,866,2,1,12,"Employment",2016,100
+2,8,813,2,2094,1,1,10,"Insurgents",2013,100
+2,8,813,2,2094,2,1,17,"Electricity",2015,90
+2,8,815,2,362,1,1,10,"Terrorism activities.",2013,100
+2,8,815,2,362,2,1,19,"Security Presence.",2013,95
+2,8,816,2,1270,,,,,,
+2,8,817,1,2476,,,,,,
+2,8,820,2,1030,1,1,10,"Terrorism",2013,90
+2,8,820,2,1030,2,1,19,"water",2014,100
+2,8,821,1,1448,1,1,7,"Massve job layoffs",2013,80
+2,8,821,1,1448,1,2,10,"Insurgency",2012,100
+2,8,821,1,1448,2,1,15,"New school",2015,95
+2,8,821,1,5062,1,2,6,"Changes in priced",2014,98
+2,8,821,1,5062,1,1,7,"Massive job layoffs",2013,80
+2,8,821,1,5062,2,1,14,"Roads",2014,100
+2,8,821,1,5062,2,2,15,"School repairs",2014,80
+2,8,823,2,548,,,,,,
+2,8,824,2,768,1,1,10,"Insurgency",2013,95
+2,8,824,2,768,2,1,19,"Security",2014,50
+2,8,826,2,926,,,,,,
+2,8,827,2,804,1,1,2,"Flood",2015,95
+2,8,827,2,804,2,1,15,"New School",2015,100
+5,9,901,2,398,1,1,2,"FLOOD",2013,60
+5,9,901,2,398,1,2,10,"WINDSTORM",2013,20
+5,9,901,2,398,2,1,14,"ROAD CONSTRUCTION",2013,100
+5,9,901,2,398,2,3,19,"FARM ROAD REHABILITATION",2013,80
+5,9,901,2,398,2,2,11,"SCHOOL RENOVATION",2015,80
+5,9,903,2,48,1,1,10,"Low patronage of the village market",2014,60
+5,9,903,2,48,1,2,10,"Activities of ticket agents and touts",2013,70
+5,9,903,2,48,2,1,11,"Electrification project",2013,100
+5,9,905,2,978,1,1,6,"HIGH COST OF THINGS IN THE MARKET",2015,100
+5,9,905,2,978,2,1,11,"NEW HOUSES",2014,10
+5,9,907,2,1446,1,1,6,"INFLATION",2015,100
+5,9,907,2,1446,2,3,11,"REPAIR OF BRIDGE",2015,60
+5,9,907,2,1446,2,1,11,"TARRING OF ROAD",2014,100
+5,9,907,2,1446,2,4,11,"WATER PROJECT",2014,100
+5,9,907,2,1446,2,2,11,"CONSTRUCTION OF NEW MARKET",2015,100
+5,9,908,1,278,1,1,7,"Job loss",2015,10
+5,9,908,1,278,1,2,6,"High cost of living",2015,100
+5,9,908,1,278,2,1,11,"Grading of road",2015,30
+5,9,910,2,200,1,2,6,"INFLATION",2015,100
+5,9,910,2,200,1,1,10,"VIOLENCE",2015,100
+5,9,910,2,200,2,2,11,"SCHOOL RENOVATION",2014,100
+5,9,910,2,200,2,1,13,"CONSTRUCTION OF HEALTH POST",2015,100
+5,9,912,2,102,1,2,10,"WINDSTORM",2016,30
+5,9,912,2,102,1,1,10,"BOUNDARY DISPUTE",2014,60
+5,9,912,2,102,2,4,11,"BRIDGE REPAIRS",2014,100
+5,9,912,2,102,2,1,19,"VIP TOILET CONSTRUCTION",2013,100
+5,9,912,2,102,2,2,11,"NEW BOREHOLES",2013,100
+5,9,912,2,102,2,3,11,"CONSTRUCTION OF THE COMMUNITY HALL",2013,100
+5,9,913,2,2266,1,2,3,"CROP PESTS",2014,80
+5,9,913,2,2266,1,1,10,"WINDSTORM",2013,30
+5,9,913,2,2266,2,1,11,"GSM NETWORK",2013,100
+5,9,914,2,1746,1,1,10,"FIRE ACCIDENT",2016,30
+5,9,914,2,1746,2,2,11,"NEW BOREHOLE",2014,60
+5,9,914,2,1746,2,1,11,"BUILDING OF NEW CLASSROOM BLOCK",2014,50
+5,9,915,1,1390,1,1,6,"High cost of living",2016,100
+5,9,915,1,1390,2,1,11,"Electrification project",2014,100
+5,9,916,2,1068,1,2,10,"EXCESSIVE HEAT",2014,100
+5,9,916,2,1068,1,1,10,"RAINSTORM",2012,20
+5,9,916,2,1068,2,3,11,"RENOVATION WORK AT THE HEALTH CENTRE",2014,100
+5,9,916,2,1068,2,2,11,"NEW CLASSROOM BLOCK IN THE SECONDARY SCHOOL.",2014,100
+5,9,916,2,1068,2,1,11,"NEW CLASSROOM BLOCK IN THE PRIMARY SCHOOL.",2015,100
+5,9,917,1,1254,1,1,9,"Electrical supply",2015,100
+5,9,917,1,1254,1,2,10,"Water supply",2014,100
+5,9,917,1,1254,1,3,10,"Unemployment level",2015,40
+5,9,917,1,1254,2,1,14,"New road construction",2013,100
+5,9,918,2,834,1,1,2,"FLOOD",2013,50
+5,9,918,2,834,2,1,11,"NEW CLASSROOM BLOCK",2013,100
+5,10,1001,2,172,1,1,9,"Wind Storm",2015,60
+5,10,1001,2,172,1,2,10,"Death of Col. Uwawo(retired)",2016,55
+5,10,1001,2,172,2,1,19,"Instalation of Obi  of Onicha Ollana",2015,40
+5,10,1005,1,662,1,1,10,"Boundary disput between Eku in Delta and Orogho in Edo state.",2015,20
+5,10,1005,1,662,2,4,11,"Conts. of new palace",2015,90
+5,10,1005,1,662,2,1,11,"New bridge across river Ethiope",2015,80
+5,10,1005,1,662,2,3,11,"Conts. of new town hall",2015,90
+5,10,1005,1,662,2,2,11,"New road construct by dealta state",2014,80
+5,10,1005,2,1374,1,1,10,"The dry season has dry up thier crops",2016,80
+5,10,1005,2,1374,2,1,11,"Biulding of constomary court.",2016,45
+5,10,1005,2,1374,2,2,11,"Renovating of primary school.",2016,80
+5,10,1007,1,1166,1,1,10,"Ants that destroy Farmers Yam root",2015,50
+5,10,1007,1,1166,1,3,10,"InaccessibleRoad",2010,100
+5,10,1007,1,1166,1,2,9,"power outstage",2011,100
+5,10,1007,1,1166,2,1,19,"Provision of Borehole",1995,60
+5,10,1008,2,1314,1,1,10,"Unesplainable lost of lives",2013,20
+5,10,1008,2,1314,2,1,14,"Road Tarred",2009,100
+5,10,1008,2,1718,2,1,19,"None",0,0
+5,10,1010,2,20,1,1,2,"Flood affect a very small proportion of the community.",2012,5
+5,10,1010,2,20,2,2,11,"Renovation of both primary and secondary school.",2014,100
+5,10,1010,2,20,2,1,11,"Road construction",2015,100
+5,10,1012,2,936,1,2,2,"FLOOD",2012,70
+5,10,1012,2,936,1,1,2,"Prices increase generally",2015,90
+5,10,1014,2,80,1,2,9,"Long Standing Power outage.",2010,100
+5,10,1014,2,80,1,1,9,"deplorable access RoadS",2012,100
+5,10,1018,1,634,1,2,2,"Flood",2014,50
+5,10,1018,1,634,1,1,10,"Cult Secret Soecity",2015,100
+5,10,1018,1,634,2,1,19,"None",2016,100
+5,10,1018,2,898,1,1,1,"Farm land are no more fertile due long dry season",2015,100
+5,10,1018,2,898,2,1,19,"Fish hunting is no productive",2015,60
+5,10,1020,1,38,1,1,10,"Land dispute",2015,30
+5,10,1020,1,38,2,1,11,"New market",2015,100
+5,10,1021,2,120,1,1,10,"Tredspass into the comminity Land",2014,100
+5,10,1021,2,120,2,1,19,"Discovery of oil well in the Community",2015,100
+5,10,1025,2,1774,1,1,8,"Relocation of company from the community",2014,60
+5,10,1025,2,1774,1,2,7,"Retreachment of workers",2014,50
+5,10,1025,2,1774,2,1,19,"None",2015,0
+4,11,1101,2,154,1,2,3,"CROP DISEASE/PESTS",2013,70
+4,11,1101,2,154,1,1,6,"SHARP CHANGE IN PRICES   06",2015,95
+4,11,1101,2,154,2,1,16,"IMPROVED TRANSPORTATION  SERVICE16",2013,95
+4,11,1102,2,936,1,1,6,"SHARP CHANGE IN PRICES",2015,100
+4,11,1102,2,936,1,2,3,"CROP DISEASE/PEST",2013,65
+4,11,1102,2,936,2,1,14,"NEW ROAD",2015,85
+4,11,1104,2,434,1,2,3,"CROP DISEASE/PESTS    03",2014,80
+4,11,1104,2,434,1,1,6,"SHARP CHANGE IN PRICE   06",2015,99
+4,11,1104,2,434,2,1,13,"NEW HEALTH FACILITY       13",2013,95
+4,11,1104,2,434,2,2,11,"DEVELOPMENT PROJECT   11",2015,90
+4,11,1104,1,2028,1,1,6,"SHARP CHANGE IN PRICES   06",2015,90
+4,11,1104,1,2028,2,1,14,"NEW ROAD      14",2015,100
+4,11,1105,2,100,1,2,3,"CROP DISEASE/PESTS    03",2013,75
+4,11,1105,2,100,1,1,6,"SHARP CHANGE lN PRICES       06",2015,95
+4,11,1105,2,100,2,1,16,"IMPROVED TRANSPORTATION  SERVICE S   16",2013,90
+4,11,1106,2,446,1,1,6,"SHARP  CHANGE  IN  PRICES         06",2015,80
+4,11,1106,2,446,1,2,3,"CROP  DISEASE/PESTS          03",2014,70
+4,11,1106,2,446,2,2,11,"DEVELOPMENT PROJECT11",2013,80
+4,11,1106,2,446,2,1,14,"NEW ROAD        14",2013,95
+4,11,1107,2,1034,1,2,4,"LIVESTOCK DISEASE            04",2012,80
+4,11,1107,2,1034,1,1,6,"SHARP CHANGE IN PRICE   06",2015,95
+4,11,1107,2,1034,2,1,14,"NEW ROAD   15",2015,75
+4,11,1108,2,492,1,2,6,"SHARP CHANGE IN PRICE",2015,70
+4,11,1108,2,492,1,1,3,"CROPS DISEASE/PESTS",2014,80
+4,11,1108,2,492,2,1,17,"ON.GRID  ELECTRICITY",2013,80
+4,11,1109,2,672,1,3,4,"LIVESTOCK  DISEASE                         04",2012,80
+4,11,1109,2,672,1,2,9,"POWER OUTAGE                                  09",2014,95
+4,11,1109,2,672,1,1,6,"SHARP CHANGE IN PRICES             06",2015,90
+4,11,1109,2,672,2,1,14,"NEW ROAD                  14",2010,90
+4,11,1109,2,672,2,2,11,"DEVELOMENT PROJECT               11",2012,90
+4,11,1110,2,714,1,1,6,"SHARP CHANGE l N PRICES    06",2015,98
+4,11,1110,2,714,2,1,13,"NEW HEALTH FACILITY    13",2013,90
+4,11,1110,2,2752,1,1,6,"SHARP CHANGE IN PRICES      06",2015,95
+4,11,1110,2,2752,1,2,3,"CROP DISEASE/PESTS  04",2014,70
+4,11,1110,2,2752,2,2,16,"IMPROVED TRANSPORTATION SERVICE S  16",2014,95
+4,11,1110,2,2752,2,1,14,"NEW ROAD    14",2013,100
+4,11,1112,2,78,1,2,6,"SHARP CHANGE IN PRICES",2014,80
+4,11,1112,2,78,1,1,4,"LIVESTOCK DISEASE",2013,30
+4,11,1112,2,78,2,1,17,"ON GRID ELECTRICITY",2011,50
+4,11,1112,2,1952,1,1,6,"SHARP CHANGE IN PRICES                06",2015,95
+4,11,1112,2,1952,1,2,3,"CROP DISEASE /PESTS                      03",2013,80
+4,11,1112,2,1952,2,1,14,"NEW ROAD         14",2013,90
+4,11,1112,2,1952,2,2,16,"IMPROVED TRANSPORTATION SERVICE        16",2013,95
+4,11,1113,2,954,1,2,3,"CROPS DISEASE /PESTS           03",2013,80
+4,11,1113,2,954,1,1,6,"SHARP CHANGE lN PRICES        06",2015,95
+4,11,1113,2,954,2,2,17,"ON.GRID ELECTRICITY                17",2014,50
+4,11,1113,2,954,2,1,11,"DEVELOPMENT PROJECT          11",2013,85
+5,12,1202,1,2146,1,1,2,"flood",2015,98
+5,12,1202,1,2146,1,2,9,"Epileptic power  suppy",2015,98
+5,12,1202,1,2146,2,1,11,"Drainage",2014,93
+5,12,1202,1,2710,1,1,9,"Loss  of power and water facilities",2011,95
+5,12,1202,1,2710,2,2,17,"construction of power supply",2014,90
+5,12,1202,1,2710,2,1,14,"construction of road and po",2016,80
+5,12,1204,2,736,1,2,8,"No potable water",2010,98
+5,12,1204,2,736,1,1,10,"Death of a member",2015,60
+5,12,1204,2,736,2,2,19,"Transportation",2014,95
+5,12,1204,2,736,2,1,17,"Power Supply",2013,90
+5,12,1208,2,526,1,2,2,"Flood",2008,85
+5,12,1208,2,526,1,1,6,"Bad road",2011,90
+5,12,1208,2,526,2,1,13,"Mini health centre",2013,95
+5,12,1210,2,462,1,2,10,"Bad Road",2011,70
+5,12,1210,2,462,1,1,9,"Power Outage",2015,96
+5,12,1210,2,462,1,3,8,"No network Communication",2000,100
+5,12,1210,2,462,2,1,16,"Improve Transport means",2015,87
+5,12,1211,1,2220,1,1,2,"Flooding",2015,95
+5,12,1211,1,2220,1,2,9,"Epileptic power supply",2015,99
+5,12,1211,1,2220,2,1,11,"Drainage",2015,50
+5,12,1211,1,2856,1,1,3,"Crop failures",2015,75
+5,12,1211,1,2856,1,2,9,"Power outage",2015,98
+5,12,1211,1,2856,1,3,2,"Bad road",2015,98
+5,12,1211,1,2856,2,1,19,"Road maintenance",2016,68
+5,12,1212,1,1392,1,3,9,"power outage",2015,100
+5,12,1212,1,1392,1,2,10,"Bad road",2013,95
+5,12,1212,1,1392,1,1,2,"Flood",2014,98
+5,12,1212,1,1392,2,1,11,"water bore hole",2014,80
+5,12,1214,2,452,1,3,8,"No Telecom Network",2010,80
+5,12,1214,2,452,1,2,9,"Power Outage",2012,95
+5,12,1214,2,452,1,1,2,"Bad road",2010,85
+5,12,1214,2,452,2,1,12,"Good farm land",2008,90
+5,12,1216,2,618,1,4,8,"No Medical Facilities",1987,100
+5,12,1216,2,618,1,3,8,"No school.",1987,100
+5,12,1216,2,618,1,2,9,"No  Electricity.",1987,100
+5,12,1216,2,618,1,1,2,"Bad Road",1987,100
+5,12,1216,2,618,2,1,12,"Sufficient farm land.",1990,100
+6,13,1301,1,1206,1,2,6,"HIGH COST OF COMMODITIES IN THE MARKET",2015,80
+6,13,1301,1,1206,1,1,9,"CONSTANT POWER FAILURE.",2015,85
+6,13,1301,1,1206,2,2,19,"CONSTRUCTION OF NEW MARKET.",2015,80
+6,13,1301,1,1206,2,1,17,"CONSTRUCTION OF STREET LIGHTS",2014,90
+6,13,1303,1,626,1,1,8,"Bad road",2014,85
+6,13,1303,1,626,1,2,8,"Fire distroy farm land/crop",2015,70
+6,13,1303,1,626,1,3,6,"High cost of food prices",2016,90
+6,13,1303,1,626,2,1,13,"Building of new healt centre",2014,75
+6,13,1305,2,10,1,1,2,"Gurlly erosion.",2014,80
+6,13,1305,2,10,2,2,11,"Construction of drainage round the community.",2015,90
+6,13,1305,2,10,2,1,14,"Construction of new road",2015,90
+6,13,1305,1,1232,1,1,8,"Relocaion of the only commercial bank in the community to Ado Ekiti.",2014,85
+6,13,1305,1,1232,1,2,10,"Wind blow that removed building's roof",2016,20
+6,13,1305,1,1232,2,1,19,"Installation of the new king",2015,95
+6,13,1307,1,268,1,1,9,"Disconnection of the town electricity from national grid",2014,95
+6,13,1307,1,268,2,1,13,"Building of health centre",2014,80
+6,13,1309,2,674,1,1,10,"Fire disaster thst destroyed farm.",2015,40
+6,13,1309,2,674,2,1,19,"Bountiful harvesting of farm produced.",2014,80
+6,13,1310,1,1300,1,1,8,"Fire disaster that destroyed  farm crop",2016,70
+6,13,1310,1,1300,2,1,11,"Building of new market",2015,90
+6,13,1310,1,1300,2,2,14,"Construction of new road",2015,95
+6,13,1314,1,6,1,2,8,"Bad roads",2014,85
+6,13,1314,1,6,1,1,9,"Constant Power outrage",2015,90
+6,13,1314,1,6,2,1,13,"Building of new health facility",2015,60
+4,14,1401,2,1116,1,1,3,"Crop failure",2012,100
+4,14,1401,2,1116,1,3,6,"High prices of goods",2016,100
+4,14,1401,2,1116,1,2,2,"Flood",2015,100
+4,14,1401,2,1116,1,4,1,"Drought",2013,100
+4,14,1401,2,1116,2,1,17,"On grid electricity",2013,100
+4,14,1403,1,34,1,1,10,"Lack of potable water supply",2013,100
+4,14,1403,1,34,1,3,10,"Insufficient paved road network",2013,60
+4,14,1403,1,34,1,2,9,"Insufficient power supply",2012,100
+4,14,1403,1,34,2,2,19,"Admission into schools",2013,60
+4,14,1403,1,34,2,3,12,"Political office positios",2013,25
+4,14,1403,1,34,2,1,12,"Self employment",2014,50
+4,14,1404,1,96,1,1,10,"No developmental plan  for them by the government",2015,100
+4,14,1404,1,96,1,2,6,"High prices of goods and services",2016,100
+4,14,1404,1,96,1,3,10,"Lack of sanitation facilities",2013,100
+4,14,1404,1,96,2,2,19,"Constant supply of pipeborne  water",2012,100
+4,14,1404,1,96,2,1,17,"Constant electricity",2015,100
+4,14,1404,1,96,2,3,19,"High security of lives and properties",2014,100
+4,14,1406,2,694,1,1,10,"Stealing of our water pump",2016,100
+4,14,1406,2,694,1,2,6,"General  increase in prices of goods and services",2016,100
+4,14,1406,2,694,1,3,9,"Off grid electricity",2013,100
+4,14,1406,2,694,2,3,19,"Installation of street lights by one of our daughters",2014,100
+4,14,1406,2,694,2,2,19,"Our daughter is the deputy governor",2015,100
+4,14,1406,2,694,2,1,19,"Provision of transformers by one of our sons",2016,100
+4,14,1407,2,68,1,2,6,"SHARP CHANGE IN PRICES",2016,100
+4,14,1407,2,68,1,3,2,"FLOOD",2012,50
+4,14,1407,2,68,1,4,10,"FIRE OUTBREAK",2016,55
+4,14,1407,2,68,1,1,1,"DROUGHT",2013,100
+4,14,1407,2,68,2,2,17,"ON-GRID ELECTRICITY",2015,100
+4,14,1407,2,68,2,1,14,"NEW ROAD",2015,100
+4,14,1408,2,968,1,2,9,"Power Outages",2014,100
+4,14,1408,2,968,1,3,6,"Sharp changes in prices",2015,100
+4,14,1408,2,968,1,1,1,"Drought",2013,75
+4,14,1408,2,968,2,1,13,"New health Facility",2014,100
+4,14,1408,2,968,2,2,14,"New road",2015,90
+4,14,1408,2,968,2,3,16,"lmproved transportation",2015,90
+4,14,1408,2,1996,1,2,1,"Drought",2014,50
+4,14,1408,2,1996,1,3,6,"Price fluctuations",2015,100
+4,14,1408,2,1996,1,1,5,"Disease epidemics",2015,75
+4,14,1408,2,1996,2,3,17,"Transformers were installed.",2015,100
+4,14,1408,2,1996,2,1,11,"Bore hore",2013,100
+4,14,1408,2,1996,2,2,12,"Community  members in key positions in government",2015,25
+4,14,1410,2,236,1,4,3,"CROP DISEASE/PESTS",2015,50
+4,14,1410,2,236,1,1,1,"DROUGHT",2012,100
+4,14,1410,2,236,1,2,6,"HIGH PRICES OF GOODS AND SERVICES",2016,100
+4,14,1410,2,236,1,3,10,"DEATH",2015,25
+4,14,1410,2,236,2,1,17,"ON-GRID ELECTRICITY",2016,100
+4,14,1411,2,1066,1,2,10,"Low income from the sale of farm produce",2016,100
+4,14,1411,2,1066,1,1,10,"Destruction of crops by Fulani herdsmen",2016,100
+4,14,1411,2,1066,1,3,10,"No source of drinking water",30,100
+4,14,1411,2,1066,1,4,6,"High prices of goods and services",2016,100
+4,14,1411,2,1066,2,1,17,"On grid electricity",2012,100
+4,14,1413,2,670,1,1,3,"Crop failure",2012,75
+4,14,1413,2,670,1,3,10,"Bad attitude of teachers",2012,100
+4,14,1413,2,670,1,2,10,"Unemployment",2013,50
+4,14,1413,2,670,2,2,19,"Peaceful co-existence",2011,100
+4,14,1413,2,670,2,1,19,"Bore hole construction",2014,100
+4,14,1413,1,2578,1,1,10,"Crop Failure",2012,100
+4,14,1413,1,2578,1,2,6,"Sharp increase in prices of goods",2016,100
+4,14,1413,1,2578,2,1,17,"Electricity Installation",2015,100
+4,14,1415,2,156,1,3,6,"High prices of goods and services",2016,100
+4,14,1415,2,156,1,2,3,"Crop failures",2014,100
+4,14,1415,2,156,1,1,10,"Low demand for goods and services",2015,75
+4,14,1415,2,156,2,1,11,"Constant water supply",2015,100
+4,14,1415,2,156,2,2,12,"Employment Opportunities",2015,50
+4,14,1415,2,952,1,1,10,"Stealing of our  water pump(engine)",2012,100
+4,14,1415,2,952,1,2,10,"Assassination of our former king",2014,75
+4,14,1415,2,952,2,1,19,"Our son is now the governor",2015,80
+4,14,1415,2,952,2,2,19,"Church building by one of our sons",2015,75
+4,14,1416,2,2314,1,1,3,"Crop failures",2014,75
+4,14,1416,2,2314,1,2,6,"High prices of goods and services",2016,100
+4,14,1416,2,2314,1,3,1,"Drought",2013,50
+4,14,1416,2,2314,2,1,19,"Construction of boreholes",2012,100
+4,14,1416,2,2314,2,2,17,"On  grid electricity",2014,100
+2,15,1502,2,590,1,1,10,"lost of key member of the community",2015,100
+2,15,1502,2,590,1,3,5,"Disease epidemics",2015,90
+2,15,1502,2,590,1,2,1,"crop failure",2015,98
+2,15,1502,2,590,2,2,19,"Enough Immunisation for our children's",2015,100
+2,15,1503,2,634,1,1,5,"Measeals",2014,40
+2,15,1503,2,634,1,3,6,"High cost materials",2015,100
+2,15,1503,2,634,1,2,1,"Crop failure",2015,60
+2,15,1503,2,634,2,1,14,"Road Construction",2014,100
+2,15,1506,1,148,1,1,10,"Boko Haram",2015,100
+2,15,1506,1,148,2,1,14,"Construction of new road",2013,100
+2,15,1506,1,148,2,2,11,"Renovation of Schools",2014,100
+2,15,1506,1,398,1,2,6,"Lack of money",2016,90
+2,15,1506,1,398,1,3,7,"No employment",2015,60
+2,15,1506,1,398,1,1,6,"High cost leaving",2015,80
+2,15,1506,1,398,2,1,14,"Road construction",2015,99
+2,15,1506,1,398,2,2,13,"Renovation of health facility",2015,85
+2,15,1507,2,458,1,1,10,"lost key members of the community",2015,70
+2,15,1507,2,458,1,2,6,"High cost leving",2015,100
+2,15,1507,2,458,2,1,11,"nothig was done",2013,100
+2,15,1508,2,1682,1,3,10,"No employment",2015,70
+2,15,1508,2,1682,1,2,7,"Job is only seasonal",2016,60
+2,15,1508,2,1682,1,4,6,"High cost leaving",2016,60
+2,15,1508,2,1682,1,1,6,"High cost leaving",2015,70
+2,15,1508,2,1682,2,1,19,"Bumper harvest",2015,90
+2,15,1510,2,616,1,2,6,"High cost living",2015,70
+2,15,1510,2,616,1,1,1,"Crop failure",2015,70
+2,15,1510,2,616,2,2,13,"Up grading of Dispensary to Health centre",2014,100
+2,15,1510,2,616,2,1,11,"Construction of new footpath to Galdimaru by the community",2016,95
+2,15,1511,2,1938,1,1,2,"Crop failure",2010,40
+2,15,1511,2,1938,2,3,11,"Computer centre",2015,50
+2,15,1511,2,1938,2,1,16,"Construction of kuri bridge",2014,100
+2,15,1511,2,1938,2,2,16,"construction of new road",2014,100
+4,16,1601,2,954,1,1,2,"Flood 02",2015,100
+4,16,1601,2,954,1,3,10,"Other bad 10 Lack of Health Center",2012,100
+4,16,1601,2,954,1,2,6,"Sharp Change in prices 06",2016,100
+4,16,1601,2,954,2,1,14,"New Road 14",2015,100
+4,16,1601,2,954,2,3,17,"On Grid Electricity 17",2013,80
+4,16,1601,2,954,2,2,16,"Improved Transportation Service 16",2015,100
+4,16,1602,2,1576,1,1,3,"sharp change in prices",2015,75
+4,16,1602,2,1576,1,2,3,"Crop disease/pests",2014,50
+4,16,1602,2,1576,1,3,9,"Power Outage",2013,100
+4,16,1602,2,1576,1,4,6,"Charp change in prices",2013,75
+4,16,1602,2,1576,2,2,19,"Provision drinkable water",2015,75
+4,16,1602,2,1576,2,1,14,"Construction of new road",2013,50
+4,16,1603,2,158,1,2,6,"Sharp change in price",2016,100
+4,16,1603,2,158,1,3,9,"Power outage (s)",2014,100
+4,16,1603,2,158,1,1,2,"Flood",2012,100
+4,16,1603,2,158,2,2,19,"Other (good)Vaccination for children",2013,100
+4,16,1603,2,158,2,1,17,"On grid Electricity",2013,100
+4,16,1605,2,180,1,1,6,"Sharp change in prices 06",2014,100
+4,16,1605,2,180,1,3,2,"Flood",2014,100
+4,16,1605,2,180,1,2,10,"Other Bad Lack of water",2012,100
+4,16,1605,2,180,2,1,14,"New Road 14",2015,100
+4,16,1605,2,180,2,2,16,"Improved Transportation Services 16",2015,100
+4,16,1606,2,590,1,2,6,"Price Fluctuations",2015,85
+4,16,1606,2,590,1,1,9,"Power  Outage",2013,85
+4,16,1606,2,590,2,1,14,"Construction  of New  Roads",2014,100
+4,16,1608,2,1104,1,1,6,"Price  Fluctuations",2015,80
+4,16,1608,2,1104,2,1,14,"Construction of new  road",2014,85
+4,16,1609,2,738,1,1,6,"Price Fluctuations",2016,80
+4,16,1609,2,738,2,1,14,"construction of  new Road",2014,100
+4,16,1610,2,1006,1,2,9,"Power   Outages",2015,95
+4,16,1610,2,1006,1,1,6,"Price Fluctuations",2015,75
+4,16,1610,2,1006,2,1,11,"Construction of new market stalls",2014,85
+4,16,1612,2,108,1,1,2,"Flood 01",2013,100
+4,16,1612,2,108,1,3,10,"Other Bad. Bad Road 10",2014,100
+4,16,1612,2,108,1,2,6,"Shape change in prices 06",2015,100
+4,16,1612,2,108,2,2,19,"Other good. Borehole 19",2012,100
+4,16,1612,2,108,2,1,17,"On Grid Electricity 17",2012,100
+4,16,1612,2,108,2,3,16,"Improved Transportation Services 16",2014,100
+4,16,1612,2,414,1,1,6,"Price Fluctuations",2016,75
+4,16,1612,2,414,1,2,8,"Loss of  key  social services",2015,75
+4,16,1612,2,414,2,1,14,"Construction of new road",2014,100
+4,16,1613,2,440,1,2,6,"Shape Change in prices 06",2014,100
+4,16,1613,2,440,1,3,10,"Other Bad 10 Lack of Water",2012,100
+4,16,1613,2,440,1,1,2,"Flood 02",2013,100
+4,16,1613,2,440,2,2,13,"New Health Facility 13",2014,100
+4,16,1613,2,440,2,1,17,"On Grid Electricity 17",2013,100
+4,16,1613,2,440,2,3,16,"Improved Transportation Services 16",2014,100
+4,16,1616,2,296,1,3,9,"Power outage (s)09",2013,100
+4,16,1616,2,296,1,1,9,"Sharp change in prices 06",2016,100
+4,16,1616,2,296,1,2,2,"Flood 02",2014,18
+4,16,1616,2,296,2,1,14,"New Road14",2013,100
+4,16,1616,2,296,2,2,16,"Improved Transportation Services 16",2013,100
+4,16,1616,2,296,2,3,17,"On Grid Electricity 17",2014,100
+4,16,1618,2,1060,1,1,6,"Sharp Change in prices 06",2015,100
+4,16,1618,2,1060,1,3,2,"Flood 02",2013,100
+4,16,1618,2,1060,1,2,9,"Power Outage (s) 09",2013,100
+4,16,1618,2,1060,2,3,19,"Other (Good) 19 Boreholes",2012,100
+4,16,1618,2,1060,2,1,13,"New Road 14",2015,100
+4,16,1618,2,1060,2,2,16,"Improved Transportation Services 16",2015,100
+4,16,1620,2,106,1,3,9,"Power outage (s)09",2013,100
+4,16,1620,2,106,1,2,6,"Sharp change in prices 06",2014,100
+4,16,1620,2,106,1,1,2,"Flood 01",2013,100
+4,16,1620,2,106,2,1,14,"New Road14",2013,100
+4,16,1620,2,106,2,3,19,"Other good 19 Maintenance of school",2014,100
+4,16,1620,2,106,2,2,16,"Improved Transportation services 16",2014,100
+4,16,1622,2,18,1,1,6,"Price Fluctuations",2016,85
+4,16,1622,2,18,2,1,19,"Provision of new bore hole",2015,75
+4,16,1624,1,136,1,1,10,"Deplorable  State  of the Roads",2013,75
+4,16,1624,1,136,2,1,19,"None",2015,100
+4,16,1624,1,286,1,1,9,"Epileptic  Power  Supply",2015,90
+4,16,1624,1,286,1,2,6,"Sharp Change  in  Prices",2015,90
+4,16,1624,1,286,2,1,14,"New  Road  Construction",2014,85
+4,16,1625,2,1210,1,1,2,"Flood 01",2012,100
+4,16,1625,2,1210,1,3,9,"Power outage (s)09",2013,100
+4,16,1625,2,1210,1,2,6,"Sharp Change in Price 06",2015,100
+4,16,1625,2,1210,2,2,14,"New Road 14",2012,100
+4,16,1625,2,1210,2,1,15,"New School 15",2012,100
+4,16,1625,2,1210,2,3,13,"New Health Facility 13",2015,100
+4,16,1626,2,1546,1,1,2,"Flood 01",2012,90
+4,16,1626,2,1546,1,2,6,"Sharpe Change in Prices 06",2014,100
+4,16,1626,2,1546,1,3,9,"Power Outage (s)09",2013,100
+4,16,1626,2,1546,2,3,16,"Improved Transportation Services 16",2012,100
+4,16,1626,2,1546,2,2,15,"New School 15",2012,100
+4,16,1626,2,1546,2,1,13,"New Health Facility 13",2014,100
+3,17,1702,2,510,1,1,6,"Inflation",2016,100
+3,17,1702,2,510,1,2,1,"Drought",2015,50
+3,17,1702,2,510,2,1,11,"New Mosque",2015,100
+3,17,1702,2,510,2,2,19,"Good security",2016,100
+3,17,1704,2,1080,1,1,2,"Water Flood",2015,50
+3,17,1704,2,1080,2,1,19,"Good Security",2015,100
+3,17,1704,1,2074,1,1,6,"lnflation",2015,100
+3,17,1704,1,2074,1,2,10,"Insecurity",2014,100
+3,17,1704,1,2074,2,1,19,"Adequate security",2016,100
+3,17,1706,2,284,1,1,6,"price fluctuations",2015,90
+3,17,1706,2,284,2,1,19,"security",2015,90
+3,17,1710,2,546,1,2,2,"Flooding",2015,40
+3,17,1710,2,546,1,1,10,"Robbery",2015,10
+3,17,1710,2,546,2,1,11,"Portable Water",2015,100
+3,17,1710,2,546,2,2,12,"Employments",2016,100
+3,17,1712,2,794,1,2,4,"Livestock Death",2015,60
+3,17,1712,2,794,1,1,1,"Drought",2015,50
+3,17,1712,2,794,1,3,6,"Inflation",2016,100
+3,17,1712,2,794,2,2,11,"Water pump (solar system)",2014,100
+3,17,1712,2,794,2,1,18,"Electricity",2014,100
+3,17,1713,1,226,1,1,2,"Flooding",2015,40
+3,17,1713,1,226,1,2,6,"Inflation rate",2016,100
+3,17,1713,1,226,2,2,15,"New School",2016,100
+3,17,1713,1,226,2,1,19,"Good security",2016,100
+3,17,1715,2,2244,1,1,6,"Inflation",2015,100
+3,17,1715,2,2244,1,2,10,"Insecurity",2014,100
+3,17,1715,2,2244,2,1,19,"Good security",2016,100
+3,17,1716,2,1452,1,2,6,"Inflation",2015,100
+3,17,1716,2,1452,1,1,10,"Houses Demolished",2015,40
+3,17,1716,2,1452,2,1,19,"Good Security",2015,100
+3,17,1719,2,1354,1,2,1,"Drought",2015,40
+3,17,1719,2,1354,1,1,10,"Houses Demolished",2015,20
+3,17,1719,2,1354,2,1,13,"Primary Health Center",2014,100
+3,17,1722,2,96,1,2,6,"Inflation",2016,100
+3,17,1722,2,96,1,1,2,"Flood",2015,60
+3,17,1722,2,96,2,1,15,"New School",2015,100
+3,17,1724,2,786,1,1,6,"Inflation",2016,100
+3,17,1724,2,786,2,2,14,"New Road",2016,100
+3,17,1724,2,786,2,1,11,"Portable Water",2015,100
+3,17,1727,2,634,1,3,1,"Drought",2015,60
+3,17,1727,2,634,1,1,10,"Destroyed of sources of portable water",2015,100
+3,17,1727,2,634,1,2,6,"Inflation",2015,100
+3,17,1727,2,634,2,1,19,"Good security",2015,100
+3,17,1727,2,634,2,2,11,"Portable water",2013,100
+3,18,1803,2,840,1,1,10,"lack of fertilizer",2014,50
+3,18,1803,2,840,1,2,10,"lack of employment",2015,38
+3,18,1803,2,840,2,1,19,"enough rainfall",2015,90
+3,18,1804,1,2690,1,1,10,"lack of employment",2014,54
+3,18,1804,1,2690,1,2,10,"lack of credits",2014,85
+3,18,1804,1,2690,2,2,11,"peace",2015,95
+3,18,1804,1,2690,2,1,12,"electricity",2015,74
+3,18,1804,1,2690,2,3,19,"drinking water",2014,82
+3,18,1805,2,534,1,3,10,"lack of money to start business",2013,42
+3,18,1805,2,534,1,2,8,"lack of school",2013,35
+3,18,1805,2,534,1,1,8,"lack of water",2014,100
+3,18,1805,2,534,2,1,16,"better yield",2013,45
+3,18,1808,2,1726,1,4,10,"conflict",2015,15
+3,18,1808,2,1726,1,1,10,"death",2015,15
+3,18,1808,2,1726,1,2,2,"flood",2014,30
+3,18,1808,2,1726,1,3,10,"lack of fertiliser",2015,65
+3,18,1808,2,1726,2,1,19,"good harvest",2015,56
+3,18,1808,2,1726,2,2,11,"community assisstance",2014,50
+3,18,1809,1,1272,1,2,10,"lack of credit",2014,45
+3,18,1809,1,1272,1,1,10,"lack of employment",2015,50
+3,18,1809,1,1272,1,3,10,"lack of business opportunities",2014,35
+3,18,1809,1,1272,2,1,14,"availability of roads",2015,72
+3,18,1809,1,1272,2,2,11,"improved security",2015,90
+3,18,1811,2,364,1,1,8,"lack of loan for biz.",2014,64
+3,18,1811,2,364,2,1,12,"availability of enployment",2013,20
+3,18,1811,2,364,2,2,19,"good harvest",2014,51
+3,18,1814,2,678,1,2,10,"lack of fertiliser",2014,43
+3,18,1814,2,678,1,1,10,"poor harvest",2014,50
+3,18,1814,2,678,1,3,10,"lack of credit to start businesses",2014,72
+3,18,1814,2,678,2,1,19,"good health",2015,75
+3,18,1816,1,378,1,1,10,"robbery",2015,20
+3,18,1816,1,378,1,2,10,"lack of fertilizer",2014,80
+3,18,1816,1,378,2,1,19,"good rainfall",2014,75
+3,18,1817,2,370,1,1,10,"lack of fertiler",2014,87
+3,18,1817,2,370,1,2,10,"lack of employments",2014,38
+3,18,1817,2,370,2,1,19,"good rainfall",2015,90
+3,18,1820,2,450,1,1,10,"conflict",2015,42
+3,18,1820,2,450,2,1,16,"good harvest",2015,72
+3,18,1822,2,1654,1,1,10,"conflicts",2011,5
+3,18,1822,2,1654,2,1,14,"road construction",2012,100
+3,18,1823,1,1822,1,3,9,"lack of electricity",2015,96
+3,18,1823,1,1822,1,1,10,"lack of employments",2014,42
+3,18,1823,1,1822,1,2,10,"none availability of loans",2014,57
+3,18,1823,1,1822,1,4,10,"lack of petrol",2016,90
+3,18,1823,1,1822,2,1,11,"improved security",2015,90
+3,19,1901,2,640,1,1,4,"death of  our Animals",2016,100
+3,19,1902,2,52,1,3,8,"lack of good road",1980,100
+3,19,1902,2,52,1,1,8,"lack of school for our children",1980,100
+3,19,1902,2,52,1,2,5,"lack of clinic or hospitals",1980,100
+3,19,1905,2,1290,1,2,8,"LACK OF SCHOOLS",2011,45
+3,19,1905,2,1290,1,3,6,"PROPOSED FCE PERMANENT SITE",2016,45
+3,19,1905,2,1290,1,1,1,"DROUGHT",2015,50
+3,19,1905,2,1290,2,1,12,"PEACE SURFACE",2015,75
+3,19,1905,2,1290,2,2,16,"Good Price of farm produced",2016,55
+3,19,1905,2,1290,2,3,11,"MINI E walet Fertilizer Allocation",2014,50
+3,19,1908,2,284,1,1,4,"FULAN  FARMERS CLASHES",2014,45
+3,19,1908,2,284,1,3,1,"INSUFFICIENT RAIN FALL",2015,45
+3,19,1908,2,284,1,2,5,"MALARIA FEVER",2015,50
+3,19,1908,2,284,2,2,12,"PEACE I IN URBAN",2016,75
+3,19,1908,2,284,2,1,12,"GOOD PRICE OF FARM PRODUCED",2015,50
+3,19,1908,2,284,2,3,12,"GOOD TRANSPORT",2014,45
+3,19,1910,2,808,1,1,6,"Lack of good market",2015,55
+3,19,1910,2,808,1,3,6,"Poor market",2016,60
+3,19,1910,2,808,1,2,9,"Non Peace",2015,40
+3,19,1910,2,808,2,3,12,"Involved In own business",2014,40
+3,19,1910,2,808,2,2,12,"Partispation In Irrigation",2014,45
+3,19,1910,2,808,2,1,16,"Peace occuaran",2016,75
+3,19,1912,1,1510,1,3,7,"Un employed graduate",2014,45
+3,19,1912,1,1510,1,1,5,"Drug  Abuse",2014,35
+3,19,1912,1,1510,1,2,6,"Hugh Coast Of Food PrIce",2015,65
+3,19,1912,1,1510,2,2,11,"New Girls Secondary School",2015,50
+3,19,1912,1,1510,2,3,11,"Re opened Of Motor Park",2014,40
+3,19,1912,1,1510,2,1,12,"New Additional Market",2015,45
+3,19,1914,2,934,1,1,3,"high price of food stuff",2016,80
+3,19,1914,2,934,2,1,19,"Jumma'a Mosque",2010,100
+3,19,1916,2,1516,2,3,12,"microfinance bank",2014,100
+3,19,1916,2,1516,2,2,15,"Building of 6 classes in our school by kwankwasiya",2015,100
+3,19,1916,2,1516,2,1,19,"Building of mosque",2014,100
+3,19,1916,2,1516,,1,,"Nil",,
+3,19,1919,2,366,1,2,6,"LACK SUFFICIENT FERTILIZER",2014,50
+3,19,1919,2,366,1,1,6,"POVERTY",2015,55
+3,19,1919,2,366,1,3,7,"LzCK OF MANUFACURIIN G INDUSTRY",2014,50
+3,19,1919,2,366,2,3,11,"DEVELOPED PROGRAM",2014,45
+3,19,1919,2,366,2,2,12,"GOOD  HARVEST",2014,50
+3,19,1919,2,366,2,1,16,"PEACE",2015,50
+3,19,1921,1,842,1,1,6,"Boko Haram",2009,85
+3,19,1921,1,842,1,3,6,"high rise of fuel",2015,60
+3,19,1921,1,842,1,2,6,"rise of dolas",2015,95
+3,19,1921,1,842,2,1,12,"destroying of boko haram",2015,100
+3,19,1923,2,284,1,2,6,"""Lack Of Sufficient Money at hands """,2015,75
+3,19,1923,2,284,1,3,8,"Lack Of Sufficient farming Input",2015,50
+3,19,1923,2,284,1,1,6,"High Coast Of Food Price",2016,80
+3,19,1923,2,284,2,3,16,"Good Price Of Farm Produced",2016,55
+3,19,1923,2,284,2,1,12,"Peace In Urban area",2015,50
+3,19,1923,2,284,2,2,12,"Sufficient Farm Produced",2014,55
+3,19,1925,1,2858,1,2,8,"Distance of primary school",2015,50
+3,19,1925,1,2858,1,3,8,"poor price of farm produced",2013,50
+3,19,1925,1,2858,1,1,6,"Lack of Sufficient Feterlizer",2014,60
+3,19,1925,1,2858,2,3,12,"Peace surface",2016,70
+3,19,1925,1,2858,2,2,12,"Fertilizer  G s m Alocation",2014,50
+3,19,1925,1,2858,2,1,11,"Good Road",2013,70
+3,19,1925,2,3394,1,1,6,"polities",2016,80
+3,19,1925,2,3394,2,1,16,"construction of road",2014,100
+3,19,1928,2,526,1,1,2,"Flood",2014,35
+3,19,1928,2,526,1,2,2,"lost of land",2015,30
+3,19,1928,2,526,2,1,14,"Good  Road",2015,75
+3,19,1928,2,526,2,2,12,"Good  River",2014,65
+3,19,1932,2,562,1,1,6,"POVERTY LEVEL",2015,60
+3,19,1932,2,562,1,3,7,"IN SECURITY",2014,45
+3,19,1932,2,562,1,2,3,"PRICE OF FERTILIZER",2014,50
+3,19,1932,2,562,2,3,16,"PEACE",2015,75
+3,19,1932,2,562,2,2,14,"ROAD PROJECT",2016,55
+3,19,1932,2,562,2,1,12,"ELECTRICITY",2016,45
+3,19,1934,2,386,1,1,6,"POVERTY",2015,55
+3,19,1934,2,386,1,2,8,"POOR DRY SEASON PRODUCED PRICE",2016,50
+3,19,1934,2,386,1,3,6,"HIGH  COAST   OF FERTILIZER",2015,60
+3,19,1934,2,386,2,2,11,"NEW ROAD",2014,85
+3,19,1934,2,386,2,1,11,"SOLAR INSTALLATION",2014,85
+3,19,1934,2,386,2,3,12,"URBAN  PEACE",2016,95
+3,19,1936,2,1994,1,1,8,"Arm Robbers",2016,100
+3,19,1936,2,1994,2,1,19,"bringing back our cattle robbers  stole",2016,100
+3,19,1937,2,432,1,1,7,"killing of the richest man in our community",2016,100
+3,19,1937,2,432,2,1,19,"""construction of borehole by (wash come) """,2016,100
+3,19,1941,2,518,2,1,11,"distribution of caws for farming",2015,100
+3,19,1943,2,668,1,1,10,"meases that kill our children",2015,80
+3,20,2001,2,1354,1,2,3,"Disease",2015,20
+3,20,2001,2,1354,1,1,1,"crop not good",2015,25
+3,20,2001,2,1354,1,3,3,"like of good seed",2015,15
+3,20,2001,2,1354,2,1,14,"O1",2014,25
+3,20,2001,2,1354,2,3,13,"03",2014,20
+3,20,2001,2,1354,2,2,11,"02",2015,20
+3,20,2003,2,784,1,4,1,"No better road",2010,2
+3,20,2003,2,784,1,3,3,"No water",2010,2
+3,20,2003,2,784,1,1,2,"crop failures",2014,1
+3,20,2003,2,784,1,2,3,"price fluctuations",2010,1
+3,20,2003,2,784,2,2,15,"school",2015,1
+3,20,2003,2,784,2,1,11,"Watet facilities",2014,1
+3,20,2005,2,970,1,1,8,"No good vater",2009,1
+3,20,2005,2,970,1,4,2,"No better road",2009,1
+3,20,2005,2,970,1,3,8,"No School",2010,1
+3,20,2005,2,970,1,2,5,"No medical facilities",2010,1
+3,20,2005,2,970,2,1,19,"Farming",2015,1
+3,20,2008,2,1474,1,2,4,"livestock",2015,25
+3,20,2008,2,1474,1,3,3,"CROP DISEASE",2015,20
+3,20,2008,2,1474,1,1,1,"DROUGHT",2014,20
+3,20,2008,2,1474,2,1,11,"01",2015,20
+3,20,2008,2,1474,2,4,13,"04",3015,20
+3,20,2008,2,1474,2,3,16,"O3",2015,35
+3,20,2008,2,1474,2,2,14,"02",2014,20
+3,20,2009,2,240,1,1,1,"Drougt",2015,20
+3,20,2009,2,240,1,3,1,"Crop Disease",2014,20
+3,20,2009,2,240,1,2,1,"livestock",2014,30
+3,20,2009,2,240,2,4,13,"O4",2014,20
+3,20,2009,2,240,2,3,15,"03",2015,20
+3,20,2009,2,240,2,1,11,"01",2014,20
+3,20,2009,2,240,2,2,14,"02",2014,20
+3,20,2012,1,844,1,1,3,"Pricces crop",2015,40
+3,20,2012,1,844,1,2,3,"crop failure",2014,30
+3,20,2012,1,844,2,2,11,"Good schools",2015,30
+3,20,2012,1,844,2,1,11,"Road construction",2015,40
+3,20,2013,2,1232,1,1,3,"Crop Failures",2015,30
+3,20,2013,2,1232,1,2,2,"Sharp change in prices",,20
+3,20,2013,2,1232,2,1,11,"03",2015,20
+3,20,2013,2,1232,2,2,13,"11",2015,15
+3,20,2015,2,1746,1,1,3,"crop failures",2014,1
+3,20,2015,2,1746,1,3,8,"No school",2010,1
+3,20,2015,2,1746,1,2,6,"food fluctuations",2016,1
+3,20,2015,2,1746,2,1,14,"New road",2010,1
+3,20,2015,2,1746,2,2,11,"No flood",2010,1
+3,20,2018,2,1134,1,3,8,"No School",2010,1
+3,20,2018,2,1134,1,2,5,"No Heath facilities",2010,5
+3,20,2018,2,1134,1,1,2,"No road",2010,1
+3,20,2018,2,1134,1,4,3,"Crop failure",2009,2
+3,20,2018,2,1134,2,1,11,"Water",210,1
+3,20,2019,2,344,1,1,2,"Drought",2015,25
+3,20,2019,2,344,1,2,2,"CROP DISEASE",2015,20
+3,20,2019,2,344,2,3,14,"08",2015,40
+3,20,2019,2,344,2,1,11,"01",2015,20
+3,20,2019,2,344,2,2,18,"06",2015,30
+3,20,2021,1,3300,1,3,3,"new employments",2014,2
+3,20,2021,1,3300,1,2,4,"medical",2014,5
+3,20,2021,1,3300,1,1,2,"food failures",2014,2
+3,20,2021,1,3300,1,4,3,"new road",2014,2
+3,20,2021,1,3300,2,1,11,"flood",2014,5
+3,20,2021,1,3300,2,3,12,"New employment",2014,30
+3,20,2021,1,3300,2,4,13,"Medical facilities",2014,5
+3,20,2021,1,3300,2,2,15,"New school",2014,10
+3,20,2022,2,1130,1,3,1,"No good road",2010,1
+3,20,2022,2,1130,1,4,8,"No better school",2010,1
+3,20,2022,2,1130,1,1,2,"flood",2010,1
+3,20,2022,2,1130,1,2,4,"livestock disease",2014,1
+3,20,2022,2,1130,2,1,11,"Good water",2014,1
+3,20,2022,2,1130,2,2,16,"No crop flood",2015,1
+3,20,2025,2,760,1,1,1,"Drought",2015,20
+3,20,2025,2,760,1,2,4,"Livestock disease",2015,25
+3,20,2025,2,760,2,1,11,"01",2015,30
+3,20,2025,2,760,2,2,14,"14",2015,30
+3,20,2025,2,760,2,3,16,"16",2015,30
+3,20,2025,2,1304,1,1,3,"01 02 03",2015,20
+3,20,2025,2,1304,2,2,11,"Drought",20,30
+3,20,2025,2,1304,2,3,11,"flood",2015,30
+3,20,2025,2,1304,2,1,11,"crop disease",2015,20
+3,20,2028,2,498,1,1,3,"poor crop",2015,20
+3,20,2028,2,498,2,1,11,"free seed",2013,40
+3,20,2028,2,498,,2,,"like of good road",2014,30
+3,20,2030,2,1050,1,2,4,"Disease epidemics",2015,1
+3,20,2030,2,1050,1,1,2,"crop flood",2014,1
+3,20,2030,2,1050,1,3,1,"No good road",2010,1
+3,20,2030,2,1050,2,3,19,"No robbery",2010,1
+3,20,2030,2,1050,2,1,15,"New school",2010,1
+3,20,2030,2,1050,2,2,13,"New clinic",2010,1
+3,20,2032,1,1390,1,2,3,"Crop  failures",2014,1
+3,20,2032,1,1390,1,3,6,"Price fluctuation",2015,1
+3,20,2032,1,1390,1,1,2,"Flood",2010,1
+3,20,2032,1,1390,1,4,4,"livestock Disease",2013,1
+3,20,2032,1,1390,2,1,11,"Water  supply",2010,1
+3,20,2032,1,1390,2,2,15,"NewSchool",2014,1
+3,20,2032,2,1772,1,3,8,"No  good school",2010,1
+3,20,2032,2,1772,1,2,6,"No raod",2012,1
+3,20,2032,2,1772,1,1,4,"No  water",2013,1
+3,20,2032,2,1772,2,1,16,"No  any event that  Better off",2014,1
+3,21,2102,2,1124,1,3,5,"Human epidemic disease",2015,50
+3,21,2102,2,1124,1,4,4,"Livestock disease",2015,60
+3,21,2102,2,1124,1,2,1,"Drought",2015,90
+3,21,2102,2,1124,1,1,2,"Flood",2015,50
+3,21,2102,2,1124,2,5,16,"Improved transportation services",2013,85
+3,21,2102,2,1124,2,2,13,"New health facility",2015,90
+3,21,2102,2,1124,2,4,12,"New employment opportunity",2014,72
+3,21,2102,2,1124,2,1,15,"New school",2015,85
+3,21,2106,2,236,1,8,9,"Power outages",2014,90
+3,21,2106,2,236,1,7,6,"Sharp change in prices",2016,100
+3,21,2106,2,236,1,6,5,"Human epidemic Disease",2014,55
+3,21,2106,2,236,1,5,2,"Flood",2016,80
+3,21,2106,2,236,2,4,12,"New employment opportunity",2016,80
+3,21,2106,2,236,2,6,13,"New health facility",2014,89
+3,21,2106,2,236,2,5,14,"New road",2015,95
+3,21,2106,2,236,2,3,16,"Improved transportation services",2015,95
+3,21,2106,2,2822,1,2,5,"Human epidemic disease",2015,50
+3,21,2106,2,2822,1,1,2,"Flood",2014,65
+3,21,2106,2,2822,1,4,2,"Flood",2015,85
+3,21,2106,2,2822,1,3,6,"Sharp change in prices",2016,100
+3,21,2106,2,2822,2,2,17,"On grid electricity",2015,95
+3,21,2106,2,2822,2,4,11,"Development project",2014,68
+3,21,2106,2,2822,2,3,14,"New roads",2014,70
+3,21,2106,2,2822,2,1,16,"Improved transportation services",2015,75
+3,21,2108,1,520,1,4,5,"Human epidemic disease",2015,55
+3,21,2108,1,520,1,1,3,"Crop Disease/pest",2014,50
+3,21,2108,1,520,1,2,2,"Flood",2015,75
+3,21,2108,1,520,1,3,6,"Sharp change in prices",2016,100
+3,21,2108,1,520,2,3,14,"New road",2015,100
+3,21,2108,1,520,2,2,16,"Improved transportation services",2014,100
+3,21,2108,1,520,2,1,17,"On Gride electricity",2014,90
+3,21,2108,1,520,2,4,15,"New school",2014,80
+3,21,2109,2,38,1,2,4,"Livestock diseases",2015,55
+3,21,2109,2,38,1,3,6,"Sharp change in prices",2015,100
+3,21,2109,2,38,1,4,6,"Sharp change in prices",2016,100
+3,21,2109,2,38,1,1,2,"Flood",2015,60
+3,21,2109,2,38,2,4,12,"New employment opportunity",2016,90
+3,21,2109,2,38,2,1,16,"Improved transportation services",2014,95
+3,21,2109,2,38,2,2,12,"New employment opportunity",2015,75
+3,21,2109,2,38,2,3,16,"Improved transportation services",2015,90
+3,21,2111,2,180,1,4,5,"Human epidemic disease",2014,50
+3,21,2111,2,180,1,5,4,"Livestock disease",2015,55
+3,21,2111,2,180,1,3,6,"Sharp change in prices",2015,100
+3,21,2111,2,180,1,1,2,"Flood",2015,65
+3,21,2111,2,180,2,4,17,"On grid electricity",2015,86
+3,21,2111,2,180,2,2,15,"New school",2013,75
+3,21,2111,2,180,2,3,11,"Improved development project",2015,65
+3,21,2111,2,180,2,1,12,"New employment opportunity",2014,80
+3,21,2115,2,926,1,1,1,"Drought",2015,100
+3,21,2115,2,926,1,4,3,"Crops disease/pest",2015,65
+3,21,2115,2,926,1,3,6,"Sharp change in prices",2016,100
+3,21,2115,2,926,1,2,2,"Flood",2014,80
+3,21,2115,2,926,2,1,11,"Development project",2015,50
+3,21,2115,2,926,2,2,12,"New employment opportunity",2014,75
+3,21,2115,2,926,2,4,15,"New school",2013,60
+3,21,2115,2,926,2,3,16,"Improved transportation services",2014,90
+3,21,2117,2,554,1,1,2,"Flood",2015,85
+3,21,2117,2,554,1,3,4,"Livestock disease",2014,65
+3,21,2117,2,554,1,2,1,"Drought",2015,90
+3,21,2117,2,554,1,4,6,"Sharp change in prices",2015,100
+3,21,2117,2,554,2,1,14,"New road",2015,100
+3,21,2117,2,554,2,2,12,"New employment opportunity",2016,75
+3,21,2117,2,554,2,3,16,"Improved transportation services",2015,90
+3,21,2117,2,554,2,4,15,"New school",2014,70
+3,21,2119,2,2146,1,2,1,"Drought",2016,65
+3,21,2119,2,2146,1,3,4,"Livestock disease",2014,60
+3,21,2119,2,2146,1,1,2,"Flood",2015,50
+3,21,2119,2,2146,1,4,3,"Crop disease/pest",2015,50
+3,21,2119,2,2146,2,2,15,"New school",2015,65
+3,21,2119,2,2146,2,1,17,"On Grid electricity",2015,70
+3,21,2119,2,2146,2,3,12,"New employment opportunity",2015,70
+3,21,2119,2,2146,2,4,16,"Improved transportation services",2014,60
+3,21,2119,2,3956,1,2,4,"Livestock disease",2015,70
+3,21,2119,2,3956,1,3,6,"Sharp change in prices",2015,100
+3,21,2119,2,3956,1,1,3,"Crop disease/pests",2014,65
+3,21,2119,2,3956,1,4,6,"Sharp change in prices",2016,100
+3,21,2119,2,3956,2,2,11,"Development project",2015,60
+3,21,2119,2,3956,2,4,15,"New school",2014,55
+3,21,2119,2,3956,2,1,12,"New employment opportunity",2015,75
+3,21,2119,2,3956,2,3,16,"Improved transpotation services",2014,80
+1,22,2201,2,422,1,1,7,"Unemployment",2014,20
+1,22,2201,2,422,2,1,19,"None",0,0
+1,22,2203,2,266,1,1,9,"lack of electricity",2014,100
+1,22,2203,2,266,2,1,19,"supply of fertilizer",2014,100
+1,22,2203,2,530,1,1,7,"Loss of job and cut in salary",2013,25
+1,22,2203,2,530,2,2,17,"better electricity supply",2015,70
+1,22,2203,2,530,2,1,19,"Increase in prices",2015,50
+1,22,2205,2,664,1,1,6,"Fall in prices of farm prodcts",2014,90
+1,22,2205,2,664,2,1,19,"Improved weather and good harvest",2015,90
+1,22,2205,2,2432,1,1,6,"Increase in price of fuel",2015,70
+1,22,2205,2,2432,1,2,10,"None payment of salary for five months",2015,20
+1,22,2205,2,2432,2,1,19,"increase in price of cashew nuts",2014,50
+1,22,2209,1,792,1,1,10,"Non payment of salary",2015,50
+1,22,2209,1,792,2,1,12,"availability of timber for sales",2012,25
+1,22,2211,2,594,1,1,3,"infertile land",2015,50
+1,22,2211,2,594,1,2,10,"cows eating crops in the farm",2014,25
+1,22,2211,2,594,2,1,16,"new road",2013,10
+1,22,2211,1,806,1,1,2,"flood",2014,30
+1,22,2211,1,806,2,1,12,"""employment, """,2015,20
+1,22,2214,2,1354,1,1,6,"no market for our farm crops",2,70
+1,22,2214,2,1354,2,1,19,"Improved Harvest",2015,70
+1,22,2216,1,428,1,2,10,"destruction of crops by herdsmen",2015,80
+1,22,2216,1,428,1,1,7,"Unemployment",2014,15
+1,22,2216,1,428,2,1,19,"access to loan",2014,20
+1,22,2218,2,596,1,1,6,"Fall in prices",2015,50
+1,22,2218,2,596,2,1,19,"People are more enlightened",2015,50
+1,22,2220,1,1296,1,1,8,"Lack of electricity",2009,100
+1,22,2220,1,1296,2,1,14,"Good road",2012,100
+1,23,2302,2,1982,1,1,6,"Price Fluctuations",2015,100
+1,23,2302,2,1982,2,1,19,"Self Effort",2013,65
+1,23,2303,2,2348,1,2,8,"Lack of Emploment",2009,80
+1,23,2303,2,2348,1,1,10,"poor harvest",2013,99
+1,23,2303,2,2348,2,1,16,"personal effort",2010,95
+1,23,2304,2,322,1,1,8,"Lack of Emploment",2009,60
+1,23,2304,2,322,2,1,19,"Individual  Effort",2010,70
+1,23,2306,1,970,1,1,8,"lack of social amenities",2012,100
+1,23,2306,1,970,2,1,11,"reduction in violence",2010,70
+1,23,2307,1,78,1,1,8,"Lack of Emploment",2,50
+1,23,2307,1,78,2,1,19,"""Reduction violence leve """,2015,80
+1,23,2307,1,2316,1,1,8,"Lack of emploment",2013,85
+1,23,2307,1,2316,2,1,19,"reduction in violence",2014,80
+1,23,2308,1,556,1,1,6,"Price increase",2015,100
+1,23,2308,1,556,1,2,8,"Unemploment",2005,70
+1,23,2308,1,556,2,1,19,"Individual Effort",2005,8
+1,23,2308,1,5180,1,1,7,"High level of unemploment",2008,40
+1,23,2308,1,5180,2,1,11,"community effort",2012,70
+1,23,2309,2,998,1,1,6,"Price Fluctuation",2016,100
+1,23,2309,2,998,2,1,19,"Personal Effort",2013,85
+1,23,2311,2,516,1,1,8,"Unemploment",2005,65
+1,23,2311,2,516,1,2,6,"Increase in commodity price",2015,100
+1,23,2311,2,516,2,1,12,"People go to farming",2005,70
+1,23,2315,2,924,1,1,6,"Increase in Commodities prices",2014,100
+1,23,2315,2,924,2,1,19,"Individual effort",2013,80
+1,23,2316,1,140,1,2,2,"Flooding",2015,50
+1,23,2316,1,140,1,1,10,"Crop Failures",2015,50
+1,23,2316,1,140,2,1,19,"Better Harvest",2013,98
+6,24,2401,1,766,1,2,9,"Electricity generation for home use is nill",2014,100
+6,24,2401,1,766,1,3,2,"Access roads and drainages are bad",2014,80
+6,24,2401,1,766,1,1,6,"Prices of goods & Services very high",2015,100
+6,24,2401,1,766,2,1,17,"Installation of a new transformer",2015,80
+6,24,2401,1,766,2,2,14,"Rehabilitation of some access roads",2015,70
+6,24,2401,1,766,2,3,19,"Installing a new Baale that was causing problems in the community",2014,100
+6,24,2403,1,674,1,3,9,"Electricity failure",2016,100
+6,24,2403,1,674,1,2,8,"No government Facility",2015,100
+6,24,2403,1,674,1,1,6,"High Price of Staple food",2016,100
+6,24,2403,1,674,2,2,11,"Construction of Modern Market",2015,60
+6,24,2403,1,674,2,3,13,"New Private Gyneocologist",2015,50
+6,24,2403,1,674,2,1,11,"Constuction of New roads",2016,70
+6,24,2403,1,1588,1,1,9,"Rioting of the cultist member",2015,20
+6,24,2403,1,1588,1,3,10,"Okada accidents",2015,10
+6,24,2403,1,1588,1,2,10,"Armed robbery event",2015,10
+6,24,2403,1,1588,2,4,19,"Donation of patrol vehicles to police in community",2016,100
+6,24,2403,1,1588,2,3,15,"Commissioning of new blocks of class rooms",2015,95
+6,24,2403,1,1588,2,2,17,"Installation of big generator to power the street lights",2016,95
+6,24,2403,1,1588,2,1,11,"Damaged access road fixing",205,80
+6,24,2403,1,3592,1,1,2,"Bad access roads",2013,80
+6,24,2403,1,3592,1,2,9,"Erratic power Supply",2015,100
+6,24,2403,1,3592,1,3,6,"Increase in prices of commodities",2015,100
+6,24,2403,1,3592,2,2,19,"Police Patrol of the community effected",2015,100
+6,24,2403,1,3592,2,3,14,"Grading of the access roads",2015,90
+6,24,2403,1,3592,2,1,17,"Power tranformer installation",2016,80
+6,24,2403,1,7586,1,2,2,"Erosion",2014,20
+6,24,2403,1,7586,1,4,9,"Power inefficiency",2015,100
+6,24,2403,1,7586,1,3,10,"Problems of land speculators",2015,80
+6,24,2403,1,7586,1,1,2,"Bad roads",2014,100
+6,24,2403,1,7586,2,3,14,"Dredging of gutters for the free flow of rain water",2014,100
+6,24,2403,1,7586,2,4,12,"Government given bail out to some community members",2014,50
+6,24,2403,1,7586,2,2,19,"Police Patrol of the community",2015,100
+6,24,2403,1,7586,2,1,11,"Micro water scheme",2015,80
+6,24,2405,1,134,1,2,5,"Chicken pox epidemics",2013,20
+6,24,2405,1,134,1,3,10,"Hooliganism amongst youths",2015,60
+6,24,2405,1,134,1,1,9,"Damage transformer for months",2015,80
+6,24,2405,1,134,1,4,10,"Robbery incidents",2015,30
+6,24,2405,1,134,2,3,17,"New transformers",2015,100
+6,24,2405,1,134,2,1,12,"Employment of vigilante",2015,100
+6,24,2405,1,134,2,2,11,"Building of new police station",2016,100
+6,24,2405,1,134,2,4,19,"Clearing of blocked drainages",2014,40
+6,24,2407,2,396,1,2,1,"Wind storms",2015,80
+6,24,2407,2,396,1,1,6,"Inflation.Increases in the prices of goods",2015,100
+6,24,2407,2,396,1,3,5,"Spread of small pox",2014,50
+6,24,2407,2,396,2,3,17,"Replacement of the old transformer",2014,100
+6,24,2407,2,396,2,1,11,"Construction of new blocks of classrooms",2015,100
+6,24,2407,2,396,2,2,19,"Distribution of farm inputs",2015,80
+6,24,2408,1,2074,1,2,10,"No close government facilities",2016,60
+6,24,2408,1,2074,1,1,7,"High rate of Unemployment",2015,60
+6,24,2408,1,2074,1,3,9,"Electricity failure",2016,70
+6,24,2408,1,2074,2,1,11,"Buying of New Transformer",2015,80
+6,24,2408,1,2074,2,3,11,"Connection of the Transformer",2015,80
+6,24,2408,1,2074,2,2,11,"Grading of the Roads",2015,70
+6,24,2411,1,788,1,1,6,"Commodities price fluctuation(inflation)",2015,100
+6,24,2411,1,788,1,4,5,"No presence of government clinics",2016,100
+6,24,2411,1,788,1,3,2,"Bad access roads",2014,100
+6,24,2411,1,788,1,2,9,"Power outages",2014,100
+6,24,2411,1,788,2,2,19,"Complete peace in the community",2015,100
+6,24,2411,1,788,2,1,14,"Grading of the access roads",2016,80
+6,24,2411,1,788,2,3,17,"Supply of transformers",2016,100
+6,24,2412,1,2798,1,2,6,"Increase in Prices of Commodities",2016,70
+6,24,2412,1,2798,1,3,9,"""Power Failure """,2016,60
+6,24,2412,1,2798,1,1,7,"Higher rate of Unemployment",2015,60
+6,24,2412,1,2798,2,2,11,"Maintenance of Roads",2014,70
+6,24,2412,1,2798,2,1,14,"Construction of New Roads",2015,70
+6,24,2412,1,2798,2,3,16,"Easy means of going out",2015,60
+6,24,2413,1,306,1,2,6,"Increase in the price of staple food",2015,70
+6,24,2413,1,306,1,3,6,"Increase in the price of transportation",2016,70
+6,24,2413,1,306,1,1,6,"Issue of exchange rate. Naira  devaluation",2015,60
+6,24,2413,1,306,2,1,16,"BRT buses",2013,80
+6,24,2413,1,306,2,3,14,"Construction of new roads",2014,60
+6,24,2413,1,306,2,2,11,"Maintenance of the roads",2013,60
+6,24,2415,1,696,1,2,6,"Increase in Prices of Commodities",2016,70
+6,24,2415,1,696,1,3,2,"Flooding on some of the roads",2016,50
+6,24,2415,1,696,1,1,7,"High rate of Unemployment",2015,60
+6,24,2415,1,696,2,1,14,"Construction of New Roads",2015,70
+6,24,2415,1,696,2,3,19,"Peaceful Environment",2015,80
+6,24,2415,1,696,2,2,11,"Construction of Modern market",2014,50
+6,24,2417,1,112,1,1,6,"Increses in the prices of goods & services",2016,100
+6,24,2417,1,112,1,4,5,"No pipe borne water",2015,100
+6,24,2417,1,112,1,3,9,"Erratic power supply",2015,100
+6,24,2417,1,112,1,2,2,"Bad roads",2014,100
+6,24,2417,1,112,2,4,11,"Building of more class rooms in the primary school",2015,80
+6,24,2417,1,112,2,2,14,"Perching of pot holes on the roads",2015,100
+6,24,2417,1,112,2,1,19,"Vigilante presence in the community",2015,100
+6,24,2417,1,112,2,3,17,"Installing of more electric poles",2016,100
+6,24,2417,1,924,1,3,10,"Non availability of government portable water",2016,80
+6,24,2417,1,924,1,1,9,"Lack of Electricity",2016,80
+6,24,2417,1,924,1,2,6,"Sudden increase in the price of commodities",2016,80
+6,24,2417,1,924,2,1,14,"Construction of New Roads",2014,60
+6,24,2417,1,924,2,2,11,"Maintenance of existing roads",2015,60
+6,24,2418,1,1770,1,4,2,"Lack of drainage system",2016,70
+6,24,2418,1,1770,1,2,7,"High level of Unemployment",2015,60
+6,24,2418,1,1770,1,3,7,"Closure of Lasu Part time centre",2015,60
+6,24,2418,1,1770,1,1,10,"Bad Roads",2016,70
+6,24,2418,1,1770,2,1,17,"stability of Electicity",2016,90
+6,24,2419,1,330,1,2,6,"increase in price of commodities",2016,70
+6,24,2419,1,330,1,3,9,"Power failure",2016,70
+6,24,2419,1,330,1,1,7,"High level of Unemployment",2015,70
+6,24,2419,1,330,2,1,11,"New Community Borehole",2015,60
+6,24,2419,1,330,2,2,14,"Construction of New Roads",2015,70
+6,24,2419,1,330,2,3,11,"Provision  of  Community Street Light",2015,60
+6,24,2420,1,402,1,4,8,"Area boys problems",2015,50
+6,24,2420,1,402,1,3,2,"canal blockages",2014,30
+6,24,2420,1,402,1,1,9,"Eratic power supply",2015,90
+6,24,2420,1,402,1,2,10,"Bad access roads",2015,80
+6,24,2420,1,402,2,1,13,"Pipe borne water commissioned",2015,75
+6,24,2420,1,402,2,4,13,"More doctors in the hospital",2016,90
+6,24,2420,1,402,2,2,19,"Police patrol of streets",2016,100
+6,24,2420,1,402,2,3,15,"New blocks of class room built",2015,70
+1,25,2502,2,728,1,1,10,"Land Dispute",2015,60
+1,25,2502,2,728,2,1,19,"Distribution of free mosquito net",2015,70
+1,25,2504,2,222,1,1,10,"Delay in payment of salary.",2015,60
+1,25,2504,2,222,2,1,19,"Farmers High returns in Market.",2016,50
+1,25,2507,2,814,1,1,10,"Fulani Invasion of farms",2014,80
+1,25,2507,2,814,2,1,19,"Establishment  of Vigilante Group.",2014,80
+1,25,2508,1,2788,1,1,10,"Ethnic Crisis.",2014,70
+1,25,2508,1,2788,2,1,11,"Construction of Bridge",2013,80
+1,25,2509,2,248,1,1,10,"Fulani Invasion of farms",2015,80
+1,25,2509,2,248,2,1,19,"Peaceful coexistence in community",2014,90
+1,25,2511,2,1424,1,1,10,"Ethnic Violence (Ombatse)",2014,70
+1,25,2511,2,1424,2,1,19,"Upliftment of chiefdom to second class.",2015,80
+1,25,2513,2,128,1,1,10,"Theft and Robbery.",2013,50
+1,25,2513,2,128,2,1,19,"Distribution of free treated mosquito net",2014,60
+1,25,2513,2,128,2,2,19,"Distribution of free anti malaria drug to pregnant women",2014,60
+1,26,2601,2,822,1,2,1,"drought",2014,100
+1,26,2601,2,822,1,1,6,"sharp change in prices",2016,100
+1,26,2601,2,822,2,1,15,"New school",2015,95
+1,26,2603,1,658,1,1,6,"POWER OUTAGE",2014,70
+1,26,2603,1,658,1,2,6,"SHARP CHANGE IN PRICES",2016,100
+1,26,2603,1,658,2,1,11,"DEVELOPMENT PROJECT",2014,50
+1,26,2603,1,658,2,2,15,"NEW SCHOOL",2015,60
+1,26,2603,1,1786,1,3,7,"MASSIVE JOB LAY OFFS",2014,100
+1,26,2603,1,1786,1,2,9,"power outage",2015,100
+1,26,2603,1,1786,1,1,6,"SHARP CHANGE IN PRICES",2016,100
+1,26,2603,1,1786,2,2,14,"NEW ROAD",2014,100
+1,26,2603,1,1786,2,1,11,"DEVELOPMENT PROJECT",2014,100
+1,26,2605,2,594,1,1,1,"SHARP CHANGE IN PRICES",2013,100
+1,26,2605,2,594,1,2,1,"DROUGH",2013,100
+1,26,2605,2,594,2,1,11,"DEVELOPMENT PROJECT",2015,100
+1,26,2606,1,516,1,1,8,"lack of good road",2013,100
+1,26,2608,2,820,1,1,1,"DROUGHT",2013,95
+1,26,2608,2,820,1,2,6,"SHARP CHANGE IN PRICES",2016,100
+1,26,2608,2,820,2,2,19,"NEW HEALTH FACILITY",2013,100
+1,26,2608,2,820,2,1,16,"IMPROVED TRANSPORTATION",2013,100
+1,26,2611,2,424,1,1,6,"poverty",2016,100
+1,26,2611,2,424,2,1,16,"Roads",2015,90
+1,26,2613,2,1462,1,2,6,"SHARP CHANGE IN PRICES",2016,100
+1,26,2613,2,1462,1,1,1,"DROUGHT",2015,95
+1,26,2613,2,1462,2,2,14,"NEW ROAD",2015,100
+1,26,2613,2,1462,2,1,15,"NEW SCHOOL",2014,100
+1,26,2613,2,2248,1,1,1,"DROUGHT",2015,100
+1,26,2613,2,2248,1,2,6,"SHARP CHANGE PRICE",2016,100
+1,26,2613,2,2248,2,2,13,"NEW HEALTH FACILITY",2014,100
+1,26,2613,2,2248,2,1,11,"DEVELOPMENT PROJECT",2014,80
+1,26,2615,2,2178,1,1,6,"High price",2016,100
+1,26,2615,2,2178,2,1,13,"Good Health",2010,100
+1,26,2615,2,2196,1,1,6,"Bad Road",2016,100
+1,26,2615,2,2196,2,1,13,"Sanitation",2010,100
+1,26,2616,2,254,1,1,6,"SHARP CHANGE IN PRICES",2016,100
+1,26,2616,2,254,1,2,1,"DROUGH",2016,100
+1,26,2616,2,254,2,1,11,"DEVELOPMENT PROJECT",2015,100
+1,26,2616,2,254,2,2,19,"NEW SCHOOL",2014,80
+1,26,2618,2,494,1,1,6,"Hunger",2015,100
+1,26,2618,2,494,2,1,14,"Good Roads",2015,100
+1,26,2618,2,1276,1,1,5,"Diseases",2016,5
+1,26,2618,2,1276,2,1,14,"Good Roads",2015,100
+1,26,2621,2,100,1,1,6,"High price",2016,100
+1,26,2621,2,100,2,1,13,"Good living",2010,85
+1,26,2621,1,940,1,1,6,"Insecurity",2016,100
+1,26,2621,1,940,2,1,13,"Health",2014,100
+1,26,2623,2,1688,1,1,6,"Healthcare",2014,80
+1,26,2623,2,1688,2,1,11,"Living",2015,95
+1,26,2625,2,926,1,1,1,"DROUGHT",2015,100
+1,26,2625,2,926,1,2,6,"SHARP CHANGE IN PRICES",2016,100
+1,26,2625,2,926,2,1,16,"IMPROVED TRANSPORTATION SERVICES",2015,100
+1,26,2625,2,926,2,2,19,"OTHER SPECIFY ( SECURITY)",2015,100
+6,27,2701,1,506,1,3,9,"Power Outage",2015,80
+6,27,2701,1,506,1,1,10,"Fire occurred",2014,2
+6,27,2701,1,506,1,2,8,"poor services",2014,75
+6,27,2701,1,506,1,4,10,"Bad drainage",2014,50
+6,27,2701,1,506,2,2,17,"On Grid Electric",2015,85
+6,27,2701,1,506,2,4,11,"Repair of drainage",2014,78
+6,27,2701,1,506,2,1,11,"Calvert for drainage",2015,85
+6,27,2701,1,506,2,3,18,"Change of damage wire",2015,1
+6,27,2703,1,1076,1,3,8,"Poor Roads",2014,99
+6,27,2703,1,1076,1,1,8,"Social Services",2015,99
+6,27,2703,1,1076,1,4,9,"Poor electric power",2015,99
+6,27,2703,1,1076,1,2,6,"High price fluctuations",2015,90
+6,27,2703,1,1076,2,1,15,"New class rooms",2012,99
+6,27,2703,1,1076,2,4,19,"Medical facilities",2014,80
+6,27,2703,1,1076,2,3,17,"Street lights",2013,60
+6,27,2703,1,1076,2,2,11,"Borehole",2010,50
+6,27,2703,1,1612,1,1,6,"High price of commodities",2015,95
+6,27,2703,1,1612,1,3,10,"Lack of money",2015,99
+6,27,2703,1,1612,1,2,9,"in regularity of power",2015,99
+6,27,2703,1,1612,2,2,19,"Good supply of water",2014,99
+6,27,2703,1,1612,2,3,19,"Good security",2015,90
+6,27,2703,1,1612,2,1,14,"Good roads",2014,90
+6,27,2704,2,204,1,1,3,"Fulani Problem",2015,85
+6,27,2704,2,204,1,2,6,"High cost of market price",2015,70
+6,27,2704,2,204,2,1,14,"Good Road",2015,95
+6,27,2704,2,204,2,2,15,"School Building",2014,90
+6,27,2707,1,1410,1,1,2,"Flood  Disaster",2015,75
+6,27,2707,1,1410,1,3,9,"Low of power supply",2016,99
+6,27,2707,1,1410,1,4,9,"High tariff of power",2016,99
+6,27,2707,1,1410,1,2,6,"High price of commodity",2015,99
+6,27,2707,1,1410,2,3,17,"Buying of transsummer",2014,99
+6,27,2707,1,1410,2,2,14,"Road in the street",2015,75
+6,27,2707,1,1410,2,1,11,"Drainage project",2015,80
+6,27,2707,1,2136,1,4,2,"Gulley problem",2015,90
+6,27,2707,1,2136,1,3,10,"Collapse of building s",2015,25
+6,27,2707,1,2136,1,2,2,"Big flood",2015,99
+6,27,2707,1,2136,1,1,2,"Bad drainage",2014,90
+6,27,2707,1,2136,2,1,11,"Culvert project",2015,99
+6,27,2707,1,2136,2,3,11,"Voluntary donation of 3 nos of single pole",2016,100
+6,27,2707,1,2136,2,2,17,"Replacement of fuse carrier",2016,99
+6,27,2709,1,1646,1,1,2,"Flooding",2015,80
+6,27,2709,1,1646,1,3,10,"Bad roads",2015,99
+6,27,2709,1,1646,1,2,9,"Power supply is very poor",2015,99
+6,27,2709,1,1646,2,3,19,"Credit Facilities",2015,45
+6,27,2709,1,1646,2,1,15,"New school",2014,80
+6,27,2709,1,1646,2,2,11,"Community town hall",1995,70
+6,27,2711,1,710,1,2,2,"Problem of drainage",2015,80
+6,27,2711,1,710,1,3,6,"High cost of power tariff",2015,99
+6,27,2711,1,710,1,1,6,"High price fluctuations",2016,99
+6,27,2711,1,710,2,3,11,"Street Gate",2016,99
+6,27,2711,1,710,2,1,11,"Culvert Project",2015,80
+6,27,2711,1,710,2,2,11,"Street Light Project",2014,90
+6,27,2712,2,110,1,2,6,"High Tariff of power supply",2015,99
+6,27,2712,2,110,1,3,6,"Price fluctuation of commodity",2016,99
+6,27,2712,2,110,1,1,9,"High  Voltage of power",2016,60
+6,27,2712,2,110,2,1,12,"Mtn  mass",2014,99
+6,27,2712,2,110,2,3,15,"New school building",2015,80
+6,27,2712,2,110,2,2,14,"Maintainance of roads",2014,99
+6,27,2715,2,752,1,3,10,"no schools",2010,99
+6,27,2715,2,752,1,2,3,"""Crop failure """,2013,80
+6,27,2715,2,752,1,1,6,"price fluctuations",2014,89
+6,27,2715,2,752,1,4,10,"no better roads",2010,99
+6,27,2715,2,752,2,1,14,"Clearing of road leading to river",2016,99
+6,27,2715,2,752,2,2,14,"Clearing of road leading to main road",2016,99
+6,27,2719,2,100,1,1,6,"Price fluctuations",2015,70
+6,27,2719,2,100,1,2,3,"Crop Failure",2015,99
+6,27,2719,2,100,1,3,1,"Disaster",2014,80
+6,27,2719,2,100,2,4,11,"Project on wells",2012,99
+6,27,2719,2,100,2,1,19,"Good price on cocoa seed",2016,80
+6,27,2719,2,100,2,3,11,"Project of new local market",2014,85
+6,27,2719,2,100,2,2,14,"Grading of  roads",2016,99
+6,28,2802,2,566,1,1,9,"Power failure",2012,85
+6,28,2802,2,566,1,2,10,"Bad road",2010,100
+6,28,2802,2,566,2,1,11,"Town Hall",2011,65
+6,28,2802,2,566,2,2,19,"Medical Supply to health centre",2013,55
+6,28,2804,1,340,1,1,10,"Unemloyment",2012,50
+6,28,2804,1,340,1,3,10,"Water",2012,55
+6,28,2804,1,340,1,2,9,"Electricity",2012,80
+6,28,2804,1,340,2,1,15,"University",2003,50
+6,28,2806,1,164,1,1,9,"Power Failure",2014,100
+6,28,2806,1,164,1,2,10,"Scarcity of Portable Water",2014,65
+6,28,2806,1,164,2,1,19,"Peace",2012,100
+6,28,2806,1,802,1,1,9,""" Epilepsy Power Supply""",2015,80
+6,28,2806,1,802,1,2,10,"Water",2015,75
+6,28,2806,1,802,2,1,19,"Road Repair",2013,35
+6,28,2806,1,802,2,2,11,"Transformer",2013,40
+6,28,2807,2,1266,1,1,10,"Bad crining(plank road within and to the river)",2013,70
+6,28,2807,2,1266,2,1,19,"Peace",2010,85
+6,28,2810,2,2394,1,1,10,"Bad craining (Plank Road)",2015,60
+6,28,2810,2,2394,2,1,19,"Peace",2014,100
+6,28,2810,1,3722,1,1,10,"Bad craining(plank road)",2014,68
+6,28,2810,1,3722,2,1,19,"Peace",2013,70
+6,28,2811,2,588,1,1,9,"Electricity",2013,100
+6,28,2811,2,588,1,3,10,"Shortage of Teachers.",2013,65
+6,28,2811,2,588,1,2,10,"Dilapidated School Building",2010,65
+6,28,2811,2,588,2,1,19,"Peace that reign",2009,100
+6,28,2813,2,612,1,1,10,"Uncompleted Water project",2012,80
+6,28,2813,2,612,1,2,10,"Bad road",2012,100
+6,28,2813,2,612,2,1,19,"Available Network",2015,60
+6,28,2814,1,1876,1,2,10,"Unemployment",2006,40
+6,28,2814,1,1876,1,1,10,"Bad road",2012,55
+6,28,2814,1,1876,1,3,9,"Off From Power Grid",2014,100
+6,28,2814,1,1876,2,1,19,"Peace",2006,80
+6,28,2815,2,1164,1,1,9,"Not joining their light to the grid",2012,100
+6,28,2815,2,1164,2,1,19,"Renovation of primary school",2014,70
+6,28,2815,2,1164,2,2,19,"Renovation of health centre",2015,80
+6,28,2816,1,2302,1,1,2,"Flood",2014,30
+6,28,2816,1,2302,1,2,10,"Displaced",2013,65
+6,28,2816,1,2302,2,2,15,"Pry School",2006,100
+6,28,2816,1,2302,2,1,19,"Headman Established",2014,75
+6,28,2816,2,3944,1,1,10,"Accident",2014,1
+6,28,2816,2,3944,2,1,13,"Hospital",2012,100
+6,29,2902,1,1028,1,1,6,"Increase in price of commodities.",2014,100
+6,29,2902,1,1028,1,2,10,"Enforcement of New Tax rate",2015,60
+6,29,2905,1,384,1,1,10,"Non Payment of Techers Salary",2014,100
+6,29,2905,1,1096,1,1,6,"High Price of Commodoities",2015,80
+6,29,2905,1,1096,1,2,10,"Tax",2015,80
+6,29,2909,2,220,1,2,8,"Enforcement of Tax law",2015,60
+6,29,2909,2,220,1,3,9,"Power Failure",2012,76
+6,29,2909,2,220,1,1,6,"Rise in Dollar value",2015,70
+6,29,2909,2,220,2,1,12,"Membership of Cooperative",2010,40
+6,29,2910,1,350,1,2,8,"NO PORTABLE WATER",2013,80
+6,29,2910,1,350,1,1,8,"POWER OUTAGE",2013,75
+6,29,2910,1,350,2,1,16,"NEW ROAD",2015,100
+6,29,2911,1,746,1,2,8,"UNEMPLOYMENT",2012,75
+6,29,2911,1,746,1,3,8,"POWER OUTAGE",2013,90
+6,29,2911,1,746,1,1,8,"BAD ROAD",2013,85
+6,29,2911,1,746,2,1,19,"FAIR POWER SUPPLY",2014,90
+6,29,2911,2,1870,1,3,1,"CROP FAILURE",2015,60
+6,29,2911,2,1870,1,1,8,"NO GOOD ROAD",2013,100
+6,29,2911,2,1870,1,4,8,"NO CREDIT FACILITIES",2013,75
+6,29,2911,2,1870,1,2,8,"NO MEDICAL FACILITIES",2015,15
+6,29,2911,2,1870,2,1,19,"GOOD NETWORK COMMUNICATION",2013,85
+6,29,2914,1,214,1,2,10,"Lack of Finiancial Assistance",2012,50
+6,29,2914,1,214,1,1,1,"Bush Burning",2015,40
+6,29,2914,1,214,2,1,12,"Installation of new Oba (King).",2015,60
+6,29,2918,1,952,1,3,8,"UNEMPLOYMENT",2013,65
+6,29,2918,1,952,1,4,8,"POWER OUTAGE",2013,85
+6,29,2918,1,952,1,2,8,"NO GOOD ROAD",2013,85
+6,29,2918,1,952,2,1,16,"GOOD ROAD",2015,75
+6,29,2918,1,952,2,2,11,"PROVISION OF COMMUNITY HALL",2015,75
+6,29,2920,1,506,1,1,8,"NO PORTABLE WATER",2014,85
+6,29,2920,1,506,1,2,8,"POWER OUTAGE",2015,95
+6,29,2920,1,506,1,3,8,"NO EMPLOYMENT OPPORTUNITY",2013,65
+6,29,2920,1,506,2,1,14,"CONSTRUCTION OF NEW ROAD",2014,95
+6,29,2920,1,1210,1,2,8,"POWER OUTAGE",2013,100
+6,29,2920,1,1210,1,3,8,"NO ACCESS TO PORTABLE WATER",2013,85
+6,29,2920,1,1210,1,1,8,"NO GOOD ROAD",2013,80
+6,29,2920,1,1210,2,1,13,"HEALTH CENTRE",2013,65
+6,29,2920,2,1628,1,3,8,"PRICE FLUCTUATIONS",2014,75
+6,29,2920,2,1628,1,1,8,"NO GOOD ROAD",2013,85
+6,29,2920,2,1628,1,2,3,"CROPS FAILURE",2014,75
+6,29,2920,2,1628,2,1,12,"AVAILABILITY OF AGRICULTURAL INPUTS",2014,55
+6,29,2923,1,396,1,1,6,"Introduction of Tax",2015,100
+6,29,2923,1,396,,1,,"Nil",,
+6,29,2923,2,1126,1,2,8,"Non payment of Salary",2015,60
+6,29,2923,2,1126,1,1,6,"""Price fluctuation  """,2015,80
+6,29,2927,1,1124,1,1,6,"UNEMPLOYMENT",2013,60
+6,29,2927,1,1124,1,2,9,"LOSS OF KEY SOCIAL SERVICES",2014,75
+6,29,2927,1,1124,1,3,6,"PRICE FLUCTUATIONS",2015,60
+6,29,2927,1,1124,2,2,19,"ADEQUATE POWER SUPPLY",2014,75
+6,29,2927,1,1124,2,1,14,"REABILITATION OF ROAD",2014,80
+6,29,2927,1,1124,2,3,15,"BUILDING OF NEW SCHOOLS",2014,80
+6,29,2930,1,530,1,2,8,"LOSS OF KEY TO SOCIALSERVICES",2013,65
+6,29,2930,1,530,1,3,9,"PRICE FLUCTUATIONS",2013,90
+6,29,2930,1,530,1,4,8,"UNEMPLOYMENT",2014,70
+6,29,2930,1,530,2,3,15,"PROVISION OF NEW SCHOOL",2013,70
+6,29,2930,1,530,2,2,14,"REABILITATION OF ROAD",2014,60
+6,29,2930,1,1300,1,1,6,"Inflation",2014,60
+6,29,2930,1,1300,1,2,10,"Non Payment of Salary",2014,15
+6,29,2930,1,1300,2,1,12,"Establishment of Nursery & _Primary Sch",2002,40
+6,29,2930,1,1418,1,3,6,"Shortage of  petroleum",2015,80
+6,29,2930,1,1418,1,1,6,"Non Payment of Salary",2014,6
+6,29,2930,1,1418,1,2,9,"Power Failure",2015,80
+6,29,2930,1,1418,2,1,19,"Non violence",2012,97
+6,30,3002,1,1264,1,1,6,"price  fluctuations",2016,96
+6,30,3002,1,1264,1,3,3,"n",,
+6,30,3002,1,1264,1,2,3,"crop  failures",2015,90
+6,30,3002,1,1264,2,1,13,"medical  facilities",2015,85
+6,30,3002,1,1310,1,2,9,"power  outages",2015,95
+6,30,3002,1,1310,1,1,6,"price  fluctuations",2016,92
+6,30,3002,1,1310,2,1,11,"innovation  of  school",2016,90
+6,30,3002,1,1310,2,2,11,"improved  transport  services",2015,95
+6,30,3004,2,216,1,1,6,"Price  fluctuations",2016,90
+6,30,3004,2,216,1,2,3,"Crop   failures",2014,85
+6,30,3004,2,216,2,1,15,"New  School",2015,80
+6,30,3005,1,2870,1,1,9,"epileptic supply of electricity",2015,80
+6,30,3005,1,2870,1,2,6,"sharp change of price of commodity",2015,75
+6,30,3005,1,2870,2,1,19,"provision of adequate vaccination service",2014,90
+6,30,3005,1,2942,1,1,6,"sharp rise in prices",2015,70
+6,30,3005,1,2942,1,2,9,"epileptic supply of electricity",2014,65
+6,30,3005,1,2942,2,1,13,"regular supply of vac",2014,80
+6,30,3007,1,1624,1,2,9,"power outage",2015,75
+6,30,3007,1,1624,1,1,10,"fire accident",2014,15
+6,30,3007,1,1624,2,2,11,"digging of borehole",2012,100
+6,30,3007,1,1624,2,1,11,"rehabilitation of road",2015,95
+6,30,3009,1,764,1,1,6,"price fluctuatiions",2013,85
+6,30,3009,1,764,1,2,9,"power outage",2015,60
+6,30,3009,1,764,2,1,14,"construction of an access road",2014,40
+6,30,3009,1,1642,1,1,6,"sharp increase in prices",2015,55
+6,30,3009,1,1642,1,2,9,"epileptic supply of electricity",2015,85
+6,30,3009,1,1642,2,1,11,"construction of blocks of classroom",2015,90
+6,30,3010,1,1762,1,2,9,"epileptic electric supply",2015,80
+6,30,3010,1,1762,1,1,6,"sharp changes in prices of staple food",2014,85
+6,30,3010,1,1762,2,1,19,"provision of health care service to young children",2014,75
+6,30,3012,2,334,1,1,10,"invasion of fulani cattle on the farm",2015,90
+6,30,3012,2,334,1,3,10,"non-accessibility to agriculturally inputs",2014,90
+6,30,3012,2,334,1,2,10,"non-availability of potable water",2015,90
+6,30,3012,2,334,2,1,19,"availability of children vaccination",2013,80
+6,30,3014,2,120,1,3,6,"""sharp changes in prices """,2014,65
+6,30,3014,2,120,1,1,10,"invasion of fulani cattle",2015,90
+6,30,3014,2,120,1,4,10,"""  lack of potable water as a result of blockade of borehole""",2014,85
+6,30,3014,2,120,1,2,1,"rain failure",2015,75
+6,30,3014,2,120,2,1,13,"availability of vaccinations for children",2014,75
+6,30,3015,2,1688,1,2,6,"Sharp  change  in   price",2016,95
+6,30,3015,2,1688,1,1,3,"Crop   failures",2014,50
+6,30,3015,2,1688,2,1,15,"Innovation  of   School",2014,65
+6,30,3016,1,390,1,1,9,"Power  Outages",2015,92
+6,30,3016,1,390,1,2,6,"Price  Influctuations",2016,90
+6,30,3016,1,390,2,1,14,"New   Road",2014,95
+6,30,3018,2,914,1,1,10,"invasion of fulani cattle",2015,100
+6,30,3018,2,914,1,3,3,"invasion of pests on the farm",2014,85
+6,30,3018,2,914,1,2,1,"lack of adequate rainfall",2015,60
+6,30,3018,2,914,2,1,11,"constructiion of protected well",2015,90
+6,30,3020,1,322,1,1,9,"epileptic supply of electricity",2015,85
+6,30,3020,1,322,2,1,13,"regular supply of vaccines for little children",2015,55
+6,30,3023,2,622,1,1,6,"Price  fluctuations",2016,96
+6,30,3023,2,622,1,2,9,"Power  Outages",2015,95
+6,30,3023,2,622,2,1,15,"Innovation  of  School",2015,90
+6,30,3023,2,622,2,2,16,"Improved   Transport  Service",2014,95
+6,30,3024,1,1406,1,1,10,"death of an important landlord member",2015,98
+6,30,3024,1,1406,1,3,9,"power outage",2015,98
+6,30,3024,1,1406,1,2,6,"sharp change in price of foodstuff",2016,95
+6,30,3024,1,1406,2,1,11,"rehabilitation of existing road",2014,60
+6,30,3024,1,1406,2,3,11,"renovatiion of public hospital",2014,90
+6,30,3024,1,1406,2,2,17,"release of a new electric transformer",2014,65
+6,30,3024,1,1924,1,1,10,"snatching of okada",2015,25
+6,30,3024,1,1924,1,3,8,"rain storm that resulted in the collapse of buildings",2013,30
+6,30,3024,1,1924,1,2,2,"overflow of odo ona river bank",2013,60
+6,30,3024,1,1924,2,1,11,"construction of solar system",2014,60
+6,30,3025,1,2052,1,1,5,"high incidence of smallpox",2015,55
+6,30,3025,1,2052,2,3,11,"grading and tarring of access road",2014,90
+6,30,3025,1,2052,2,1,11,"construction of security gate to ward off intruders",2014,30
+6,30,3025,1,2052,2,2,11,"construction of covered well",2013,80
+6,30,3030,1,946,1,2,9,"power  outages",2015,96
+6,30,3030,1,946,1,1,6,"Price  fluctuations",2016,95
+6,30,3030,1,946,2,1,16,"improved  transport  services",2015,98
+6,30,3032,2,520,1,2,6,"Price   fluctuations",2016,95
+6,30,3032,2,520,1,1,3,"Crop  failures",2015,85
+6,30,3032,2,520,2,1,16,"Improved  in   transport  Services",2015,92
+6,30,3032,1,1088,1,2,9,"Power  outages",2015,95
+6,30,3032,1,1088,1,1,6,"Price   fluctuations",2016,90
+6,30,3032,1,1088,2,1,16,"improved  transport  service",2015,97
+6,30,3032,1,1088,2,2,15,"Innovation  of   School",2015,92
+6,30,3033,2,554,1,2,6,"Price  fluctuations",2016,96
+6,30,3033,2,554,1,1,3,"Crop  failures",2014,80
+6,30,3033,2,554,2,1,16,"improved  transport  services",2015,94
+1,31,3101,2,604,1,3,9,"INADEQUATE HEALTH FACILITIES",2008,100
+1,31,3101,2,604,1,1,9,"ECONOMIC HARDSHIP",2015,100
+1,31,3101,2,604,1,2,8,"POOR EDUCATIONAL STATUS",2006,100
+1,31,3101,2,604,1,4,9,"LACK OF EMPLOYMENT",2004,100
+1,31,3101,2,604,2,3,11,"PROVISION OF AGRICULTURAL AIDS",2011,80
+1,31,3101,2,604,2,2,19,"PROMPT PAYMENT OF SALARIES",2014,80
+1,31,3101,2,604,2,4,13,"AVAILABILITY OF GOVERNMENT STRUCTURES",2013,100
+1,31,3101,2,604,2,1,14,"PROVISION OF GOOD ROADS",2010,100
+1,31,3103,2,874,1,1,10,"Bad roads",2006,100
+1,31,3103,2,874,1,2,10,"poor  government structures",2001,100
+1,31,3103,2,874,2,1,13,"Immunization program",2014,50
+1,31,3105,1,2914,1,2,9,"LACK OF CONSTANT ELECTRICITY",2015,100
+1,31,3105,1,2914,1,1,8,"LACK OF POTABLE DRINKING WATER",2015,100
+1,31,3105,1,2914,2,1,14,"CONSTRUCTION OF TARRED ROAD BY PAST ADMINSTRATION",2012,100
+1,31,3105,1,2914,2,2,11,"CONSTRUCTION OF CENTRAL BOREHOLE",2015,100
+1,31,3107,1,724,1,3,10,"poor standard of education",2014,80
+1,31,3107,1,724,1,1,6,"High price of food stuff and social aminitie8",2015,100
+1,31,3107,1,724,1,2,7,"non payment of salaries",2015,60
+1,31,3107,1,724,2,1,14,"provision of access road by the government",2013,100
+1,31,3107,1,724,2,2,11,"Renovation of secondary school",2014,50
+1,31,3107,2,1092,1,1,6,"LACK OF GOOD ROADS",2014,100
+1,31,3107,2,1092,2,1,11,"PROVISION OF BOREHOLE BY AN NGO",2012,100
+1,31,3109,2,1026,,4,,"LACK OF FERTILIZER",,
+1,31,3109,2,1026,,1,,"IMPROVED ROUTINE IMMUNISATION",,
+1,31,3109,2,1026,,2,,"POOR EDUCATION STANDARD",,
+1,31,3109,2,1026,,1,,"BAD ROADS",,
+1,31,3109,2,1026,,3,,"LACK OF HEALTH FACILITIES",,
+1,31,3111,2,2966,,1,,"crop failures,price functuatipn",,
+1,31,3111,2,2966,,1,,"Health care services, community bridge construction",,
+1,31,3112,2,350,1,1,10,"no development",2015,100
+1,31,3112,2,350,2,1,19,"no development",2015,100
+1,31,3113,2,332,1,1,8,"BAD ROADS, LACK OF ELECTRICITY, INSUFFICIENT GOVERNMENT STRUCTURES",2005,100
+1,31,3113,2,332,2,1,13,"THE OPENING OF NEW PRIVATE SHOOLS,GOVERNMENT HEALTH CLINIC,PROVISION OF BORE HOLES",2010,98
+1,31,3115,2,680,,1,,"Lack of supply of farming inputs/support from government,",,
+1,31,3115,2,680,,2,,"inadequate security for people",,
+1,31,3115,2,680,,1,,"Maintenance of government health clinics, supply of portable drinking water by a religious body",,
+1,31,3116,2,1344,1,1,10,"NONE",2015,100
+1,31,3116,2,1344,2,1,19,"NONE",2015,100
+5,32,3201,2,2034,1,2,2,"natural disaster",2012,85
+5,32,3201,2,2034,1,1,1,"crop failure",2012,90
+5,32,3201,2,2034,1,3,6,"price fluctuations",2016,80
+5,32,3201,2,2034,2,1,13,"medical facilities",2015,40
+5,32,3202,2,84,1,1,3,"Crop Failure",2016,40
+5,32,3202,2,84,1,3,6,"Price Fluctuations",2016,100
+5,32,3202,2,84,1,2,2,"Natural Disaster",2012,90
+5,32,3202,2,84,2,1,13,"Medical Facilities",2012,45
+5,32,3202,2,84,2,2,15,"New School",2015,40
+5,32,3203,2,2644,1,2,6,"price fluctuations",2016,60
+5,32,3203,2,2644,1,1,3,"crop failure",2012,90
+5,32,3203,2,2644,1,3,2,"natural disaster",2012,80
+5,32,3203,2,2644,2,1,13,"Medical facilities",2015,45
+5,32,3204,1,346,1,1,8,"loss of key social services",2015,65
+5,32,3204,1,346,1,2,6,"price fluctuations",2016,80
+5,32,3204,1,346,2,2,14,"new road",2015,95
+5,32,3204,1,346,2,1,13,"medical facilities",2014,65
+5,32,3206,2,276,1,1,6,"price fluctuations",2015,85
+5,32,3206,2,276,2,2,14,"construction of new road",2015,40
+5,32,3206,2,276,2,1,15,"new school",2015,80
+5,32,3207,2,1464,1,1,6,"Price fluctuations",2016,100
+5,32,3207,2,1464,1,2,8,"Loss of key Social Services",2015,45
+5,32,3208,2,2244,1,2,6,"price fluctuations",2015,95
+5,32,3208,2,2244,1,1,3,"crop failure",2014,60
+5,32,3208,2,2244,2,1,15,"new sch ool",2015,60
+5,32,3208,2,2244,2,2,13,"Medical Facilities",2015,45
+5,32,3209,1,1208,1,4,9,"power outage",2016,100
+5,32,3209,1,1208,1,2,6,"sharp change in price",2016,100
+5,32,3209,1,1208,1,1,3,"Crop disease",2016,50
+5,32,3209,1,1208,1,3,7,"massive job  lay off",2014,30
+5,32,3209,1,1208,2,3,19,"none",0,0
+5,32,3209,1,1208,2,2,13,"Health center",2014,100
+5,32,3209,1,1208,2,1,15,"New school",2014,100
+5,32,3209,1,1208,2,4,19,"none",0,0
+5,32,3210,2,1692,1,2,7,"no job",2016,60
+5,32,3210,2,1692,1,1,6,"sharp changes in price.",2015,100
+5,32,3210,2,1692,2,1,15,"new school",2013,100
+5,32,3210,2,1692,2,2,18,"off grid electricity.",2014,100
+5,32,3212,2,314,1,2,6,"sharp change in price",2015,100
+5,32,3212,2,314,1,3,9,"power outage",2016,100
+5,32,3212,2,314,1,1,4,"Livestock Desease",2015,15
+5,32,3212,2,314,1,4,7,"massive job lose",2014,20
+5,32,3212,2,314,2,2,13,"Health center",2013,100
+5,32,3212,2,314,2,3,19,"none",0,0
+5,32,3212,2,314,2,4,19,"none",0,0
+5,32,3212,2,314,2,1,15,"New school",2014,100
+5,32,3213,2,128,1,2,7,"massive job loss",2014,40
+5,32,3213,2,128,1,1,6,"sharp change in price",2015,100
+5,32,3213,2,128,2,1,19,"peace in the community",2015,100
+5,32,3215,1,1896,1,1,6,"price fluctuations",2016,85
+5,32,3215,1,1896,2,1,13,"medical facilities",2015,45
+5,32,3215,1,2978,1,3,2,"Natural Disaster",2015,50
+5,32,3215,1,2978,1,5,10,"None",60,0
+5,32,3215,1,2978,1,4,7,"Massive Job lay off",2014,40
+5,32,3215,1,2978,1,2,6,"Price Fluctuations",2016,100
+5,32,3215,1,2978,2,4,19,"None",2015,100
+5,32,3215,1,2978,2,2,11,"Development  Project",2016,80
+5,32,3215,1,2978,2,1,14,"New Road",2014,70
+5,32,3215,1,2978,2,3,19,"Government New Road",2013,100
+5,32,3215,1,4712,1,1,1,"crop failure",2016,25
+5,32,3215,1,4712,1,2,6,"price fluctuations",2015,80
+5,32,3215,1,4712,2,1,14,"medical facilities",2016,90
+5,32,3215,1,4712,2,2,14,"new road",2015,85
+5,32,3216,2,1184,1,2,3,"Crop Damage by Cows",2016,50
+5,32,3216,2,1184,1,3,6,"Price Fluctuations",2016,100
+5,32,3216,2,1184,1,1,10,"Crop Failure",2010,100
+5,32,3216,2,1184,2,1,19,"Nothing Beneficiary",2010,100
+5,32,3218,2,296,1,1,2,"flood",2014,5
+5,32,3218,2,296,2,1,15,"New school",2013,100
+5,32,3221,2,132,1,1,6,"sharp change in price",2015,100
+5,32,3221,2,132,2,1,16,"improved transpotation",2015,100
+5,32,3222,1,1624,1,1,6,"price fluctuations",2016,100
+5,32,3222,1,1624,1,2,8,"The loss of key social services",2015,40
+5,32,3222,1,1624,2,1,13,"medical facilities",2014,60
+5,32,3222,1,1624,2,2,14,"construction of new road",2016,95
+5,32,3222,1,2780,1,3,9,"Power  outage",2016,100
+5,32,3222,1,2780,1,1,6,"Sharp change in price",2016,100
+5,32,3222,1,2780,1,4,10,"none",0,0
+5,32,3222,1,2780,1,2,7,"Massive job layoff",2015,40
+5,32,3222,1,2780,2,1,15,"New school",2015,100
+5,32,3222,1,2780,2,3,19,"none",0,0
+5,32,3222,1,2780,2,4,19,"none",0,0
+5,32,3222,1,2780,2,2,19,"none",0,0
+5,32,3223,2,390,1,1,6,"Sharp change in price",2015,100
+5,32,3223,2,390,1,4,4,"livestock disease",2015,40
+5,32,3223,2,390,1,3,10,"Bush burning during farming",2015,50
+5,32,3223,2,390,1,2,7,"Massive job lay off",2014,30
+5,32,3223,2,390,2,4,19,"None",0,0
+5,32,3223,2,390,2,2,15,"New school",2013,100
+5,32,3223,2,390,2,1,13,"Health facility",2014,100
+5,32,3223,2,390,2,3,17,"On grid Electricity",2016,80
+5,32,3223,2,578,1,2,6,"Sharp change in price",2016,100
+5,32,3223,2,578,1,1,1,"Drought",2016,100
+5,32,3223,2,578,2,1,19,"faming settlement no development",2015,100
+3,33,3304,2,418,1,1,6,"Price fluctuations",2016,95
+3,33,3304,2,418,2,1,12,"Job Opportunity",2015,55
+3,33,3307,2,688,1,1,2,"Flood",2015,75
+3,33,3307,2,688,1,2,6,"Price Fluctuations",2016,85
+3,33,3307,2,688,2,1,13,"New Health facility",2015,90
+3,33,3310,2,476,1,1,6,"Price fluctuations",2016,85
+3,33,3310,2,476,1,2,3,"Crop Disease",2015,70
+3,33,3310,2,476,2,1,12,"Job opportunity",2015,40
+3,33,3311,1,702,1,1,2,"Flood",2014,95
+3,33,3311,1,702,1,2,3,"Crop failure",2014,80
+3,33,3311,1,702,1,3,6,"Price fluctuations",2015,85
+3,33,3311,1,702,2,1,13,"Health Facility",2015,70
+3,33,3311,1,702,2,2,12,"New Employment",2014,40
+3,33,3313,2,930,1,2,6,"Price Fluctuations",2016,90
+3,33,3313,2,930,1,1,2,"Flood",2014,85
+3,33,3313,2,930,2,1,19,"Bore hole",2014,95
+3,33,3318,2,30,1,1,6,"price Fluctuation",2016,95
+3,33,3318,2,30,1,2,8,"Loss of Social service",2015,90
+3,33,3318,2,30,2,1,13,"New health facility",2013,85
+3,33,3321,1,1182,1,1,6,"Price fluctuations",2016,60
+3,33,3321,1,1182,2,2,15,"Renovated schools",2014,95
+3,33,3321,1,1182,2,3,11,"Environmental sanitation",2012,90
+3,33,3321,1,1182,2,1,13,"New Health",2013,100
+3,33,3323,2,92,1,1,2,"flood",2014,95
+3,33,3323,2,92,1,2,6,"price fluctuations",2016,85
+3,33,3323,2,92,2,1,15,"New school",2014,75
+2,34,3401,2,526,1,1,10,"BAD ROAD",2014,100
+2,34,3401,2,526,1,2,2,"FLOOD",2015,60
+2,34,3401,2,526,2,1,19,"PROVISION OF BOREHOLE WATER",2012,100
+2,34,3403,2,198,1,1,2,"FLOOD",2015,90
+2,34,3403,2,198,2,1,14,"ROAD",2014,100
+2,34,3405,2,456,1,1,2,"FLOOO",2013,90
+2,34,3405,2,456,2,1,19,"BUMPER HARVEST",2015,100
+2,34,3405,2,1706,1,1,2,"FLOOD",2015,100
+2,34,3405,2,1706,2,1,19,"CHNGE OF GOVERNMENT",2015,100
+2,34,3408,2,870,1,1,2,"FLOOD",2015,90
+2,34,3408,2,870,2,1,19,"RE OPENED OF CLOSED BANK",2016,100
+2,34,3410,2,42,1,1,10,"CRISIS  OVER FARM LAND",2016,100
+2,34,3410,2,42,2,1,19,"FISH MARKETING",2014,90
+2,34,3412,2,156,1,1,7,"COMMUNUAL CLASH",2013,100
+2,34,3412,2,156,2,1,14,"CONSTRUCTION OF ROAD",2015,100
+2,34,3413,2,262,1,1,6,"SCARCITY OF PETROLEUM",2016,100
+2,34,3413,2,262,2,1,19,"BETTER HARVEST",2015,100
+2,34,3415,2,268,1,1,6,"Inadequate rain fall",2015,100
+2,34,3415,2,268,2,1,16,"Change of Government",2015,100
+2,35,3501,1,702,1,1,10,"Bad road network",2013,90
+2,35,3501,1,702,1,3,2,"Flooding",2014,70
+2,35,3501,1,702,1,2,6,"Inflation",2016,100
+2,35,3501,1,702,2,3,19,"Women empowerment",2015,10
+2,35,3501,1,702,2,1,11,"Rehabilitation of general hospital",2015,100
+2,35,3501,1,702,2,2,19,"Construction of drainages",2013,50
+2,35,3501,2,1228,1,4,6,"Inflation",2016,100
+2,35,3501,2,1228,1,1,2,"Flooding",2014,80
+2,35,3501,2,1228,1,3,10,"Crop destructuons",2014,70
+2,35,3501,2,1228,1,2,10,"Road/bridge wash-off",2014,100
+2,35,3501,2,1228,2,1,19,"Provision of portable water",2015,100
+2,35,3503,1,54,1,1,8,"Insurgecy",2014,100
+2,35,3503,1,54,2,1,19,"Provision of security",2015,80
+2,35,3504,2,1288,1,1,10,"Bad road network",2014,100
+2,35,3504,2,1288,1,3,2,"Flooding",2014,60
+2,35,3504,2,1288,1,2,8,"Lack of social amenities",2013,100
+2,35,3504,2,1288,2,1,19,"Security Patrol",2015,100
+2,35,3506,2,1040,1,2,10,"Terorism",2015,10
+2,35,3506,2,1040,1,3,6,"Inflation",2016,100
+2,35,3506,2,1040,1,1,2,"Flooding",2013,70
+2,35,3506,2,1040,2,1,16,"Construction of Geidam road",2013,100
+2,35,3507,2,746,,,,,,
+2,35,3509,2,1310,1,3,2,"Destruction of crops",2014,70
+2,35,3509,2,1310,1,2,2,"Flooding",2014,70
+2,35,3509,2,1310,1,1,6,"High prices of commodities",2016,100
+2,35,3509,2,1310,2,1,19,"Provision of portable water",2015,100
+2,35,3509,2,2276,1,3,8,"Lack of social amenities",2014,100
+2,35,3509,2,2276,1,1,10,"Bad road network",2015,100
+2,35,3509,2,2276,1,4,10,"Lack of fertilizer supply",2015,100
+2,35,3509,2,2276,1,2,6,"Changes in prices of commodities",2016,100
+2,35,3509,2,2276,2,1,19,"Prompt Security patrols",2015,100
+2,35,3511,2,1646,1,2,1,"Drought",2015,80
+2,35,3511,2,1646,1,1,6,"Rises in price of commodities",2016,95
+2,35,3511,2,1646,2,2,19,"Provision of  portable water",2015,100
+2,35,3511,2,1646,2,1,14,"Construction of good road",2015,100
+2,35,3513,2,576,1,2,6,"Inflation",2016,100
+2,35,3513,2,576,1,1,1,"Drought",2015,80
+2,35,3513,2,576,2,2,16,"Road maintenance",2014,100
+2,35,3513,2,576,2,1,11,"Provision of improved toilet in primary school",2015,70
+2,35,3513,1,1278,1,1,6,"Inflation",2016,80
+2,35,3513,1,1278,2,2,16,"Transport services",2015,80
+2,35,3513,1,1278,2,1,19,"Peaceful co-existence",2015,100
+2,35,3515,2,316,1,2,8,"insurgency",2014,50
+2,35,3515,2,316,1,3,1,"Lack of water",2013,100
+2,35,3515,2,316,1,1,10,"Robbery",2015,5
+2,35,3515,2,316,2,1,19,"Provision of security",2015,80
+2,35,3516,2,1632,1,1,8,"Lack of portable water",2014,100
+2,35,3516,2,1632,1,2,8,"Lack of social amenities",2014,100
+2,35,3516,2,1632,2,1,11,"Construction of road",2013,100
+3,36,3601,2,1214,1,1,6,"Price  of   Fluctuations",2016,100
+3,36,3601,2,1214,2,1,14,"Renovation  of   School",2014,80
+3,36,3603,2,978,1,1,5,"Natural  Disasters",2015,65
+3,36,3603,2,978,2,1,15,"New  School",2014,70
+3,36,3605,2,240,1,1,9,"Robbery",2015,10
+3,36,3605,2,240,1,3,2,"Flood",2015,25
+3,36,3605,2,240,1,2,5,"Death",2014,5
+3,36,3605,2,240,2,1,11,"Provision  of  new  Boreholes.",2015,50
+3,36,3605,2,240,2,2,15,"New  Primary  School",2014,52
+3,36,3606,2,1956,1,3,3,"Crop  Failures",2014,25
+3,36,3606,2,1956,1,2,2,"Natural   Disaster",2015,50
+3,36,3606,2,1956,1,1,6,"Price  Fluctuations",2015,90
+3,36,3606,2,1956,2,2,11,"New  Market",2016,80
+3,36,3606,2,1956,2,1,15,"New  School",2013,70
+3,36,3607,1,2596,1,1,6,"Price Fluctuations",2015,100
+3,36,3607,1,2596,1,2,2,"Natural  Disaster",2015,35
+3,36,3607,1,2596,2,2,15,"School  Renovation",2014,80
+3,36,3607,1,2596,2,1,14,"New Road",2014,45
+3,36,3608,2,2078,1,1,5,"Natural  Disasters",2015,10
+3,36,3608,2,2078,1,2,6,"Price Fluctutuations",2016,95
+3,36,3608,2,2078,2,1,11,"Renovations  of  Schools",2014,60
+3,36,3610,2,1826,1,1,2,"Natural   Disasters",2015,40
+3,36,3610,2,1826,1,3,10,"Security  Challenge in  the  Community.",2015,80
+3,36,3610,2,1826,1,2,8,"Lack  Social Amenities.",2013,55
+3,36,3610,2,1826,2,1,11,"Construction  of  new  mosque",2013,70
+3,36,3612,1,1474,1,1,6,"Price  of  Fluctuations",2015,90
+3,36,3612,1,1474,1,2,1,"Natural  Disasters",2015,90
+3,36,3612,1,1474,2,1,11,"Construction of New  Dam",2012,80
+3,36,3613,2,1066,1,2,8,"Loss  of  Key  Social Services",2015,40
+3,36,3613,2,1066,1,1,6,"Price  Fluctuations",2016,80
+3,36,3613,2,1066,2,1,15,"New  School",2014,70
+1,37,3702,1,972,1,3,5,"sicknesses /diseases",2015,30
+1,37,3702,1,972,1,2,6,"price fluctuations",2016,50
+1,37,3702,1,972,1,1,10,"Lack  of affordable land for  farming",2013,90
+1,37,3702,1,972,1,4,10,"affordable water supply",2013,60
+1,37,3702,1,972,2,4,13,"health centers",2013,80
+1,37,3702,1,972,2,3,14,"good road",2013,90
+1,37,3702,1,972,2,2,19,"Banks",2013,80
+1,37,3702,1,972,2,1,15,"schools",2013,80
+1,37,3706,2,6,1,2,5,"human epidemic",2013,20
+1,37,3706,2,6,1,1,3,"crop disease/pests",2013,40
+1,37,3706,2,6,1,4,8,"loss of key social service",2013,99
+1,37,3706,2,6,1,3,6,"sharp change in price",2014,50
+1,37,3706,2,6,2,2,13,"Health care",2014,60
+1,37,3706,2,6,2,4,19,"Good health/peace relationship amongst all tribes",2014,60
+1,37,3706,2,6,2,3,16,"Transportation",2013,99
+1,37,3706,2,6,2,1,11,""" water""",2013,50
+1,37,3706,1,156,1,3,10,"lack of enough land for conducive farming",2013,60
+1,37,3706,1,156,1,2,6,"price fluctuations",2015,40
+1,37,3706,1,156,1,4,8,"lack of access road.",2013,80
+1,37,3706,1,156,1,1,5,"diseases",2013,20
+1,37,3706,1,156,2,1,13,"provision of good health facilities",2014,60
+1,37,3706,1,156,2,2,15,"available schools",2013,70
+1,37,3706,1,156,2,3,19,"peaceful environment",2013,75
+1,37,3706,1,156,2,4,16,"available transportation",2013,60
+1,37,3706,1,4144,1,2,10,"robbery",2014,3
+1,37,3706,1,4144,1,3,6,"price fluactuation",2015,10
+1,37,3706,1,4144,1,1,10,"insurgency",2014,5
+1,37,3706,1,4144,1,4,3,"disease",2014,15
+1,37,3706,1,4144,2,2,15,"schools",2013,80
+1,37,3706,1,4144,2,4,19,"security",2014,50
+1,37,3706,1,4144,2,3,12,"employment",2013,30
+1,37,3706,1,4144,2,1,13,"health",2013,60

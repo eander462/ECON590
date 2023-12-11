@@ -1,0 +1,501 @@
+"zone","state","lga","sector","ea","c6aq12a","c6aq12b","c6aq12c","c6aq12d"
+"south east","abia","aba south","urban",536,3,2,2,5
+"south east","abia","aba south","urban",1690,2,2,2,5
+"south south","akwa ibom","abak","urban",1198,1,1,2,4
+"south east","ebonyi","abakaliki","rural",154,3,3,4,4
+"south west","ogun","abeokuta north","urban",506,2,2,1,3
+"south east","imo","aboh mbaise","rural",954,4,4,1,4
+"south south","rivers","abua-odua","rural",2034,2,1,2,3
+"north central","kogi","adavi","rural",422,2,1,2,3
+"south west","ekiti","ado ekiti","urban",1206,2,2,2,5
+"south west","ogun","ado-odo/ota","urban",1076,3,3,2,4
+"south west","ogun","ado-odo/ota","urban",1612,4,3,4,3
+"north central","benue","ador","rural",606,4,4,1,3
+"south east","ebonyi","afikpo north","rural",936,3,2,4,4
+"north central","niger","agaie","rural",822,2,1,1,4
+"north central","benue","agatu","rural",632,1,1,5,2
+"south west","lagos","agege","urban",766,2,3,1,5
+"south east","anambra","aguata","urban",738,3,3,2,3
+"south east","anambra","aguata","urban",1460,2,2,2,3
+"south east","anambra","aguata","rural",2106,3,3,2,3
+"south east","imo","ahiazu mbaise","rural",1576,2,3,2,5
+"south south","rivers","ahoada east","rural",84,2,2,2,3
+"south south","rivers","ahoada west","rural",2644,2,2,2,3
+"north west","kano","ajingi","rural",640,2,2,2,5
+"south west","oyo","akinyele","urban",1264,2,2,1,4
+"south west","oyo","akinyele","urban",1310,2,4,1,4
+"south west","ondo","akoko north west","rural",566,2,3,2,4
+"south west","ondo","akoko south west","urban",340,2,2,2,3
+"south south","cross river","akpabuyo","rural",48,1,4,1,5
+"south south","rivers","akuku-toru","urban",346,2,1,2,3
+"south west","ondo","akure south","urban",164,2,2,1,4
+"south west","ondo","akure south","urban",802,2,1,1,4
+"north west","kano","albasu","rural",52,2,2,1,4
+"south west","lagos","alimosho","urban",674,3,3,1,3
+"south west","lagos","alimosho","urban",1588,2,3,2,5
+"south west","lagos","alimosho","urban",3592,1,3,1,5
+"south west","lagos","alimosho","urban",7586,2,3,2,5
+"north east","bauchi","alkaleri","rural",60,2,1,3,2
+"south east","anambra","anambra east","rural",1080,2,2,2,4
+"south east","anambra","anambra west","rural",836,1,1,4,5
+"south east","enugu","aniniri","rural",1116,2,2,2,3
+"south south","delta","aniocha north","rural",172,2,4,2,4
+"north west","zamfara","anka","rural",1214,2,2,2,4
+"north central","kogi","ankpa","rural",266,2,2,3,3
+"north central","kogi","ankpa","rural",530,4,5,2,2
+"south west","lagos","apapa","urban",134,1,4,1,4
+"north east","taraba","ardo-kola","rural",526,2,2,2,3
+"north west","kebbi","arewa","rural",1124,3,3,2,5
+"south south","rivers","asari-toru","rural",276,1,1,1,4
+"north east","borno","asikira/uba","rural",1152,,,,
+"south west","osun","atakumosa west","urban",1028,2,5,1,4
+"south west","oyo","atigbo","rural",216,4,4,1,4
+"north central","nasarawa","awe","rural",728,3,3,2,3
+"south east","anambra","awka north","rural",484,2,3,2,3
+"south east","anambra","awka north","rural",722,2,2,2,3
+"south east","anambra","ayamelum","rural",796,3,3,2,3
+"north west","jigawa","babura","rural",510,2,2,1,4
+"north east","yobe","bade","urban",702,2,2,1,4
+"north east","yobe","bade","rural",1228,3,2,4,3
+"north west","katsina","bakori","rural",1354,1,2,2,2
+"north east","gombe","balanga","rural",590,5,5,2,4
+"north east","borno","bama","urban",944,,,,
+"north central","plateau","barkin ladi","rural",604,2,3,2,5
+"north central","kwara","baruten","rural",1982,2,5,1,5
+"north west","katsina","batsari","rural",784,2,2,2,2
+"north east","bauchi","bauchi","urban",2194,2,2,2,2
+"north east","bauchi","bauchi","rural",3878,2,2,3,3
+"south south","cross river","bekwarra","rural",978,2,2,2,5
+"south east","abia","bende","rural",1364,3,3,2,5
+"north west","kano","bichi","rural",1290,2,4,2,5
+"north central","niger","bida","urban",658,2,1,1,3
+"north central","niger","bida","urban",1786,2,1,1,4
+"north east","gombe","billiri","rural",634,2,2,2,4
+"north west","katsina","bindawa","rural",970,3,3,2,3
+"north west","kebbi","birnin kebbi","rural",236,2,2,2,5
+"north west","kebbi","birnin kebbi","rural",2822,2,2,1,5
+"north west","zamfara","birnin magaji","rural",978,3,3,1,3
+"north west","jigawa","birniwa","rural",1080,2,2,1,4
+"north west","jigawa","birniwa","urban",2074,2,2,1,4
+"north east","borno","biu","rural",46,1,1,1,5
+"south south","cross river","boki","rural",1446,2,3,2,3
+"north central","plateau","bokkos","rural",874,5,5,1,5
+"south west","osun","bolowaduro","urban",384,2,5,1,4
+"south west","osun","bolowaduro","urban",1096,2,4,1,3
+"south south","rivers","bonny","rural",1464,2,2,2,3
+"north central","niger","bosso","rural",594,2,1,1,4
+"south south","bayelsa","brass","rural",640,2,5,1,5
+"north west","zamfara","bungudu","rural",240,2,2,2,2
+"north central","fct abuja","bwari area council","urban",972,2,1,4,5
+"south south","cross river","calabar municipal","urban",278,3,3,2,5
+"north central","niger","chanchaga","urban",516,3,2,2,4
+"north east","borno","damaboa","rural",946,,,,
+"north east","borno","damaboa","rural",1438,,,,
+"north east","borno","damaboa","rural",2396,,,,
+"north east","yobe","damaturu","urban",54,2,2,2,5
+"north east","bauchi","damban","rural",708,2,2,2,4
+"north west","kano","danbatta","rural",284,2,2,2,2
+"north west","kebbi","dandi","urban",520,2,2,2,3
+"north west","katsina","dandume","rural",1474,2,2,1,2
+"north west","katsina","danja","rural",240,2,2,1,2
+"north west","kebbi","danko-wasagu","rural",38,1,2,2,3
+"north east","bauchi","dass","rural",830,2,2,3,3
+"north west","kano","dawakin tofa","rural",808,2,1,2,5
+"south south","rivers","degema","rural",2244,2,1,2,3
+"north central","kogi","dekina","rural",664,5,5,2,3
+"north central","kogi","dekina","rural",2432,2,5,2,3
+"north east","adamawa","demsa","rural",60,2,2,2,5
+"north east","taraba","donga","rural",198,2,2,2,3
+"north west","jigawa","dutse","rural",284,3,3,1,4
+"north west","katsina","dutsin-ma","urban",844,2,2,2,2
+"south east","ebonyi","ebonyi","rural",434,3,2,3,4
+"south east","ebonyi","ebonyi","urban",2028,3,2,4,4
+"north central","kwara","edu","rural",2348,2,2,1,5
+"south west","ogun","egbado-north/yewa","rural",204,2,1,3,5
+"south west","oyo","egbeda","urban",2870,3,5,2,5
+"south west","oyo","egbeda","urban",2942,2,5,2,5
+"south west","osun","egbedore","rural",220,3,4,1,3
+"south south","edo","egor","urban",2146,2,3,2,4
+"south south","edo","egor","urban",2710,2,3,2,4
+"south east","imo","ehime mbano","rural",158,4,4,1,4
+"south west","osun","ejigbo","urban",350,5,5,3,5
+"south south","bayelsa","ekeremor","rural",1356,2,1,1,3
+"north central","kwara","ekiti","rural",322,5,2,1,5
+"south west","ekiti","ekiti east","urban",626,2,1,2,5
+"south west","ekiti","ekiti west","rural",10,2,1,2,5
+"south west","ekiti","ekiti west","urban",1232,2,1,2,3
+"south south","rivers","eleme","urban",1208,2,3,1,3
+"south south","rivers","emohu","rural",1692,2,2,2,5
+"south east","enugu","enugu east","urban",34,2,2,2,2
+"south east","enugu","enugu north","urban",96,1,5,2,5
+"south west","lagos","epe","rural",396,2,3,2,5
+"south south","edo","esan north east","rural",736,3,3,4,4
+"south west","ondo","ese-odo","rural",1266,3,3,1,4
+"south south","delta","ethiope east","urban",662,2,2,2,3
+"south south","delta","ethiope east","rural",1374,2,2,1,3
+"south west","lagos","eti-osa","urban",2074,2,5,2,3
+"south south","akwa ibom","etim ekpo","rural",4,1,1,2,4
+"south south","akwa ibom","etim ekpo","rural",1542,1,2,5,2
+"south south","edo","etsako east","rural",526,2,2,3,2
+"south south","cross river","etung","rural",200,2,3,2,3
+"south east","enugu","ezeagu","rural",694,2,2,1,5
+"south east","ebonyi","ezza north","rural",100,3,3,3,4
+"south east","ebonyi","ezza south","rural",446,3,2,4,4
+"north west","kano","fagge","urban",1510,2,2,2,5
+"north west","katsina","faskari","rural",1232,2,4,4,4
+"north east","yobe","fika","rural",1288,2,2,2,3
+"north west","sokoto","gada","rural",418,2,2,1,4
+"north east","bauchi","ganjuwa","rural",718,2,2,3,2
+"north east","bauchi","ganjuwa","rural",984,3,2,3,5
+"north east","adamawa","ganye","rural",1224,3,3,2,5
+"north west","kano","garko","rural",934,2,1,1,4
+"north east","taraba","gassol","rural",456,2,2,2,4
+"north east","taraba","gassol","rural",1706,2,2,2,4
+"north west","kano","gaya","rural",1516,2,1,1,4
+"north central","niger","gbako","rural",820,2,1,2,5
+"north central","benue","gboko","rural",4186,2,2,2,3
+"south west","ekiti","gbonyin","urban",268,2,1,2,5
+"north east","yobe","geidam","rural",1040,2,2,2,5
+"north west","kaduna","giwa","rural",840,2,2,2,3
+"south south","rivers","gokana","rural",314,2,4,2,3
+"north east","gombe","gombe","urban",148,2,1,1,4
+"north east","gombe","gombe","urban",398,2,1,2,4
+"north east","adamawa","gombi","rural",712,3,2,2,3
+"north east","borno","gubio","rural",1748,,,,
+"north east","yobe","gujba","rural",746,,,,
+"north west","zamfara","gummi","rural",1956,2,2,2,4
+"north west","jigawa","guri","rural",546,2,3,1,5
+"north west","zamfara","gusau","urban",2596,2,2,2,3
+"north west","sokoto","gwadabawa","rural",688,2,3,1,4
+"north west","kebbi","gwandu","rural",180,2,2,2,5
+"north west","kano","gwarzo","rural",366,2,1,2,5
+"north central","benue","gwer-east","rural",560,3,3,2,3
+"north central","benue","gwer-west","rural",754,4,3,1,3
+"north west","jigawa","gwiwa","rural",794,3,4,1,4
+"north east","borno","gwoza","rural",390,,,,
+"north east","borno","gwoza","urban",1558,,,,
+"north west","jigawa","hadejia","urban",226,2,2,1,5
+"north east","borno","hawul","rural",866,4,4,2,4
+"north east","adamawa","hong","rural",1302,2,1,1,5
+"south west","oyo","ibadan north east","urban",1624,2,5,1,4
+"south west","oyo","ibadan south east","urban",764,2,2,1,3
+"south west","oyo","ibadan south east","urban",1642,2,5,2,5
+"south west","oyo","ibadan south west","urban",1762,2,2,1,4
+"south west","oyo","ibarapa east","rural",334,5,5,1,5
+"south south","akwa ibom","ibeno","urban",634,1,2,5,2
+"south south","akwa ibom","ibiono ibom","rural",478,1,2,5,5
+"south east","imo","ideato north","rural",180,3,3,4,4
+"south east","imo","ideato south","rural",590,2,5,2,5
+"south east","anambra","idemili north","urban",3192,3,3,2,3
+"south east","anambra","idemili north","urban",3414,3,3,2,3
+"south east","anambra","idemili north","rural",4036,2,2,2,5
+"south east","anambra","idemili south","urban",1486,2,2,2,5
+"south west","oyo","ido","rural",120,3,3,1,5
+"south west","osun","ife central","urban",746,2,5,2,5
+"south west","osun","ife central","rural",1870,5,5,5,5
+"south west","osun","ife south","urban",214,2,5,1,5
+"south west","ogun","ifo","urban",1410,2,3,4,4
+"south west","ogun","ifo","urban",2136,2,4,2,3
+"north west","kaduna","igabi","urban",2690,1,1,2,5
+"south east","enugu","igbo etiti","rural",68,3,2,2,5
+"south east","enugu","igbo-eze north","rural",968,2,2,1,4
+"south east","enugu","igbo-eze north","rural",1996,3,3,1,2
+"south south","edo","igugben","rural",462,4,4,1,4
+"south east","anambra","ihiala","rural",1606,2,2,2,5
+"south east","anambra","ihiala","rural",2592,2,2,2,5
+"south west","ogun","ijebu-north","urban",1646,2,2,5,4
+"south west","ogun","ijebu-ode","urban",710,2,3,2,4
+"south west","ekiti","ijero","rural",674,2,2,1,4
+"north central","kogi","ijumu","urban",792,1,5,2,2
+"south south","delta","ika north-east","urban",1166,3,2,1,4
+"south south","delta","ika south","rural",1314,4,4,1,4
+"south south","delta","ika south","rural",1718,2,2,1,4
+"north west","kaduna","ikara","rural",534,5,4,1,5
+"south east","imo","ikeduru","rural",1104,2,3,2,3
+"south west","lagos","ikeja","urban",788,2,3,2,5
+"south west","ogun","ikenne","rural",110,1,3,1,4
+"south west","ekiti","ikere","urban",1300,2,2,1,5
+"south west","lagos","ikorordu","urban",2798,2,2,3,3
+"south south","akwa ibom","ikot abasi","rural",20,1,2,5,4
+"south south","akwa ibom","ikot ekpene","rural",70,1,2,2,4
+"south south","edo","ikpooba okha","urban",2220,2,2,2,4
+"south south","edo","ikpooba okha","urban",2856,3,3,2,3
+"south south","rivers","ikwerre","rural",128,2,1,2,5
+"south east","ebonyi","ikwo","rural",1034,3,2,3,3
+"south east","abia","ikwuano","rural",638,2,1,2,5
+"south west","ondo","ilaje","rural",2394,3,3,2,4
+"south west","ondo","ilaje","urban",3722,3,3,2,3
+"south west","ondo","ileoluji/okeigbo","rural",588,2,2,2,4
+"south west","osun","ilesa east","urban",952,2,5,2,3
+"north central","kwara","ilorin east","urban",970,2,2,1,5
+"north central","kwara","ilorin south","urban",78,1,2,2,5
+"north central","kwara","ilorin south","urban",2316,2,2,2,5
+"north central","kwara","ilorin west","urban",556,2,2,1,3
+"north central","kwara","ilorin west","urban",5180,2,2,1,5
+"north west","katsina","ingawa","rural",1746,5,2,2,5
+"south west","oyo","irepo","rural",1688,2,4,1,4
+"south west","osun","irepodun","urban",506,2,5,1,5
+"north central","kwara","irepodun","rural",998,1,2,1,5
+"south west","osun","irepodun","urban",1210,5,3,1,5
+"south west","osun","irepodun","rural",1628,5,5,3,4
+"south west","ekiti","ise/orun","urban",6,3,2,2,5
+"south west","oyo","iseyin","urban",390,2,4,1,4
+"south east","ebonyi","ishielu","rural",492,2,2,3,3
+"south east","enugu","isi-uzo","rural",236,2,5,2,5
+"south east","imo","isiala mbano","rural",738,2,3,2,5
+"south east","abia","isiala ngwa north","rural",880,2,1,1,4
+"south east","abia","isiala ngwa south","rural",1044,3,3,2,5
+"south south","delta","isoko south","rural",20,2,2,1,3
+"south east","imo","isu","rural",1006,2,5,2,5
+"south east","abia","isuikwato","rural",904,2,1,2,5
+"north east","bauchi","itas-gadau","urban",872,2,1,2,2
+"north east","bauchi","itas-gadau","rural",1516,2,1,2,4
+"south east","ebonyi","ivo","rural",672,3,2,3,3
+"south west","oyo","iwajowa","rural",914,5,5,4,5
+"south west","osun","iwo","urban",396,2,5,2,4
+"south west","osun","iwo","rural",1126,2,4,1,4
+"south east","ebonyi","izzi","rural",714,3,3,4,4
+"south east","ebonyi","izzi","rural",2752,3,3,4,4
+"north east","yobe","jakusko","rural",1310,2,2,2,3
+"north east","yobe","jakusko","rural",2276,2,2,2,3
+"north east","borno","jere","rural",2094,2,2,2,5
+"north central","plateau","jos north","urban",2914,2,2,1,5
+"north west","kano","kabo","urban",842,2,3,1,4
+"north west","kaduna","kachia","rural",1726,2,2,2,3
+"north west","kaduna","kaduna north","urban",1272,3,2,2,5
+"north west","jigawa","kafin hausa","rural",2244,2,3,1,4
+"north west","kaduna","kagarko","rural",364,2,2,1,1
+"north central","kwara","kaiama","rural",516,1,2,1,3
+"north west","katsina","kaita","rural",1134,2,2,2,5
+"north east","borno","kalabalge","rural",362,2,2,3,2
+"north east","gombe","kaltungo","rural",458,2,5,1,4
+"north central","plateau","kanam","urban",724,4,4,1,5
+"north central","plateau","kanam","rural",1092,5,5,2,5
+"north west","katsina","kankara","rural",344,2,4,5,3
+"north west","kano","karaye","rural",284,2,1,2,5
+"north east","taraba","karim-lamido","rural",870,2,2,4,4
+"north central","nasarawa","karu","rural",222,2,2,2,2
+"north west","katsina","katsina","urban",3300,2,2,2,2
+"north central","benue","katsina-ala","rural",1226,2,2,4,4
+"north west","jigawa","kaugama","rural",1452,3,3,1,5
+"north west","zamfara","kaura namoda","rural",2078,2,2,2,4
+"north west","kaduna","kauru","rural",678,2,2,2,5
+"north west","sokoto","kebbe","rural",476,2,2,4,4
+"north east","bauchi","kirfi","rural",348,2,1,4,2
+"north west","jigawa","kiyawa","rural",1354,2,2,1,5
+"north central","kogi","kogi(k.k)","rural",594,4,4,1,3
+"north central","kogi","kogi(k.k)","urban",806,2,1,2,3
+"north central","nasarawa","kokona","rural",814,4,4,2,3
+"north east","borno","konduga","rural",1270,,,,
+"north central","benue","konshisha","rural",2726,2,5,1,3
+"north central","niger","kontagora","rural",424,2,1,4,4
+"south west","lagos","kosofe","urban",306,2,2,2,4
+"north west","kaduna","kudan","urban",378,2,2,3,5
+"north east","borno","kukawa","urban",2476,,,,
+"north west","kano","kumbotso","urban",2858,3,2,1,3
+"north west","kano","kumbotso","rural",3394,2,2,1,3
+"north west","katsina","kurfi","rural",1130,1,1,2,2
+"north east","gombe","kwami","rural",1682,2,1,2,3
+"north central","benue","kwande","rural",2532,2,4,2,3
+"north west","sokoto","kware","urban",702,2,3,4,4
+"north central","nasarawa","lafia","urban",2788,3,3,2,3
+"south west","oyo","lagelu","urban",322,2,2,3,5
+"south west","lagos","lagos mainland","urban",696,1,5,3,3
+"north east","adamawa","lamurde","rural",1040,2,2,2,5
+"north central","plateau","lantang north","rural",1026,2,3,2,5
+"north east","taraba","lau","rural",42,2,2,2,3
+"north central","niger","lavun","rural",1462,2,1,1,5
+"north central","niger","lavun","rural",2248,3,4,1,5
+"north west","kaduna","lere","rural",370,2,2,2,5
+"north east","yobe","machina","rural",1646,2,1,2,4
+"north east","adamawa","madagali","rural",1300,2,1,3,5
+"north west","kano","madobi","rural",526,2,1,2,5
+"north east","borno","magumeri","rural",1030,2,2,2,3
+"north east","borno","maiduguri metropolitan","urban",1448,2,4,4,5
+"north east","borno","maiduguri metropolitan","urban",5062,2,2,1,5
+"north west","kebbi","maiyama","rural",926,2,2,2,5
+"north central","benue","makurdi","rural",304,2,3,2,5
+"north west","katsina","malunfashi","rural",760,2,2,2,4
+"north west","katsina","malunfashi","rural",1304,2,2,1,1
+"north central","plateau","mangu","rural",2966,5,2,1,4
+"north central","niger","mariga","rural",2178,2,1,1,4
+"north central","niger","mariga","rural",2196,2,1,1,4
+"north west","zamfara","maru","rural",1826,3,3,2,2
+"north central","niger","mashegu","rural",254,2,1,2,4
+"north west","katsina","matazu","rural",498,2,2,2,5
+"north east","adamawa","mayo-belwa","rural",956,2,2,1,3
+"south south","akwa ibom","mbo","rural",874,2,2,5,4
+"north west","jigawa","miga","rural",96,2,2,1,4
+"north central","plateau","mikang","rural",350,5,5,2,5
+"north east","bauchi","misau","rural",710,3,2,2,4
+"north east","bauchi","misau","urban",2036,3,2,2,3
+"north east","borno","mobbar","rural",548,,,,
+"north east","borno","monguno","rural",768,2,2,3,3
+"north east","adamawa","mubi north","rural",898,2,1,5,5
+"north east","adamawa","mubi south","urban",8,2,1,2,3
+"north central","fct abuja","municipal area council","rural",6,5,1,3,5
+"north central","fct abuja","municipal area council","urban",156,2,1,4,5
+"north central","fct abuja","municipal area council","urban",4144,2,1,1,5
+"north central","niger","muya","rural",494,2,1,1,4
+"north central","niger","muya","rural",1276,3,1,1,4
+"north central","nasarawa","nasarawa","rural",248,2,3,2,3
+"south south","delta","ndokwa west","rural",936,2,5,1,4
+"north east","borno","nganzai","rural",926,,,,
+"south east","imo","ngor okpala","rural",108,4,4,2,3
+"south east","imo","ngor okpala","rural",414,2,2,2,5
+"north east","yobe","nguru","rural",576,2,2,1,3
+"north east","yobe","nguru","urban",1278,2,2,1,4
+"north east","bauchi","ningi","rural",18,4,2,2,4
+"south east","imo","njaba","rural",440,4,4,1,4
+"south east","anambra","njikoka","rural",1540,2,3,2,3
+"south east","enugu","nkanu east","rural",1066,2,3,3,2
+"south east","anambra","nnewi north","urban",2176,2,2,2,5
+"south east","anambra","nnewi south","urban",2108,1,1,2,5
+"south south","akwa ibom","nsit atai","rural",1136,1,1,1,4
+"south south","akwa ibom","nsit ubium","rural",364,1,5,2,2
+"south east","enugu","nsukka","rural",670,2,2,1,4
+"south east","enugu","nsukka","urban",2578,4,2,4,3
+"north east","adamawa","numan","rural",200,3,3,2,3
+"south west","ogun","obafemi-owode","rural",752,1,3,1,4
+"south south","cross river","obanliku","rural",102,4,4,2,5
+"north central","nasarawa","obi","rural",1424,2,2,2,3
+"south south","rivers","obio akpor","urban",1896,2,2,2,3
+"south south","rivers","obio akpor","urban",2978,2,2,2,5
+"south south","rivers","obio akpor","urban",4712,2,2,2,4
+"south east","imo","obowo","rural",296,2,1,2,3
+"south south","cross river","obubra","rural",2266,3,4,2,4
+"south south","cross river","obudu","rural",1746,2,4,2,3
+"south west","ondo","odigbo","rural",612,2,2,1,4
+"south south","cross river","odukpani","urban",1390,1,3,1,5
+"north central","kogi","ofu","rural",1354,1,5,1,4
+"south south","rivers","ogba/egbema/ndoni","rural",1184,5,5,1,4
+"north central","benue","ogbadibo","urban",294,2,2,1,3
+"north central","benue","ogbadibo","rural",780,2,3,2,3
+"south east","anambra","ogbaru","urban",616,2,2,2,5
+"south south","bayelsa","ogbia","rural",162,2,2,2,4
+"south west","oyo","ogo oluwa","rural",622,1,4,1,4
+"south south","cross river","ogoja","rural",1068,3,3,1,3
+"south east","abia","ohafia","rural",76,2,2,1,5
+"south east","imo","ohaji-egbema","rural",1060,4,4,2,5
+"south east","ebonyi","ohaukwu","rural",78,2,2,3,3
+"south east","ebonyi","ohaukwu","rural",1952,3,2,3,3
+"south west","lagos","ojo","urban",112,4,3,2,5
+"south west","lagos","ojo","urban",924,2,5,2,3
+"north central","benue","oju","rural",1248,1,1,2,5
+"north central","kogi","okehi","urban",428,3,3,2,4
+"south south","rivers","okirika","rural",296,2,2,2,5
+"south west","ondo","okitipupa","urban",1876,2,1,2,3
+"south south","akwa ibom","okobo","rural",580,1,2,5,4
+"north central","benue","okpokwu","rural",1640,3,3,1,5
+"north central","kogi","olamaboro","rural",596,2,5,2,2
+"south west","osun","olorunda","urban",1124,3,5,1,5
+"south west","oyo","olorunsogo","urban",1406,2,5,1,3
+"south west","oyo","olorunsogo","urban",1924,2,5,1,5
+"south west","oyo","oluyole","urban",2052,2,5,2,5
+"south west","ondo","ondo east","rural",1164,2,2,2,4
+"south west","ondo","ondo west","urban",2302,2,2,1,4
+"south west","ondo","ondo west","rural",3944,3,4,2,4
+"south east","ebonyi","onicha","rural",954,3,3,3,3
+"south east","anambra","onitsha north","urban",678,2,2,2,5
+"south east","anambra","onitsha south","urban",44,2,2,2,5
+"south east","imo","ono-imo","rural",106,1,1,2,4
+"south south","edo","oredo","urban",1392,2,2,2,5
+"south east","imo","orsu","rural",18,2,5,2,5
+"south east","imo","oru west","urban",136,2,5,2,5
+"south east","imo","oru west","urban",286,3,3,2,5
+"south south","akwa ibom","oruk anam","rural",74,1,1,2,3
+"south east","anambra","orumba north","rural",296,3,3,2,3
+"south south","delta","oshimili north","rural",80,2,3,1,4
+"south west","lagos","oshodi/isolo","urban",1770,2,3,1,3
+"south east","abia","osisioma north","urban",1146,3,2,2,5
+"south west","osun","osogbo","urban",530,2,5,1,5
+"south west","osun","osogbo","urban",1300,2,4,1,4
+"south west","osun","osogbo","urban",1418,2,3,1,5
+"north central","benue","otukpo","urban",1612,1,1,1,2
+"south south","edo","ovia north east","rural",452,2,5,2,3
+"south south","edo","owan east","rural",618,4,4,1,3
+"south east","imo","owerri municipal","rural",1210,4,4,2,4
+"south east","imo","owerri north","rural",1546,2,4,1,4
+"south east","anambra","oyi","urban",800,2,3,2,2
+"south south","rivers","oyigbo","rural",132,1,5,2,5
+"south west","oyo","oyo west","urban",946,1,4,1,4
+"north central","kwara","oyun","rural",924,2,2,1,5
+"north central","plateau","pankshin","rural",332,2,2,1,5
+"north central","kwara","patigi","urban",140,2,5,2,5
+"south south","rivers","port harcourt","urban",1624,2,2,2,3
+"south south","rivers","port harcourt","urban",2780,1,3,2,3
+"north west","kano","rano","rural",562,2,1,2,5
+"south west","ogun","remo north","rural",100,1,2,1,4
+"north central","niger","rijau","rural",100,2,1,1,4
+"north central","niger","rijau","urban",940,1,1,1,4
+"north west","katsina","rimi","rural",1050,2,2,2,2
+"north central","plateau","riyom","rural",680,1,3,1,5
+"north west","kano","rogo","rural",386,2,2,2,5
+"north west","jigawa","roni","rural",786,2,3,1,4
+"north west","sokoto","sabon birnin","rural",930,2,2,4,4
+"north west","katsina","safana","urban",1390,2,2,2,2
+"north west","katsina","safana","rural",1772,2,2,2,5
+"south south","bayelsa","sagbama","rural",1372,2,3,2,3
+"north west","kebbi","sakaba","rural",554,2,2,2,5
+"south west","oyo","saki west","rural",520,4,4,1,4
+"south west","oyo","saki west","urban",1088,2,3,1,4
+"north west","kaduna","sanga","rural",450,2,2,3,5
+"north east","borno","shani","rural",804,2,1,1,4
+"north central","plateau","shendam","rural",1344,5,5,2,5
+"north east","bauchi","shira","rural",942,2,1,1,3
+"south west","lagos","shomolu","urban",330,3,3,3,5
+"north east","gombe","shongom","rural",616,3,5,1,4
+"north east","adamawa","song","rural",1592,3,4,1,4
+"south south","bayelsa","southern ijaw","rural",1892,2,2,2,3
+"north central","niger","suleja","rural",1688,2,1,1,4
+"north west","kano","sumaila","rural",1994,2,2,3,5
+"north west","kebbi","suru","rural",2146,2,2,2,5
+"north west","kebbi","suru","rural",3956,2,2,5,5
+"south west","lagos","surulere","urban",402,1,3,1,5
+"south west","oyo","surulere","rural",554,2,4,1,4
+"south south","rivers","tai","rural",390,2,5,1,5
+"south south","rivers","tai","rural",578,2,2,2,5
+"north west","kano","takai","rural",432,1,2,1,4
+"north east","taraba","takum","rural",156,2,2,4,5
+"north west","zamfara","talata mafara","urban",1474,3,3,2,3
+"north west","sokoto","tambuwai","rural",30,2,3,2,4
+"north east","yobe","tarmuwa","rural",316,2,1,3,5
+"north east","bauchi","toro","rural",1304,2,2,2,3
+"north east","bauchi","toro","rural",1588,2,2,4,2
+"north west","zamfara","tsafe","rural",1066,3,3,2,3
+"north west","kano","tudun wada","rural",518,4,4,4,4
+"south east","enugu","udenu","rural",156,2,2,4,5
+"south east","enugu","udenu","rural",952,2,2,1,5
+"south east","enugu","udi","rural",2314,2,2,2,5
+"south south","delta","udu","urban",634,2,2,3,3
+"south south","delta","udu","rural",898,3,2,2,3
+"south south","cross river","ugep south-abi","rural",398,1,3,1,3
+"south south","delta","ughelli south","urban",38,2,2,2,3
+"south south","delta","ukwani","rural",120,1,2,2,4
+"south east","abia","umuahia north","urban",670,3,3,2,5
+"south east","abia","umunneochi","rural",560,3,3,2,3
+"south south","akwa ibom","uruan","rural",696,1,2,5,5
+"north central","benue","ushongo","rural",234,5,5,2,3
+"north central","benue","ushongo","rural",892,4,4,2,4
+"north east","taraba","ussa","rural",262,2,2,2,3
+"south south","akwa ibom","uyo","urban",516,1,2,5,3
+"south south","akwa ibom","uyo","urban",2322,1,2,5,4
+"north west","sokoto","wamakko","urban",1182,2,3,1,4
+"north central","nasarawa","wamba","rural",128,4,1,2,3
+"north west","kano","warawa","rural",668,2,2,1,5
+"south south","delta","warri south west","rural",1774,2,2,2,3
+"north central","niger","wushishi","rural",926,2,1,1,4
+"north west","sokoto","yabo bodingo","rural",92,2,3,2,4
+"north central","kogi","yagba east","urban",1296,2,5,1,4
+"south south","cross river","yakurr-ugep north","urban",1254,2,2,1,5
+"south south","cross river","yalla","rural",834,3,2,1,4
+"north east","gombe","yamaltu-deba","rural",1938,2,1,2,1
+"north west","jigawa","yan-kwashi","rural",634,2,3,1,4
+"south south","bayelsa","yenagoa","rural",748,2,2,2,3
+"south south","bayelsa","yenagoa","urban",3978,2,2,1,4
+"north east","adamawa","yola south","rural",18,3,2,2,5
+"north east","taraba","yorro","rural",268,2,2,2,4
+"north east","yobe","yunusari","rural",1632,3,2,2,5
+"north east","bauchi","zaki","rural",1756,3,1,2,4
+"north west","kaduna","zangon kataf","rural",1654,2,2,2,3
+"north west","kaduna","zaria","urban",1822,2,4,1,5

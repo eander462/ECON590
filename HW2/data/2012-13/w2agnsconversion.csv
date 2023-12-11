@@ -1,0 +1,2178 @@
+"cropname","cropcode","nscode","conversion","kg"
+"BEANS/COWPEA",1010,5,1.16,1
+"BEANS/COWPEA",1010,6,1.3,1
+"BEANS/COWPEA",1010,7,1.3,1
+"BEANS/COWPEA",1010,8,3.335,1
+"BEANS/COWPEA",1010,9,0.65,1
+"BEANS/COWPEA",1010,10,0.33,1
+"BEANS/COWPEA",1010,13,0.22,1
+"BEANS/COWPEA",1010,14,2.32,1
+"beans/cowpea",1010,21,20,1
+"beans/cowpea",1010,22,50,1
+"beans/cowpea",1010,23,100,1
+"beans/cowpea",1010,24,120,1
+"beans/cowpea",1010,25,15,1
+"beans/cowpea",1010,26,30,1
+"beans/cowpea",1010,27,50,1
+"beans/cowpea",1010,28,75,1
+"beans/cowpea",1010,31,10,1
+"beans/cowpea",1010,32,25,1
+"beans/cowpea",1010,33,40,1
+"beans/cowpea",1010,34,75,1
+"beans/cowpea",1010,61,15,1
+"beans/cowpea",1010,62,25,1
+"beans/cowpea",1010,63,40,1
+"beans/cowpea",1010,71,60,1
+"beans/cowpea",1010,72,85,1
+"beans/cowpea",1010,73,110,1
+"beans/cowpea",1010,74,150,1
+"BEANS/COWPEA",1010,81,1500,1
+"BEANS/COWPEA",1010,92,20,0
+"CASSAVA OLD",1020,7,2.15,1
+"CASSAVA OLD",1020,8,5.5,1
+"CASSAVA OLD",1020,13,0.36,1
+"cassava old",1020,21,20,1
+"cassava old",1020,22,50,1
+"cassava old",1020,23,100,1
+"cassava old",1020,24,120,1
+"cassava old",1020,25,15,1
+"cassava old",1020,26,30,1
+"cassava old",1020,27,50,1
+"cassava old",1020,28,75,1
+"cassava old",1020,31,10,1
+"cassava old",1020,32,25,1
+"cassava old",1020,33,40,1
+"cassava old",1020,34,75,1
+"CASSAVA OLD",1020,42,8,1
+"cassava old",1020,51,3,1
+"cassava old",1020,52,5,1
+"cassava old",1020,53,8,1
+"cassava old",1020,61,15,1
+"cassava old",1020,62,25,1
+"cassava old",1020,63,40,1
+"cassava old",1020,71,60,1
+"cassava old",1020,72,85,1
+"cassava old",1020,73,110,1
+"cassava old",1020,74,150,1
+"CASSAVA OLD",1020,81,1500,1
+"CASSAVA OLD",1020,82,2000,1
+"CASSAVA OLD",1020,83,2500,1
+"COCOYAM",1040,5,1.24,1
+"cocoyam",1040,21,20,1
+"cocoyam",1040,22,50,1
+"cocoyam",1040,23,100,1
+"cocoyam",1040,24,120,1
+"cocoyam",1040,25,15,1
+"cocoyam",1040,26,30,1
+"cocoyam",1040,27,50,1
+"cocoyam",1040,28,75,1
+"cocoyam",1040,31,10,1
+"cocoyam",1040,32,25,1
+"cocoyam",1040,33,40,1
+"cocoyam",1040,34,75,1
+"COCOYAM",1040,51,3,1
+"COCOYAM",1040,52,5,1
+"COCOYAM",1040,53,8,1
+"cocoyam",1040,61,15,1
+"cocoyam",1040,62,25,1
+"cocoyam",1040,63,40,1
+"cocoyam",1040,71,60,1
+"cocoyam",1040,72,85,1
+"cocoyam",1040,73,110,1
+"cocoyam",1040,74,150,1
+"COCOYAM",1040,82,2000,1
+"cotton",1050,21,20,1
+"cotton",1050,22,50,1
+"cotton",1050,23,100,1
+"cotton",1050,24,120,1
+"cotton",1050,25,15,1
+"cotton",1050,26,30,1
+"cotton",1050,27,50,1
+"cotton",1050,28,75,1
+"cotton",1050,31,10,1
+"cotton",1050,32,25,1
+"cotton",1050,33,40,1
+"cotton",1050,34,75,1
+"cotton",1050,61,15,1
+"cotton",1050,62,25,1
+"cotton",1050,63,40,1
+"seed cotton",1051,21,20,1
+"seed cotton",1051,22,50,1
+"seed cotton",1051,23,100,1
+"seed cotton",1051,24,120,1
+"seed cotton",1051,25,15,1
+"seed cotton",1051,26,30,1
+"seed cotton",1051,27,50,1
+"seed cotton",1051,28,75,1
+"seed cotton",1051,31,10,1
+"seed cotton",1051,32,25,1
+"seed cotton",1051,33,40,1
+"seed cotton",1051,34,75,1
+"seed cotton",1051,61,15,1
+"seed cotton",1051,62,25,1
+"seed cotton",1051,63,40,1
+"cotton lint",1052,21,20,1
+"cotton lint",1052,22,50,1
+"cotton lint",1052,23,100,1
+"cotton lint",1052,24,120,1
+"cotton lint",1052,25,15,1
+"cotton lint",1052,26,30,1
+"cotton lint",1052,27,50,1
+"cotton lint",1052,28,75,1
+"cotton lint",1052,31,10,1
+"cotton lint",1052,32,25,1
+"cotton lint",1052,33,40,1
+"cotton lint",1052,34,75,1
+"cotton lint",1052,61,15,1
+"cotton lint",1052,62,25,1
+"cotton lint",1052,63,40,1
+"cotton seed",1053,21,20,1
+"cotton seed",1053,22,50,1
+"cotton seed",1053,23,100,1
+"cotton seed",1053,24,120,1
+"cotton seed",1053,25,15,1
+"cotton seed",1053,26,30,1
+"cotton seed",1053,27,50,1
+"cotton seed",1053,28,75,1
+"cotton seed",1053,31,10,1
+"cotton seed",1053,32,25,1
+"cotton seed",1053,33,40,1
+"cotton seed",1053,34,75,1
+"cotton seed",1053,61,15,1
+"cotton seed",1053,62,25,1
+"cotton seed",1053,63,40,1
+"cotton seed",1053,71,60,1
+"cotton seed",1053,72,85,1
+"cotton seed",1053,73,110,1
+"cotton seed",1053,74,150,1
+"ground nut/peanuts",1060,21,20,1
+"ground nut/peanuts",1060,22,50,1
+"ground nut/peanuts",1060,23,100,1
+"ground nut/peanuts",1060,24,120,1
+"ground nut/peanuts",1060,25,15,1
+"ground nut/peanuts",1060,26,30,1
+"ground nut/peanuts",1060,27,50,1
+"ground nut/peanuts",1060,28,75,1
+"ground nut/peanuts",1060,31,10,1
+"ground nut/peanuts",1060,32,25,1
+"ground nut/peanuts",1060,33,40,1
+"ground nut/peanuts",1060,34,75,1
+"ground nut/peanuts",1060,61,15,1
+"ground nut/peanuts",1060,62,25,1
+"ground nut/peanuts",1060,63,40,1
+"ground nut/peanuts",1060,81,1500,1
+"ground nut/peanuts",1060,82,2000,1
+"ground nut/peanuts",1060,83,2500,1
+"unshelled ground nut",1061,12,0.75,1
+"unshelled ground nut",1061,21,20,1
+"unshelled ground nut",1061,22,50,1
+"unshelled ground nut",1061,23,100,1
+"unshelled ground nut",1061,24,120,1
+"unshelled ground nut",1061,25,15,1
+"unshelled ground nut",1061,26,30,1
+"unshelled ground nut",1061,27,50,1
+"unshelled ground nut",1061,28,75,1
+"unshelled ground nut",1061,31,10,1
+"unshelled ground nut",1061,32,25,1
+"unshelled ground nut",1061,33,40,1
+"unshelled ground nut",1061,34,75,1
+"unshelled ground nut",1061,61,15,1
+"unshelled ground nut",1061,62,25,1
+"unshelled ground nut",1061,63,40,1
+"unshelled ground nut",1061,71,60,1
+"unshelled ground nut",1061,72,85,1
+"unshelled ground nut",1061,73,110,1
+"unshelled ground nut",1061,74,150,1
+"unshelled ground nut",1061,81,1500,1
+"unshelled ground nut",1061,82,2000,1
+"unshelled ground nut",1061,83,2500,1
+"shelled ground nut",1062,21,20,1
+"shelled ground nut",1062,22,50,1
+"shelled ground nut",1062,23,100,1
+"shelled ground nut",1062,24,120,1
+"shelled ground nut",1062,25,15,1
+"shelled ground nut",1062,26,30,1
+"shelled ground nut",1062,27,50,1
+"shelled ground nut",1062,28,75,1
+"shelled ground nut",1062,31,10,1
+"shelled ground nut",1062,32,25,1
+"shelled ground nut",1062,33,40,1
+"shelled ground nut",1062,34,75,1
+"shelled ground nut",1062,61,15,1
+"shelled ground nut",1062,62,25,1
+"shelled ground nut",1062,63,40,1
+"shelled ground nut",1062,81,1500,1
+"shelled ground nut",1062,82,2000,1
+"shelled ground nut",1062,83,2500,1
+"GUINEA CORN/SORGHUM",1070,5,1.5,1
+"GUINEA CORN/SORGHUM",1070,7,1.7,1
+"GUINEA CORN/SORGHUM",1070,8,4.3,1
+"GUINEA CORN/SORGHUM",1070,10,0.42,1
+"guinea corn/sorghum",1070,12,0.15,1
+"GUINEA CORN/SORGHUM",1070,14,3,1
+"GUINEA CORN/SORGHUM",1070,15,1.5,1
+"guinea corn/sorghum",1070,21,20,1
+"guinea corn/sorghum",1070,22,50,1
+"guinea corn/sorghum",1070,23,100,1
+"guinea corn/sorghum",1070,24,120,1
+"guinea corn/sorghum",1070,25,15,1
+"guinea corn/sorghum",1070,26,30,1
+"guinea corn/sorghum",1070,27,50,1
+"guinea corn/sorghum",1070,28,75,1
+"guinea corn/sorghum",1070,31,10,1
+"guinea corn/sorghum",1070,32,25,1
+"guinea corn/sorghum",1070,33,40,1
+"guinea corn/sorghum",1070,34,75,1
+"GUINEA COURN/SORGHUM",1070,42,8,1
+"GUINEA COURN/SORGHUM",1070,43,15,1
+"guinea corn/sorghum",1070,61,15,1
+"guinea corn/sorghum",1070,62,25,1
+"guinea corn/sorghum",1070,63,40,1
+"MAIZE",1080,5,1.5,1
+"MAIZE",1080,7,1.7,1
+"MAIZE",1080,8,4.5,1
+"MAIZE",1080,14,3,1
+"maize",1080,21,20,1
+"maize",1080,22,50,1
+"maize",1080,23,100,1
+"maize",1080,24,120,1
+"maize",1080,25,15,1
+"maize",1080,26,30,1
+"maize",1080,27,50,1
+"maize",1080,28,75,1
+"maize",1080,31,10,1
+"maize",1080,32,25,1
+"maize",1080,33,40,1
+"maize",1080,34,75,1
+"MAIZE",1080,51,3,1
+"MAIZE",1080,52,5,1
+"MAIZE",1080,53,8,1
+"maize",1080,61,15,1
+"maize",1080,62,25,1
+"maize",1080,63,40,1
+"maize",1080,71,60,1
+"maize",1080,72,85,1
+"maize",1080,73,110,1
+"maize",1080,74,150,1
+"MAIZE",1080,81,1500,1
+"MAIZE",1080,82,2000,1
+"MAIZE",1080,83,2500,1
+"unshelled maize (cob)",1081,21,20,1
+"unshelled maize (cob)",1081,22,50,1
+"unshelled maize (cob)",1081,23,100,1
+"unshelled maize (cob)",1081,24,120,1
+"unshelled maize (cob)",1081,25,15,1
+"unshelled maize (cob)",1081,26,30,1
+"unshelled maize (cob)",1081,27,50,1
+"unshelled maize (cob)",1081,28,75,1
+"unshelled maize (cob)",1081,31,10,1
+"unshelled maize (cob)",1081,32,25,1
+"unshelled maize (cob)",1081,33,40,1
+"unshelled maize (cob)",1081,34,75,1
+"unshelled maize (cob)",1081,61,15,1
+"unshelled maize (cob)",1081,62,25,1
+"unshelled maize (cob)",1081,63,40,1
+"unshelled maize (cob)",1081,71,60,1
+"unshelled maize (cob)",1081,72,85,1
+"unshelled maize (cob)",1081,73,110,1
+"unshelled maize (cob)",1081,74,150,1
+"SHELLED MAIZE (GRAIN)",1082,5,1.5,1
+"shelled maize (grain)",1082,12,0.15625,1
+"SHELLED MAIZE (GRAIN)",1082,14,3,1
+"shelled maize (grain)",1082,21,20,1
+"shelled maize (grain)",1082,22,50,1
+"shelled maize (grain)",1082,23,100,1
+"shelled maize (grain)",1082,24,120,1
+"shelled maize (grain)",1082,25,15,1
+"shelled maize (grain)",1082,26,30,1
+"shelled maize (grain)",1082,27,50,1
+"shelled maize (grain)",1082,28,75,1
+"shelled maize (grain)",1082,31,10,1
+"shelled maize (grain)",1082,32,25,1
+"shelled maize (grain)",1082,33,40,1
+"shelled maize (grain)",1082,34,75,1
+"shelled maize (grain)",1082,61,15,1
+"shelled maize (grain)",1082,62,25,1
+"shelled maize (grain)",1082,63,40,1
+"shelled maize (grain)",1082,71,60,1
+"shelled maize (grain)",1082,72,85,1
+"shelled maize (grain)",1082,73,110,1
+"shelled maize (grain)",1082,74,150,1
+"SHELLED MAIZE(GRAIN)",1082,82,2000,1
+"pop corn maize",1083,21,20,1
+"pop corn maize",1083,22,50,1
+"pop corn maize",1083,23,100,1
+"pop corn maize",1083,24,120,1
+"pop corn maize",1083,25,15,1
+"pop corn maize",1083,26,30,1
+"pop corn maize",1083,27,50,1
+"pop corn maize",1083,28,75,1
+"pop corn maize",1083,31,10,1
+"pop corn maize",1083,32,25,1
+"pop corn maize",1083,33,40,1
+"pop corn maize",1083,34,75,1
+"pop corn maize",1083,61,15,1
+"pop corn maize",1083,62,25,1
+"pop corn maize",1083,63,40,1
+"pop corn maize",1083,71,60,1
+"pop corn maize",1083,72,85,1
+"pop corn maize",1083,73,110,1
+"pop corn maize",1083,74,150,1
+"MELON",1090,5,0.6,1
+"MELON",1090,7,0.675,1
+"MELON",1090,8,1.7,1
+"MELON",1090,13,0.17,1
+"MELON",1090,14,0.6,1
+"melon",1090,21,20,1
+"melon",1090,22,50,1
+"melon",1090,23,100,1
+"melon",1090,24,120,1
+"melon",1090,25,15,1
+"melon",1090,26,30,1
+"melon",1090,27,50,1
+"melon",1090,28,75,1
+"melon",1090,31,10,1
+"melon",1090,32,25,1
+"melon",1090,33,40,1
+"melon",1090,34,75,1
+"melon",1090,61,15,1
+"melon",1090,62,25,1
+"melon",1090,63,40,1
+"melon",1090,71,60,1
+"melon",1090,72,85,1
+"melon",1090,73,110,1
+"melon",1090,74,150,1
+"melon",1090,81,1500,1
+"melon",1090,82,2000,1
+"melon",1090,83,2500,1
+"unshelled melon",1091,21,20,1
+"unshelled melon",1091,22,50,1
+"unshelled melon",1091,23,100,1
+"unshelled melon",1091,24,120,1
+"unshelled melon",1091,25,15,1
+"unshelled melon",1091,26,30,1
+"unshelled melon",1091,27,50,1
+"unshelled melon",1091,28,75,1
+"unshelled melon",1091,31,10,1
+"unshelled melon",1091,32,25,1
+"unshelled melon",1091,33,40,1
+"unshelled melon",1091,34,75,1
+"unshelled melon",1091,61,15,1
+"unshelled melon",1091,62,25,1
+"unshelled melon",1091,63,40,1
+"unshelled melon",1091,81,1500,1
+"unshelled melon",1091,82,2000,1
+"unshelled melon",1091,83,2500,1
+"shelled melon",1092,12,0.1,1
+"shelled melon",1092,21,20,1
+"shelled melon",1092,22,50,1
+"shelled melon",1092,23,100,1
+"shelled melon",1092,24,120,1
+"shelled melon",1092,25,15,1
+"shelled melon",1092,26,30,1
+"shelled melon",1092,27,50,1
+"shelled melon",1092,28,75,1
+"shelled melon",1092,31,10,1
+"shelled melon",1092,32,25,1
+"shelled melon",1092,33,40,1
+"shelled melon",1092,34,75,1
+"shelled melon",1092,61,15,1
+"shelled melon",1092,62,25,1
+"shelled melon",1092,63,40,1
+"shelled melon",1092,81,1500,1
+"shelled melon",1092,82,2000,1
+"shelled melon",1092,83,2500,1
+"water melon",1093,21,20,1
+"water melon",1093,22,50,1
+"water melon",1093,23,100,1
+"water melon",1093,24,120,1
+"water melon",1093,25,15,1
+"water melon",1093,26,30,1
+"water melon",1093,27,50,1
+"water melon",1093,28,75,1
+"water melon",1093,31,10,1
+"water melon",1093,32,25,1
+"water melon",1093,33,40,1
+"water melon",1093,34,75,1
+"water melon",1093,61,15,1
+"water melon",1093,62,25,1
+"water melon",1093,63,40,1
+"water melon",1093,71,60,1
+"water melon",1093,72,85,1
+"water melon",1093,73,110,1
+"water melon",1093,74,150,1
+"water melon",1093,81,1500,1
+"water melon",1093,82,2000,1
+"water melon",1093,83,2500,1
+"MILLET/MAIWA",1100,5,1.7,1
+"MILLET/MAIWA",1100,7,1.9,1
+"MILLET/MAIWA",1100,10,0.48,1
+"millet/maiwa",1100,12,0.15714,1
+"MILLET/MAIWA",1100,14,3.4,1
+"millet/maiwa",1100,21,20,1
+"millet/maiwa",1100,22,50,1
+"millet/maiwa",1100,23,100,1
+"millet/maiwa",1100,24,120,1
+"millet/maiwa",1100,25,15,1
+"millet/maiwa",1100,26,30,1
+"millet/maiwa",1100,27,50,1
+"millet/maiwa",1100,28,75,1
+"millet/maiwa",1100,31,10,1
+"millet/maiwa",1100,32,25,1
+"millet/maiwa",1100,33,40,1
+"millet/maiwa",1100,34,75,1
+"MILLET/MAIWA",1100,42,8,1
+"MILLET/MAIWA",1100,52,5,1
+"millet/maiwa",1100,61,15,1
+"millet/maiwa",1100,62,25,1
+"millet/maiwa",1100,63,40,1
+"RICE",1110,5,1.2,1
+"rice",1110,12,0.1687,1
+"RICE",1110,14,2.4,1
+"rice",1110,21,20,1
+"rice",1110,22,50,1
+"rice",1110,23,100,1
+"rice",1110,24,120,1
+"rice",1110,25,15,1
+"rice",1110,26,30,1
+"rice",1110,27,50,1
+"rice",1110,28,75,1
+"rice",1110,31,10,1
+"rice",1110,32,25,1
+"rice",1110,33,40,1
+"rice",1110,34,75,1
+"rice",1110,61,15,1
+"rice",1110,62,25,1
+"rice",1110,63,40,1
+"RICE",1110,93,25,0
+"RICE",1110,95,200,0
+"unshelled rice",1111,21,20,1
+"unshelled rice",1111,22,50,1
+"unshelled rice",1111,23,100,1
+"unshelled rice",1111,24,120,1
+"unshelled rice",1111,25,15,1
+"unshelled rice",1111,26,30,1
+"unshelled rice",1111,27,50,1
+"unshelled rice",1111,28,75,1
+"unshelled rice",1111,31,10,1
+"unshelled rice",1111,32,25,1
+"unshelled rice",1111,33,40,1
+"unshelled rice",1111,34,75,1
+"unshelled rice",1111,61,15,1
+"unshelled rice",1111,62,25,1
+"unshelled rice",1111,63,40,1
+"shelled rice",1112,21,20,1
+"shelled rice",1112,22,50,1
+"shelled rice",1112,23,100,1
+"shelled rice",1112,24,120,1
+"shelled rice",1112,25,15,1
+"shelled rice",1112,26,30,1
+"shelled rice",1112,27,50,1
+"shelled rice",1112,28,75,1
+"shelled rice",1112,31,10,1
+"shelled rice",1112,32,25,1
+"shelled rice",1112,33,40,1
+"shelled rice",1112,34,75,1
+"shelled rice",1112,61,15,1
+"shelled rice",1112,62,25,1
+"shelled rice",1112,63,40,1
+"yam",1120,21,20,1
+"yam",1120,22,50,1
+"yam",1120,23,100,1
+"yam",1120,24,120,1
+"yam",1120,25,15,1
+"yam",1120,26,30,1
+"yam",1120,27,50,1
+"yam",1120,28,75,1
+"yam",1120,31,10,1
+"yam",1120,32,25,1
+"yam",1120,33,40,1
+"yam",1120,34,75,1
+"yam",1120,51,3,1
+"yam",1120,52,5,1
+"yam",1120,53,8,1
+"yam",1120,61,15,1
+"yam",1120,62,25,1
+"yam",1120,63,40,1
+"yam",1120,71,60,1
+"yam",1120,72,85,1
+"yam",1120,73,110,1
+"yam",1120,74,150,1
+"YAM",1120,81,1500,1
+"YAM",1120,82,2000,1
+"YAM",1120,83,2500,1
+"white yam",1121,21,20,1
+"white yam",1121,22,50,1
+"white yam",1121,23,100,1
+"white yam",1121,24,120,1
+"white yam",1121,25,15,1
+"white yam",1121,26,30,1
+"white yam",1121,27,50,1
+"white yam",1121,28,75,1
+"white yam",1121,31,10,1
+"white yam",1121,32,25,1
+"white yam",1121,33,40,1
+"white yam",1121,34,75,1
+"white yam",1121,51,3,1
+"white yam",1121,52,5,1
+"white yam",1121,53,8,1
+"white yam",1121,61,15,1
+"white yam",1121,62,25,1
+"white yam",1121,63,40,1
+"white yam",1121,71,60,1
+"white yam",1121,72,85,1
+"white yam",1121,73,110,1
+"white yam",1121,74,150,1
+"WHITE YAM",1121,81,1500,1
+"WHITE YAM",1121,82,2000,1
+"yellow yam",1122,21,20,1
+"yellow yam",1122,22,50,1
+"yellow yam",1122,23,100,1
+"yellow yam",1122,24,120,1
+"yellow yam",1122,25,15,1
+"yellow yam",1122,26,30,1
+"yellow yam",1122,27,50,1
+"yellow yam",1122,28,75,1
+"yellow yam",1122,31,10,1
+"yellow yam",1122,32,25,1
+"yellow yam",1122,33,40,1
+"yellow yam",1122,34,75,1
+"yellow yam",1122,51,3,1
+"yellow yam",1122,52,5,1
+"yellow yam",1122,53,8,1
+"yellow yam",1122,61,15,1
+"yellow yam",1122,62,25,1
+"yellow yam",1122,63,40,1
+"yellow yam",1122,71,60,1
+"yellow yam",1122,72,85,1
+"yellow yam",1122,73,110,1
+"yellow yam",1122,74,150,1
+"water yam",1123,21,20,1
+"water yam",1123,22,50,1
+"water yam",1123,23,100,1
+"water yam",1123,24,120,1
+"water yam",1123,25,15,1
+"water yam",1123,26,30,1
+"water yam",1123,27,50,1
+"water yam",1123,28,75,1
+"water yam",1123,31,10,1
+"water yam",1123,32,25,1
+"water yam",1123,33,40,1
+"water yam",1123,34,75,1
+"water yam",1123,51,3,1
+"water yam",1123,52,5,1
+"water yam",1123,53,8,1
+"water yam",1123,61,15,1
+"water yam",1123,62,25,1
+"water yam",1123,63,40,1
+"water yam",1123,71,60,1
+"water yam",1123,72,85,1
+"water yam",1123,73,110,1
+"water yam",1123,74,150,1
+"WATER YAM",1123,82,2000,1
+"WATER YAM",1123,83,2500,1
+"three leave yam",1124,21,20,1
+"three leave yam",1124,22,50,1
+"three leave yam",1124,23,100,1
+"three leave yam",1124,24,120,1
+"three leave yam",1124,25,15,1
+"three leave yam",1124,26,30,1
+"three leave yam",1124,27,50,1
+"three leave yam",1124,28,75,1
+"three leave yam",1124,31,10,1
+"three leave yam",1124,32,25,1
+"three leave yam",1124,33,40,1
+"three leave yam",1124,34,75,1
+"three leave yam",1124,51,3,1
+"three leave yam",1124,52,5,1
+"three leave yam",1124,53,8,1
+"three leave yam",1124,61,15,1
+"three leave yam",1124,62,25,1
+"three leave yam",1124,63,40,1
+"three leave yam",1124,71,60,1
+"three leave yam",1124,72,85,1
+"three leave yam",1124,73,110,1
+"three leave yam",1124,74,150,1
+"acha",2010,21,20,1
+"acha",2010,22,50,1
+"acha",2010,23,100,1
+"acha",2010,24,120,1
+"acha",2010,25,15,1
+"acha",2010,26,30,1
+"acha",2010,27,50,1
+"acha",2010,28,75,1
+"acha",2010,31,10,1
+"acha",2010,32,25,1
+"acha",2010,33,40,1
+"acha",2010,34,75,1
+"acha",2010,61,15,1
+"acha",2010,62,25,1
+"acha",2010,63,40,1
+"bambara nut",2020,21,20,1
+"bambara nut",2020,22,50,1
+"bambara nut",2020,23,100,1
+"bambara nut",2020,24,120,1
+"bambara nut",2020,25,15,1
+"bambara nut",2020,26,30,1
+"bambara nut",2020,27,50,1
+"bambara nut",2020,28,75,1
+"bambara nut",2020,31,10,1
+"bambara nut",2020,32,25,1
+"bambara nut",2020,33,40,1
+"bambara nut",2020,34,75,1
+"bambara nut",2020,61,15,1
+"bambara nut",2020,62,25,1
+"bambara nut",2020,63,40,1
+"bambara nut",2020,71,60,1
+"bambara nut",2020,72,85,1
+"bambara nut",2020,73,110,1
+"bambara nut",2020,74,150,1
+"bambara nut",2020,81,1500,1
+"bambara nut",2020,82,2000,1
+"bambara nut",2020,83,2500,1
+"banana",2030,21,20,1
+"banana",2030,22,50,1
+"banana",2030,23,100,1
+"banana",2030,24,120,1
+"banana",2030,25,15,1
+"banana",2030,26,30,1
+"banana",2030,27,50,1
+"banana",2030,28,75,1
+"banana",2030,31,10,1
+"banana",2030,32,25,1
+"banana",2030,33,40,1
+"banana",2030,34,75,1
+"banana",2030,41,5,1
+"banana",2030,42,8,1
+"banana",2030,43,15,1
+"banana",2030,61,15,1
+"banana",2030,62,25,1
+"banana",2030,63,40,1
+"banana",2030,71,60,1
+"banana",2030,72,85,1
+"banana",2030,73,110,1
+"banana",2030,74,150,1
+"BANANA",2030,81,1500,1
+"beeni-seed",2040,21,20,1
+"beeni-seed",2040,22,50,1
+"beeni-seed",2040,23,100,1
+"beeni-seed",2040,24,120,1
+"beeni-seed",2040,25,15,1
+"beeni-seed",2040,26,30,1
+"beeni-seed",2040,27,50,1
+"beeni-seed",2040,28,75,1
+"beeni-seed",2040,31,10,1
+"beeni-seed",2040,32,25,1
+"beeni-seed",2040,33,40,1
+"beeni-seed",2040,34,75,1
+"beeni-seed",2040,61,15,1
+"beeni-seed",2040,62,25,1
+"beeni-seed",2040,63,40,1
+"carrot",2050,21,20,1
+"carrot",2050,22,50,1
+"carrot",2050,23,100,1
+"carrot",2050,24,120,1
+"carrot",2050,25,15,1
+"carrot",2050,26,30,1
+"carrot",2050,27,50,1
+"carrot",2050,28,75,1
+"carrot",2050,31,10,1
+"carrot",2050,32,25,1
+"carrot",2050,33,40,1
+"carrot",2050,34,75,1
+"CARROT",2050,52,5,1
+"carrot",2050,61,15,1
+"carrot",2050,62,25,1
+"carrot",2050,63,40,1
+"carrot",2050,71,60,1
+"carrot",2050,72,85,1
+"carrot",2050,73,110,1
+"carrot",2050,74,150,1
+"carrot",2050,81,1500,1
+"carrot",2050,82,2000,1
+"carrot",2050,83,2500,1
+"cucumber",2060,21,20,1
+"cucumber",2060,22,50,1
+"cucumber",2060,23,100,1
+"cucumber",2060,24,120,1
+"cucumber",2060,25,15,1
+"cucumber",2060,26,30,1
+"cucumber",2060,27,50,1
+"cucumber",2060,28,75,1
+"cucumber",2060,31,10,1
+"cucumber",2060,32,25,1
+"cucumber",2060,33,40,1
+"cucumber",2060,34,75,1
+"cucumber",2060,61,15,1
+"cucumber",2060,62,25,1
+"cucumber",2060,63,40,1
+"cucumber",2060,71,60,1
+"cucumber",2060,72,85,1
+"cucumber",2060,73,110,1
+"cucumber",2060,74,150,1
+"cabbage",2070,21,20,1
+"cabbage",2070,22,50,1
+"cabbage",2070,23,100,1
+"cabbage",2070,24,120,1
+"cabbage",2070,25,15,1
+"cabbage",2070,26,30,1
+"cabbage",2070,27,50,1
+"cabbage",2070,28,75,1
+"cabbage",2070,31,10,1
+"cabbage",2070,32,25,1
+"cabbage",2070,33,40,1
+"cabbage",2070,34,75,1
+"CABBAGE",2070,53,8,1
+"cabbage",2070,61,15,1
+"cabbage",2070,62,25,1
+"cabbage",2070,63,40,1
+"cabbage",2070,71,60,1
+"cabbage",2070,72,85,1
+"cabbage",2070,73,110,1
+"cabbage",2070,74,150,1
+"CABBAGE",2070,82,2000,1
+"Letus",2071,21,20,1
+"Letus",2071,22,50,1
+"Letus",2071,23,100,1
+"Letus",2071,24,120,1
+"Letus",2071,25,15,1
+"Letus",2071,26,30,1
+"Letus",2071,27,50,1
+"Letus",2071,28,75,1
+"Letus",2071,31,10,1
+"Letus",2071,32,25,1
+"Letus",2071,33,40,1
+"Letus",2071,34,75,1
+"Letus",2071,61,15,1
+"Letus",2071,62,25,1
+"Letus",2071,63,40,1
+"Letus",2071,71,60,1
+"Letus",2071,72,85,1
+"Letus",2071,73,110,1
+"Letus",2071,74,150,1
+"GARDEN EGG",2080,8,6.5,1
+"Garden egg",2080,21,20,1
+"Garden egg",2080,22,50,1
+"Garden egg",2080,23,100,1
+"Garden egg",2080,24,120,1
+"Garden egg",2080,25,15,1
+"Garden egg",2080,26,30,1
+"Garden egg",2080,27,50,1
+"Garden egg",2080,28,75,1
+"Garden egg",2080,31,10,1
+"Garden egg",2080,32,25,1
+"Garden egg",2080,33,40,1
+"Garden egg",2080,34,75,1
+"Garden egg",2080,61,15,1
+"Garden egg",2080,62,25,1
+"Garden egg",2080,63,40,1
+"Garden egg",2080,71,60,1
+"Garden egg",2080,72,85,1
+"Garden egg",2080,73,110,1
+"Garden egg",2080,74,150,1
+"garlic",2090,21,20,1
+"garlic",2090,22,50,1
+"garlic",2090,23,100,1
+"garlic",2090,24,120,1
+"garlic",2090,25,15,1
+"garlic",2090,26,30,1
+"garlic",2090,27,50,1
+"garlic",2090,28,75,1
+"garlic",2090,31,10,1
+"garlic",2090,32,25,1
+"garlic",2090,33,40,1
+"garlic",2090,34,75,1
+"garlic",2090,61,15,1
+"garlic",2090,62,25,1
+"garlic",2090,63,40,1
+"garlic",2090,71,60,1
+"garlic",2090,72,85,1
+"garlic",2090,73,110,1
+"garlic",2090,74,150,1
+"ginger",2100,21,20,1
+"ginger",2100,22,50,1
+"ginger",2100,23,100,1
+"ginger",2100,24,120,1
+"ginger",2100,25,15,1
+"ginger",2100,26,30,1
+"ginger",2100,27,50,1
+"ginger",2100,28,75,1
+"ginger",2100,31,10,1
+"ginger",2100,32,25,1
+"ginger",2100,33,40,1
+"ginger",2100,34,75,1
+"ginger",2100,61,15,1
+"ginger",2100,62,25,1
+"ginger",2100,63,40,1
+"ginger",2100,81,1500,1
+"ginger",2100,82,2000,1
+"ginger",2100,83,2500,1
+"ginger peeled",2101,21,20,1
+"ginger peeled",2101,22,50,1
+"ginger peeled",2101,23,100,1
+"ginger peeled",2101,24,120,1
+"ginger peeled",2101,25,15,1
+"ginger peeled",2101,26,30,1
+"ginger peeled",2101,27,50,1
+"ginger peeled",2101,28,75,1
+"ginger peeled",2101,31,10,1
+"ginger peeled",2101,32,25,1
+"ginger peeled",2101,33,40,1
+"ginger peeled",2101,34,75,1
+"ginger peeled",2101,61,15,1
+"ginger peeled",2101,62,25,1
+"ginger peeled",2101,63,40,1
+"ginger peeled",2101,81,1500,1
+"ginger peeled",2101,82,2000,1
+"ginger peeled",2101,83,2500,1
+"ginger split",2102,21,20,1
+"ginger split",2102,22,50,1
+"ginger split",2102,23,100,1
+"ginger split",2102,24,120,1
+"ginger split",2102,25,15,1
+"ginger split",2102,26,30,1
+"ginger split",2102,27,50,1
+"ginger split",2102,28,75,1
+"ginger split",2102,31,10,1
+"ginger split",2102,32,25,1
+"ginger split",2102,33,40,1
+"ginger split",2102,34,75,1
+"ginger split",2102,61,15,1
+"ginger split",2102,62,25,1
+"ginger split",2102,63,40,1
+"ginger split",2102,81,1500,1
+"ginger split",2102,82,2000,1
+"ginger split",2102,83,2500,1
+"other spices/vanilla",2103,21,20,1
+"other spices/vanilla",2103,22,50,1
+"other spices/vanilla",2103,23,100,1
+"other spices/vanilla",2103,24,120,1
+"other spices/vanilla",2103,25,15,1
+"other spices/vanilla",2103,26,30,1
+"other spices/vanilla",2103,27,50,1
+"other spices/vanilla",2103,28,75,1
+"other spices/vanilla",2103,31,10,1
+"other spices/vanilla",2103,32,25,1
+"other spices/vanilla",2103,33,40,1
+"other spices/vanilla",2103,34,75,1
+"OTHER SPICES/VANILA",2103,41,5,1
+"other spices/vanilla",2103,61,15,1
+"other spices/vanilla",2103,62,25,1
+"other spices/vanilla",2103,63,40,1
+"arabic gum",2110,21,20,1
+"arabic gum",2110,22,50,1
+"arabic gum",2110,23,100,1
+"arabic gum",2110,24,120,1
+"arabic gum",2110,25,15,1
+"arabic gum",2110,26,30,1
+"arabic gum",2110,27,50,1
+"arabic gum",2110,28,75,1
+"arabic gum",2110,31,10,1
+"arabic gum",2110,32,25,1
+"arabic gum",2110,33,40,1
+"arabic gum",2110,34,75,1
+"arabic gum",2110,61,15,1
+"arabic gum",2110,62,25,1
+"arabic gum",2110,63,40,1
+"OKRO",2120,5,0.5,1
+"OKRO",2120,8,1.5,1
+"OKRO",2120,9,0.56,1
+"OKRO",2120,14,1,1
+"okro",2120,21,20,1
+"okro",2120,22,50,1
+"okro",2120,23,100,1
+"okro",2120,24,120,1
+"okro",2120,25,15,1
+"okro",2120,26,30,1
+"okro",2120,27,50,1
+"okro",2120,28,75,1
+"okro",2120,31,10,1
+"okro",2120,32,25,1
+"okro",2120,33,40,1
+"okro",2120,34,75,1
+"okro",2120,61,15,1
+"okro",2120,62,25,1
+"okro",2120,63,40,1
+"onion",2130,21,20,1
+"onion",2130,22,50,1
+"onion",2130,23,100,1
+"onion",2130,24,120,1
+"onion",2130,25,15,1
+"onion",2130,26,30,1
+"onion",2130,27,50,1
+"onion",2130,28,75,1
+"onion",2130,31,10,1
+"onion",2130,32,25,1
+"onion",2130,33,40,1
+"onion",2130,34,75,1
+"onion",2130,61,15,1
+"onion",2130,62,25,1
+"onion",2130,63,40,1
+"onion",2130,71,60,1
+"onion",2130,72,85,1
+"onion",2130,73,110,1
+"onion",2130,74,150,1
+"PEPPER",2140,5,0.8,1
+"PEPPER",2140,8,2.4,1
+"PEPPER",2140,12,0.1,1
+"PEPPER",2140,13,0.15,1
+"PEPPER",2140,14,1.6,1
+"pepper",2140,21,20,1
+"pepper",2140,22,50,1
+"pepper",2140,23,100,1
+"pepper",2140,24,120,1
+"pepper",2140,25,15,1
+"pepper",2140,26,30,1
+"pepper",2140,27,50,1
+"pepper",2140,28,75,1
+"pepper",2140,31,10,1
+"pepper",2140,32,25,1
+"pepper",2140,33,40,1
+"pepper",2140,34,75,1
+"PEPPER",2140,52,5,1
+"pepper",2140,61,15,1
+"pepper",2140,62,25,1
+"pepper",2140,63,40,1
+"PEPPER",2140,82,2000,1
+"sweet pepper",2141,21,20,1
+"sweet pepper",2141,22,50,1
+"sweet pepper",2141,23,100,1
+"sweet pepper",2141,24,120,1
+"sweet pepper",2141,25,15,1
+"sweet pepper",2141,26,30,1
+"sweet pepper",2141,27,50,1
+"sweet pepper",2141,28,75,1
+"sweet pepper",2141,31,10,1
+"sweet pepper",2141,32,25,1
+"sweet pepper",2141,33,40,1
+"sweet pepper",2141,34,75,1
+"sweet pepper",2141,61,15,1
+"sweet pepper",2141,62,25,1
+"sweet pepper",2141,63,40,1
+"SMALL PEPPER",2142,5,0.8,1
+"SMALL PEPPER",2142,14,1.6,1
+"small pepper",2142,21,20,1
+"small pepper",2142,22,50,1
+"small pepper",2142,23,100,1
+"small pepper",2142,24,120,1
+"small pepper",2142,25,15,1
+"small pepper",2142,26,30,1
+"small pepper",2142,27,50,1
+"small pepper",2142,28,75,1
+"small pepper",2142,31,10,1
+"small pepper",2142,32,25,1
+"small pepper",2142,33,40,1
+"small pepper",2142,34,75,1
+"small pepper",2142,61,15,1
+"small pepper",2142,62,25,1
+"small pepper",2142,63,40,1
+"atare",2143,21,20,1
+"atare",2143,22,50,1
+"atare",2143,23,100,1
+"atare",2143,24,120,1
+"atare",2143,25,15,1
+"atare",2143,26,30,1
+"atare",2143,27,50,1
+"atare",2143,28,75,1
+"atare",2143,31,10,1
+"atare",2143,32,25,1
+"atare",2143,33,40,1
+"atare",2143,34,75,1
+"atare",2143,61,15,1
+"atare",2143,62,25,1
+"atare",2143,63,40,1
+"pigeon pea",2150,21,20,1
+"pigeon pea",2150,22,50,1
+"pigeon pea",2150,23,100,1
+"pigeon pea",2150,24,120,1
+"pigeon pea",2150,25,15,1
+"pigeon pea",2150,26,30,1
+"pigeon pea",2150,27,50,1
+"pigeon pea",2150,28,75,1
+"pigeon pea",2150,31,10,1
+"pigeon pea",2150,32,25,1
+"pigeon pea",2150,33,40,1
+"pigeon pea",2150,34,75,1
+"pigeon pea",2150,61,15,1
+"pigeon pea",2150,62,25,1
+"pigeon pea",2150,63,40,1
+"pineapple",2160,21,20,1
+"pineapple",2160,22,50,1
+"pineapple",2160,23,100,1
+"pineapple",2160,24,120,1
+"pineapple",2160,25,15,1
+"pineapple",2160,26,30,1
+"pineapple",2160,27,50,1
+"pineapple",2160,28,75,1
+"pineapple",2160,31,10,1
+"pineapple",2160,32,25,1
+"pineapple",2160,33,40,1
+"pineapple",2160,34,75,1
+"PINEAPPLE",2160,41,5,1
+"PINEAPPLE",2160,42,8,1
+"pineapple",2160,61,15,1
+"pineapple",2160,62,25,1
+"pineapple",2160,63,40,1
+"pineapple",2160,71,60,1
+"pineapple",2160,72,85,1
+"pineapple",2160,73,110,1
+"pineapple",2160,74,150,1
+"pineapple",2160,81,1500,1
+"pineapple",2160,82,2000,1
+"pineapple",2160,83,2500,1
+"plantain",2170,21,20,1
+"plantain",2170,22,50,1
+"plantain",2170,23,100,1
+"plantain",2170,24,120,1
+"plantain",2170,25,15,1
+"plantain",2170,26,30,1
+"plantain",2170,27,50,1
+"plantain",2170,28,75,1
+"plantain",2170,31,10,1
+"plantain",2170,32,25,1
+"plantain",2170,33,40,1
+"plantain",2170,34,75,1
+"plantain",2170,41,5,1
+"plantain",2170,42,8,1
+"plantain",2170,43,15,1
+"plantain",2170,61,15,1
+"plantain",2170,62,25,1
+"plantain",2170,63,40,1
+"plantain",2170,71,60,1
+"plantain",2170,72,85,1
+"plantain",2170,73,110,1
+"plantain",2170,74,150,1
+"plantain",2170,81,1500,1
+"plantain",2170,82,2000,1
+"plantain",2170,83,2500,1
+"POTATO",2180,8,3,1
+"potato",2180,21,20,1
+"potato",2180,22,50,1
+"potato",2180,23,100,1
+"potato",2180,24,120,1
+"potato",2180,25,15,1
+"potato",2180,26,30,1
+"potato",2180,27,50,1
+"potato",2180,28,75,1
+"potato",2180,31,10,1
+"potato",2180,32,25,1
+"potato",2180,33,40,1
+"potato",2180,34,75,1
+"potato",2180,51,3,1
+"potato",2180,52,5,1
+"potato",2180,53,8,1
+"potato",2180,61,15,1
+"potato",2180,62,25,1
+"potato",2180,63,40,1
+"potato",2180,71,60,1
+"potato",2180,72,85,1
+"potato",2180,73,110,1
+"potato",2180,74,150,1
+"SWEET POTATO",2181,8,7.5,1
+"sweet potato",2181,21,20,1
+"sweet potato",2181,22,50,1
+"sweet potato",2181,23,100,1
+"sweet potato",2181,24,120,1
+"sweet potato",2181,25,15,1
+"sweet potato",2181,26,30,1
+"sweet potato",2181,27,50,1
+"sweet potato",2181,28,75,1
+"sweet potato",2181,31,10,1
+"sweet potato",2181,32,25,1
+"sweet potato",2181,33,40,1
+"sweet potato",2181,34,75,1
+"sweet potato",2181,51,3,1
+"sweet potato",2181,52,5,1
+"sweet potato",2181,53,8,1
+"sweet potato",2181,61,15,1
+"sweet potato",2181,62,25,1
+"sweet potato",2181,63,40,1
+"sweet potato",2181,71,60,1
+"sweet potato",2181,72,85,1
+"sweet potato",2181,73,110,1
+"sweet potato",2181,74,150,1
+"pumpkin",2190,21,20,1
+"pumpkin",2190,22,50,1
+"pumpkin",2190,23,100,1
+"pumpkin",2190,24,120,1
+"pumpkin",2190,25,15,1
+"pumpkin",2190,26,30,1
+"pumpkin",2190,27,50,1
+"pumpkin",2190,28,75,1
+"pumpkin",2190,31,10,1
+"pumpkin",2190,32,25,1
+"pumpkin",2190,33,40,1
+"pumpkin",2190,34,75,1
+"pumpkin",2190,61,15,1
+"pumpkin",2190,62,25,1
+"pumpkin",2190,63,40,1
+"pumpkin",2190,71,60,1
+"pumpkin",2190,72,85,1
+"pumpkin",2190,73,110,1
+"pumpkin",2190,74,150,1
+"pumpkin",2190,81,1500,1
+"pumpkin",2190,82,2000,1
+"pumpkin",2190,83,2500,1
+"pumpkin leave",2191,21,20,1
+"pumpkin leave",2191,22,50,1
+"pumpkin leave",2191,23,100,1
+"pumpkin leave",2191,24,120,1
+"pumpkin leave",2191,25,15,1
+"pumpkin leave",2191,26,30,1
+"pumpkin leave",2191,27,50,1
+"pumpkin leave",2191,28,75,1
+"pumpkin leave",2191,31,10,1
+"pumpkin leave",2191,32,25,1
+"pumpkin leave",2191,33,40,1
+"pumpkin leave",2191,34,75,1
+"pumpkin leave",2191,61,15,1
+"pumpkin leave",2191,62,25,1
+"pumpkin leave",2191,63,40,1
+"pumpkin fruit",2192,21,20,1
+"pumpkin fruit",2192,22,50,1
+"pumpkin fruit",2192,23,100,1
+"pumpkin fruit",2192,24,120,1
+"pumpkin fruit",2192,25,15,1
+"pumpkin fruit",2192,26,30,1
+"pumpkin fruit",2192,27,50,1
+"pumpkin fruit",2192,28,75,1
+"pumpkin fruit",2192,31,10,1
+"pumpkin fruit",2192,32,25,1
+"pumpkin fruit",2192,33,40,1
+"pumpkin fruit",2192,34,75,1
+"pumpkin fruit",2192,61,15,1
+"pumpkin fruit",2192,62,25,1
+"pumpkin fruit",2192,63,40,1
+"pumpkin seed",2193,21,20,1
+"pumpkin seed",2193,22,50,1
+"pumpkin seed",2193,23,100,1
+"pumpkin seed",2193,24,120,1
+"pumpkin seed",2193,25,15,1
+"pumpkin seed",2193,26,30,1
+"pumpkin seed",2193,27,50,1
+"pumpkin seed",2193,28,75,1
+"pumpkin seed",2193,31,10,1
+"pumpkin seed",2193,32,25,1
+"pumpkin seed",2193,33,40,1
+"pumpkin seed",2193,34,75,1
+"PUMPKIN SEED",2193,41,5,1
+"pumpkin seed",2193,61,15,1
+"pumpkin seed",2193,62,25,1
+"pumpkin seed",2193,63,40,1
+"PUMPKIN SEED",2193,73,110,1
+"green vegetable",2194,21,20,1
+"green vegetable",2194,22,50,1
+"green vegetable",2194,23,100,1
+"green vegetable",2194,24,120,1
+"green vegetable",2194,25,15,1
+"green vegetable",2194,26,30,1
+"green vegetable",2194,27,50,1
+"green vegetable",2194,28,75,1
+"green vegetable",2194,31,10,1
+"green vegetable",2194,32,25,1
+"green vegetable",2194,33,40,1
+"green vegetable",2194,34,75,1
+"green vegetable",2194,61,15,1
+"green vegetable",2194,62,25,1
+"green vegetable",2194,63,40,1
+"dry leaves (kuka)",2195,21,20,1
+"dry leaves (kuka)",2195,22,50,1
+"dry leaves (kuka)",2195,23,100,1
+"dry leaves (kuka)",2195,24,120,1
+"dry leaves (kuka)",2195,25,15,1
+"dry leaves (kuka)",2195,26,30,1
+"dry leaves (kuka)",2195,27,50,1
+"dry leaves (kuka)",2195,28,75,1
+"dry leaves (kuka)",2195,31,10,1
+"dry leaves (kuka)",2195,32,25,1
+"dry leaves (kuka)",2195,33,40,1
+"dry leaves (kuka)",2195,34,75,1
+"dry leaves (kuka)",2195,61,15,1
+"dry leaves (kuka)",2195,62,25,1
+"dry leaves (kuka)",2195,63,40,1
+"rizga",2200,21,20,1
+"rizga",2200,22,50,1
+"rizga",2200,23,100,1
+"rizga",2200,24,120,1
+"rizga",2200,25,15,1
+"rizga",2200,26,30,1
+"rizga",2200,27,50,1
+"rizga",2200,28,75,1
+"rizga",2200,31,10,1
+"rizga",2200,32,25,1
+"rizga",2200,33,40,1
+"rizga",2200,34,75,1
+"rizga",2200,51,3,1
+"rizga",2200,52,5,1
+"rizga",2200,53,8,1
+"rizga",2200,61,15,1
+"rizga",2200,62,25,1
+"rizga",2200,63,40,1
+"shea nuts",2210,21,20,1
+"shea nuts",2210,22,50,1
+"shea nuts",2210,23,100,1
+"shea nuts",2210,24,120,1
+"shea nuts",2210,25,15,1
+"shea nuts",2210,26,30,1
+"shea nuts",2210,27,50,1
+"shea nuts",2210,28,75,1
+"shea nuts",2210,31,10,1
+"shea nuts",2210,32,25,1
+"shea nuts",2210,33,40,1
+"shea nuts",2210,34,75,1
+"shea nuts",2210,61,15,1
+"shea nuts",2210,62,25,1
+"shea nuts",2210,63,40,1
+"shea nuts",2210,81,1500,1
+"shea nuts",2210,82,2000,1
+"shea nuts",2210,83,2500,1
+"SOYA BEANS",2220,5,1.2,1
+"SOYA BEANS",2220,6,1.35,1
+"SOYA BEANS",2220,7,1.35,1
+"soya beans",2220,12,0.1475,1
+"SOYA BEANS",2220,14,2.4,1
+"soya beans",2220,21,20,1
+"soya beans",2220,22,50,1
+"soya beans",2220,23,100,1
+"soya beans",2220,24,120,1
+"soya beans",2220,25,15,1
+"soya beans",2220,26,30,1
+"soya beans",2220,27,50,1
+"soya beans",2220,28,75,1
+"soya beans",2220,31,10,1
+"soya beans",2220,32,25,1
+"soya beans",2220,33,40,1
+"soya beans",2220,34,75,1
+"soya beans",2220,61,15,1
+"soya beans",2220,62,25,1
+"soya beans",2220,63,40,1
+"sugar cane",2230,21,20,1
+"sugar cane",2230,22,50,1
+"sugar cane",2230,23,100,1
+"sugar cane",2230,24,120,1
+"sugar cane",2230,25,15,1
+"sugar cane",2230,26,30,1
+"sugar cane",2230,27,50,1
+"sugar cane",2230,28,75,1
+"sugar cane",2230,31,10,1
+"sugar cane",2230,32,25,1
+"sugar cane",2230,33,40,1
+"sugar cane",2230,34,75,1
+"sugar cane",2230,61,15,1
+"sugar cane",2230,62,25,1
+"sugar cane",2230,63,40,1
+"tea",2240,21,20,1
+"tea",2240,22,50,1
+"tea",2240,23,100,1
+"tea",2240,24,120,1
+"tea",2240,25,15,1
+"tea",2240,26,30,1
+"tea",2240,27,50,1
+"tea",2240,28,75,1
+"tea",2240,31,10,1
+"tea",2240,32,25,1
+"tea",2240,33,40,1
+"tea",2240,34,75,1
+"tea",2240,61,15,1
+"tea",2240,62,25,1
+"tea",2240,63,40,1
+"tobacco",2250,21,20,1
+"tobacco",2250,22,50,1
+"tobacco",2250,23,100,1
+"tobacco",2250,24,120,1
+"tobacco",2250,25,15,1
+"tobacco",2250,26,30,1
+"tobacco",2250,27,50,1
+"tobacco",2250,28,75,1
+"tobacco",2250,31,10,1
+"tobacco",2250,32,25,1
+"tobacco",2250,33,40,1
+"tobacco",2250,34,75,1
+"tobacco",2250,61,15,1
+"tobacco",2250,62,25,1
+"tobacco",2250,63,40,1
+"tomato",2260,21,20,1
+"tomato",2260,22,50,1
+"tomato",2260,23,100,1
+"tomato",2260,24,120,1
+"tomato",2260,25,15,1
+"tomato",2260,26,30,1
+"tomato",2260,27,50,1
+"tomato",2260,28,75,1
+"tomato",2260,31,10,1
+"tomato",2260,32,25,1
+"tomato",2260,33,40,1
+"tomato",2260,34,75,1
+"TOMATO",2260,52,5,1
+"tomato",2260,61,15,1
+"tomato",2260,62,25,1
+"tomato",2260,63,40,1
+"tomato",2260,71,60,1
+"tomato",2260,72,85,1
+"tomato",2260,73,110,1
+"tomato",2260,74,150,1
+"tomato",2260,81,1500,1
+"tomato",2260,82,2000,1
+"tomato",2260,83,2500,1
+"walnut",2270,21,20,1
+"walnut",2270,22,50,1
+"walnut",2270,23,100,1
+"walnut",2270,24,120,1
+"walnut",2270,25,15,1
+"walnut",2270,26,30,1
+"walnut",2270,27,50,1
+"walnut",2270,28,75,1
+"walnut",2270,31,10,1
+"walnut",2270,32,25,1
+"walnut",2270,33,40,1
+"walnut",2270,34,75,1
+"walnut",2270,61,15,1
+"walnut",2270,62,25,1
+"walnut",2270,63,40,1
+"walnut",2270,81,1500,1
+"walnut",2270,82,2000,1
+"walnut",2270,83,2500,1
+"wheat",2280,21,20,1
+"wheat",2280,22,50,1
+"wheat",2280,23,100,1
+"wheat",2280,24,120,1
+"wheat",2280,25,15,1
+"wheat",2280,26,30,1
+"wheat",2280,27,50,1
+"wheat",2280,28,75,1
+"wheat",2280,31,10,1
+"wheat",2280,32,25,1
+"wheat",2280,33,40,1
+"wheat",2280,34,75,1
+"wheat",2280,61,15,1
+"wheat",2280,62,25,1
+"wheat",2280,63,40,1
+"zobo",2290,21,20,1
+"zobo",2290,22,50,1
+"zobo",2290,23,100,1
+"zobo",2290,24,120,1
+"zobo",2290,25,15,1
+"zobo",2290,26,30,1
+"zobo",2290,27,50,1
+"zobo",2290,28,75,1
+"zobo",2290,31,10,1
+"zobo",2290,32,25,1
+"zobo",2290,33,40,1
+"zobo",2290,34,75,1
+"zobo",2290,61,15,1
+"zobo",2290,62,25,1
+"zobo",2290,63,40,1
+"zobo seed",2291,21,20,1
+"zobo seed",2291,22,50,1
+"zobo seed",2291,23,100,1
+"zobo seed",2291,24,120,1
+"zobo seed",2291,25,15,1
+"zobo seed",2291,26,30,1
+"zobo seed",2291,27,50,1
+"zobo seed",2291,28,75,1
+"zobo seed",2291,31,10,1
+"zobo seed",2291,32,25,1
+"zobo seed",2291,33,40,1
+"zobo seed",2291,34,75,1
+"zobo seed",2291,61,15,1
+"zobo seed",2291,62,25,1
+"zobo seed",2291,63,40,1
+"zobo seed",2291,81,1500,1
+"zobo seed",2291,82,2000,1
+"zobo seed",2291,83,2500,1
+"apple",3010,21,20,1
+"apple",3010,22,50,1
+"apple",3010,23,100,1
+"apple",3010,24,120,1
+"apple",3010,25,15,1
+"apple",3010,26,30,1
+"apple",3010,27,50,1
+"apple",3010,28,75,1
+"apple",3010,31,10,1
+"apple",3010,32,25,1
+"apple",3010,33,40,1
+"apple",3010,34,75,1
+"apple",3010,61,15,1
+"apple",3010,62,25,1
+"apple",3010,63,40,1
+"apple",3010,81,1500,1
+"apple",3010,82,2000,1
+"apple",3010,83,2500,1
+"cashew",3020,21,20,1
+"cashew",3020,22,50,1
+"cashew",3020,23,100,1
+"cashew",3020,24,120,1
+"cashew",3020,25,15,1
+"cashew",3020,26,30,1
+"cashew",3020,27,50,1
+"cashew",3020,28,75,1
+"cashew",3020,31,10,1
+"cashew",3020,32,25,1
+"cashew",3020,33,40,1
+"cashew",3020,34,75,1
+"cashew",3020,61,15,1
+"cashew",3020,62,25,1
+"cashew",3020,63,40,1
+"cashew",3020,71,60,1
+"cashew",3020,72,85,1
+"cashew",3020,73,110,1
+"cashew",3020,74,150,1
+"cashew",3020,81,1500,1
+"cashew",3020,82,2000,1
+"cashew",3020,83,2500,1
+"cashew fruit",3021,21,20,1
+"cashew fruit",3021,22,50,1
+"cashew fruit",3021,23,100,1
+"cashew fruit",3021,24,120,1
+"cashew fruit",3021,25,15,1
+"cashew fruit",3021,26,30,1
+"cashew fruit",3021,27,50,1
+"cashew fruit",3021,28,75,1
+"cashew fruit",3021,31,10,1
+"cashew fruit",3021,32,25,1
+"cashew fruit",3021,33,40,1
+"cashew fruit",3021,34,75,1
+"cashew fruit",3021,61,15,1
+"cashew fruit",3021,62,25,1
+"cashew fruit",3021,63,40,1
+"cashew fruit",3021,71,60,1
+"cashew fruit",3021,72,85,1
+"cashew fruit",3021,73,110,1
+"cashew fruit",3021,74,150,1
+"cashew fruit",3021,81,1500,1
+"cashew fruit",3021,82,2000,1
+"cashew fruit",3021,83,2500,1
+"cashew nut",3022,21,20,1
+"cashew nut",3022,22,50,1
+"cashew nut",3022,23,100,1
+"cashew nut",3022,24,120,1
+"cashew nut",3022,25,15,1
+"cashew nut",3022,26,30,1
+"cashew nut",3022,27,50,1
+"cashew nut",3022,28,75,1
+"cashew nut",3022,31,10,1
+"cashew nut",3022,32,25,1
+"cashew nut",3022,33,40,1
+"cashew nut",3022,34,75,1
+"cashew nut",3022,61,15,1
+"cashew nut",3022,62,25,1
+"cashew nut",3022,63,40,1
+"chilli",3030,21,20,1
+"chilli",3030,22,50,1
+"chilli",3030,23,100,1
+"chilli",3030,24,120,1
+"chilli",3030,25,15,1
+"chilli",3030,26,30,1
+"chilli",3030,27,50,1
+"chilli",3030,28,75,1
+"chilli",3030,31,10,1
+"chilli",3030,32,25,1
+"chilli",3030,33,40,1
+"chilli",3030,34,75,1
+"chilli",3030,61,15,1
+"chilli",3030,62,25,1
+"chilli",3030,63,40,1
+"chilli",3030,81,1500,1
+"chilli",3030,82,2000,1
+"chilli",3030,83,2500,1
+"cocoa",3040,21,20,1
+"cocoa",3040,22,50,1
+"cocoa",3040,23,100,1
+"cocoa",3040,24,120,1
+"cocoa",3040,25,15,1
+"cocoa",3040,26,30,1
+"cocoa",3040,27,50,1
+"cocoa",3040,28,75,1
+"cocoa",3040,31,10,1
+"cocoa",3040,32,25,1
+"cocoa",3040,33,40,1
+"cocoa",3040,34,75,1
+"COCOA",3040,52,5,1
+"cocoa",3040,61,15,1
+"cocoa",3040,62,25,1
+"cocoa",3040,63,40,1
+"cocoa",3040,81,1500,1
+"cocoa",3040,82,2000,1
+"cocoa",3040,83,2500,1
+"cocoa pod",3041,21,20,1
+"cocoa pod",3041,22,50,1
+"cocoa pod",3041,23,100,1
+"cocoa pod",3041,24,120,1
+"cocoa pod",3041,25,15,1
+"cocoa pod",3041,26,30,1
+"cocoa pod",3041,27,50,1
+"cocoa pod",3041,28,75,1
+"cocoa pod",3041,31,10,1
+"cocoa pod",3041,32,25,1
+"cocoa pod",3041,33,40,1
+"cocoa pod",3041,34,75,1
+"cocoa pod",3041,61,15,1
+"cocoa pod",3041,62,25,1
+"cocoa pod",3041,63,40,1
+"cocoa pod",3041,81,1500,1
+"cocoa pod",3041,82,2000,1
+"cocoa pod",3041,83,2500,1
+"cocoa beans",3042,21,20,1
+"cocoa beans",3042,22,50,1
+"cocoa beans",3042,23,100,1
+"cocoa beans",3042,24,120,1
+"cocoa beans",3042,25,15,1
+"cocoa beans",3042,26,30,1
+"cocoa beans",3042,27,50,1
+"cocoa beans",3042,28,75,1
+"cocoa beans",3042,31,10,1
+"cocoa beans",3042,32,25,1
+"cocoa beans",3042,33,40,1
+"cocoa beans",3042,34,75,1
+"cocoa beans",3042,61,15,1
+"cocoa beans",3042,62,25,1
+"cocoa beans",3042,63,40,1
+"cocoa beans",3042,81,1500,1
+"cocoa beans",3042,82,2000,1
+"cocoa beans",3042,83,2500,1
+"coconut",3050,21,20,1
+"coconut",3050,22,50,1
+"coconut",3050,23,100,1
+"coconut",3050,24,120,1
+"coconut",3050,25,15,1
+"coconut",3050,26,30,1
+"coconut",3050,27,50,1
+"coconut",3050,28,75,1
+"coconut",3050,31,10,1
+"coconut",3050,32,25,1
+"coconut",3050,33,40,1
+"coconut",3050,34,75,1
+"coconut",3050,41,5,1
+"coconut",3050,42,8,1
+"coconut",3050,43,15,1
+"COCONUT",3050,52,5,1
+"coconut",3050,61,15,1
+"coconut",3050,62,25,1
+"coconut",3050,63,40,1
+"coconut",3050,81,1500,1
+"coconut",3050,82,2000,1
+"coconut",3050,83,2500,1
+"coffe",3060,21,20,1
+"coffe",3060,22,50,1
+"coffe",3060,23,100,1
+"coffe",3060,24,120,1
+"coffe",3060,25,15,1
+"coffe",3060,26,30,1
+"coffe",3060,27,50,1
+"coffe",3060,28,75,1
+"coffe",3060,31,10,1
+"coffe",3060,32,25,1
+"coffe",3060,33,40,1
+"coffe",3060,34,75,1
+"coffe",3060,61,15,1
+"coffe",3060,62,25,1
+"coffe",3060,63,40,1
+"coffe",3060,81,1500,1
+"coffe",3060,82,2000,1
+"coffe",3060,83,2500,1
+"cofee arabica",3061,21,20,1
+"cofee arabica",3061,22,50,1
+"cofee arabica",3061,23,100,1
+"cofee arabica",3061,24,120,1
+"cofee arabica",3061,25,15,1
+"cofee arabica",3061,26,30,1
+"cofee arabica",3061,27,50,1
+"cofee arabica",3061,28,75,1
+"cofee arabica",3061,31,10,1
+"cofee arabica",3061,32,25,1
+"cofee arabica",3061,33,40,1
+"cofee arabica",3061,34,75,1
+"cofee arabica",3061,61,15,1
+"cofee arabica",3061,62,25,1
+"cofee arabica",3061,63,40,1
+"cofee arabica",3061,81,1500,1
+"cofee arabica",3061,82,2000,1
+"cofee arabica",3061,83,2500,1
+"coffee robuster",3062,21,20,1
+"coffee robuster",3062,22,50,1
+"coffee robuster",3062,23,100,1
+"coffee robuster",3062,24,120,1
+"coffee robuster",3062,25,15,1
+"coffee robuster",3062,26,30,1
+"coffee robuster",3062,27,50,1
+"coffee robuster",3062,28,75,1
+"coffee robuster",3062,31,10,1
+"coffee robuster",3062,32,25,1
+"coffee robuster",3062,33,40,1
+"coffee robuster",3062,34,75,1
+"coffee robuster",3062,61,15,1
+"coffee robuster",3062,62,25,1
+"coffee robuster",3062,63,40,1
+"coffee robuster",3062,81,1500,1
+"coffee robuster",3062,82,2000,1
+"coffee robuster",3062,83,2500,1
+"date palm",3070,21,20,1
+"date palm",3070,22,50,1
+"date palm",3070,23,100,1
+"date palm",3070,24,120,1
+"date palm",3070,25,15,1
+"date palm",3070,26,30,1
+"date palm",3070,27,50,1
+"date palm",3070,28,75,1
+"date palm",3070,31,10,1
+"date palm",3070,32,25,1
+"date palm",3070,33,40,1
+"date palm",3070,34,75,1
+"date palm",3070,41,5,1
+"date palm",3070,42,8,1
+"date palm",3070,43,15,1
+"date palm",3070,61,15,1
+"date palm",3070,62,25,1
+"date palm",3070,63,40,1
+"date palm",3070,81,1500,1
+"date palm",3070,82,2000,1
+"date palm",3070,83,2500,1
+"grape fruit",3080,21,20,1
+"grape fruit",3080,22,50,1
+"grape fruit",3080,23,100,1
+"grape fruit",3080,24,120,1
+"grape fruit",3080,25,15,1
+"grape fruit",3080,26,30,1
+"grape fruit",3080,27,50,1
+"grape fruit",3080,28,75,1
+"grape fruit",3080,31,10,1
+"grape fruit",3080,32,25,1
+"grape fruit",3080,33,40,1
+"grape fruit",3080,34,75,1
+"grape fruit",3080,61,15,1
+"grape fruit",3080,62,25,1
+"grape fruit",3080,63,40,1
+"grape fruit",3080,81,1500,1
+"grape fruit",3080,82,2000,1
+"grape fruit",3080,83,2500,1
+"guava",3090,21,20,1
+"guava",3090,22,50,1
+"guava",3090,23,100,1
+"guava",3090,24,120,1
+"guava",3090,25,15,1
+"guava",3090,26,30,1
+"guava",3090,27,50,1
+"guava",3090,28,75,1
+"guava",3090,31,10,1
+"guava",3090,32,25,1
+"guava",3090,33,40,1
+"guava",3090,34,75,1
+"guava",3090,61,15,1
+"guava",3090,62,25,1
+"guava",3090,63,40,1
+"guava",3090,81,1500,1
+"guava",3090,82,2000,1
+"guava",3090,83,2500,1
+"jute",3100,21,20,1
+"jute",3100,22,50,1
+"jute",3100,23,100,1
+"jute",3100,24,120,1
+"jute",3100,25,15,1
+"jute",3100,26,30,1
+"jute",3100,27,50,1
+"jute",3100,28,75,1
+"jute",3100,31,10,1
+"jute",3100,32,25,1
+"jute",3100,33,40,1
+"jute",3100,34,75,1
+"jute",3100,61,15,1
+"jute",3100,62,25,1
+"jute",3100,63,40,1
+"kolanut",3110,21,20,1
+"kolanut",3110,22,50,1
+"kolanut",3110,23,100,1
+"kolanut",3110,24,120,1
+"kolanut",3110,25,15,1
+"kolanut",3110,26,30,1
+"kolanut",3110,27,50,1
+"kolanut",3110,28,75,1
+"kolanut",3110,31,10,1
+"kolanut",3110,32,25,1
+"kolanut",3110,33,40,1
+"kolanut",3110,34,75,1
+"KOLANUT",3110,42,8,1
+"kolanut",3110,61,15,1
+"kolanut",3110,62,25,1
+"kolanut",3110,63,40,1
+"kolanut",3110,81,1500,1
+"kolanut",3110,82,2000,1
+"kolanut",3110,83,2500,1
+"kolanut unshelled",3111,21,20,1
+"kolanut unshelled",3111,22,50,1
+"kolanut unshelled",3111,23,100,1
+"kolanut unshelled",3111,24,120,1
+"kolanut unshelled",3111,25,15,1
+"kolanut unshelled",3111,26,30,1
+"kolanut unshelled",3111,27,50,1
+"kolanut unshelled",3111,28,75,1
+"kolanut unshelled",3111,31,10,1
+"kolanut unshelled",3111,32,25,1
+"kolanut unshelled",3111,33,40,1
+"kolanut unshelled",3111,34,75,1
+"kolanut unshelled",3111,61,15,1
+"kolanut unshelled",3111,62,25,1
+"kolanut unshelled",3111,63,40,1
+"kolanut unshelled",3111,81,1500,1
+"kolanut unshelled",3111,82,2000,1
+"kolanut unshelled",3111,83,2500,1
+"kolanut shelled",3112,21,20,1
+"kolanut shelled",3112,22,50,1
+"kolanut shelled",3112,23,100,1
+"kolanut shelled",3112,24,120,1
+"kolanut shelled",3112,25,15,1
+"kolanut shelled",3112,26,30,1
+"kolanut shelled",3112,27,50,1
+"kolanut shelled",3112,28,75,1
+"kolanut shelled",3112,31,10,1
+"kolanut shelled",3112,32,25,1
+"kolanut shelled",3112,33,40,1
+"kolanut shelled",3112,34,75,1
+"kolanut shelled",3112,61,15,1
+"kolanut shelled",3112,62,25,1
+"kolanut shelled",3112,63,40,1
+"kolanut shelled",3112,81,1500,1
+"kolanut shelled",3112,82,2000,1
+"kolanut shelled",3112,83,2500,1
+"bitter kola",3113,21,20,1
+"bitter kola",3113,22,50,1
+"bitter kola",3113,23,100,1
+"bitter kola",3113,24,120,1
+"bitter kola",3113,25,15,1
+"bitter kola",3113,26,30,1
+"bitter kola",3113,27,50,1
+"bitter kola",3113,28,75,1
+"bitter kola",3113,31,10,1
+"bitter kola",3113,32,25,1
+"bitter kola",3113,33,40,1
+"bitter kola",3113,34,75,1
+"bitter kola",3113,61,15,1
+"bitter kola",3113,62,25,1
+"bitter kola",3113,63,40,1
+"bitter kola",3113,81,1500,1
+"bitter kola",3113,82,2000,1
+"bitter kola",3113,83,2500,1
+"lemon",3120,21,20,1
+"lemon",3120,22,50,1
+"lemon",3120,23,100,1
+"lemon",3120,24,120,1
+"lemon",3120,25,15,1
+"lemon",3120,26,30,1
+"lemon",3120,27,50,1
+"lemon",3120,28,75,1
+"lemon",3120,31,10,1
+"lemon",3120,32,25,1
+"lemon",3120,33,40,1
+"lemon",3120,34,75,1
+"lemon",3120,61,15,1
+"lemon",3120,62,25,1
+"lemon",3120,63,40,1
+"lemon",3120,81,1500,1
+"lemon",3120,82,2000,1
+"lemon",3120,83,2500,1
+"lime",3130,21,20,1
+"lime",3130,22,50,1
+"lime",3130,23,100,1
+"lime",3130,24,120,1
+"lime",3130,25,15,1
+"lime",3130,26,30,1
+"lime",3130,27,50,1
+"lime",3130,28,75,1
+"lime",3130,31,10,1
+"lime",3130,32,25,1
+"lime",3130,33,40,1
+"lime",3130,34,75,1
+"lime",3130,61,15,1
+"lime",3130,62,25,1
+"lime",3130,63,40,1
+"lime",3130,71,60,1
+"lime",3130,72,85,1
+"lime",3130,73,110,1
+"lime",3130,74,150,1
+"lime",3130,81,1500,1
+"lime",3130,82,2000,1
+"lime",3130,83,2500,1
+"locust bean",3140,21,20,1
+"locust bean",3140,22,50,1
+"locust bean",3140,23,100,1
+"locust bean",3140,24,120,1
+"locust bean",3140,25,15,1
+"locust bean",3140,26,30,1
+"locust bean",3140,27,50,1
+"locust bean",3140,28,75,1
+"locust bean",3140,31,10,1
+"locust bean",3140,32,25,1
+"locust bean",3140,33,40,1
+"locust bean",3140,34,75,1
+"locust bean",3140,61,15,1
+"locust bean",3140,62,25,1
+"locust bean",3140,63,40,1
+"locust bean",3140,81,1500,1
+"locust bean",3140,82,2000,1
+"locust bean",3140,83,2500,1
+"mandarin",3150,21,20,1
+"mandarin",3150,22,50,1
+"mandarin",3150,23,100,1
+"mandarin",3150,24,120,1
+"mandarin",3150,25,15,1
+"mandarin",3150,26,30,1
+"mandarin",3150,27,50,1
+"mandarin",3150,28,75,1
+"mandarin",3150,31,10,1
+"mandarin",3150,32,25,1
+"mandarin",3150,33,40,1
+"mandarin",3150,34,75,1
+"mandarin",3150,61,15,1
+"mandarin",3150,62,25,1
+"mandarin",3150,63,40,1
+"mandarin",3150,81,1500,1
+"mandarin",3150,82,2000,1
+"mandarin",3150,83,2500,1
+"mango",3160,21,20,1
+"mango",3160,22,50,1
+"mango",3160,23,100,1
+"mango",3160,24,120,1
+"mango",3160,25,15,1
+"mango",3160,26,30,1
+"mango",3160,27,50,1
+"mango",3160,28,75,1
+"mango",3160,31,10,1
+"mango",3160,32,25,1
+"mango",3160,33,40,1
+"mango",3160,34,75,1
+"mango",3160,61,15,1
+"mango",3160,62,25,1
+"mango",3160,63,40,1
+"mango",3160,71,60,1
+"mango",3160,72,85,1
+"mango",3160,73,110,1
+"mango",3160,74,150,1
+"mango",3160,81,1500,1
+"mango",3160,82,2000,1
+"mango",3160,83,2500,1
+"orange",3170,21,20,1
+"orange",3170,22,50,1
+"orange",3170,23,100,1
+"orange",3170,24,120,1
+"orange",3170,25,15,1
+"orange",3170,26,30,1
+"orange",3170,27,50,1
+"orange",3170,28,75,1
+"orange",3170,31,10,1
+"orange",3170,32,25,1
+"orange",3170,33,40,1
+"orange",3170,34,75,1
+"ORANGE",3170,42,8,1
+"orange",3170,61,15,1
+"orange",3170,62,25,1
+"orange",3170,63,40,1
+"orange",3170,81,1500,1
+"orange",3170,82,2000,1
+"orange",3170,83,2500,1
+"OIL PALM TREE",3180,9,0.75,1
+"oil palm tree",3180,21,20,1
+"oil palm tree",3180,22,50,1
+"oil palm tree",3180,23,100,1
+"oil palm tree",3180,24,120,1
+"oil palm tree",3180,25,15,1
+"oil palm tree",3180,26,30,1
+"oil palm tree",3180,27,50,1
+"oil palm tree",3180,28,75,1
+"oil palm tree",3180,31,10,1
+"oil palm tree",3180,32,25,1
+"oil palm tree",3180,33,40,1
+"oil palm tree",3180,34,75,1
+"oil palm tree",3180,41,5,1
+"oil palm tree",3180,42,8,1
+"oil palm tree",3180,43,15,1
+"oil palm tree",3180,61,15,1
+"oil palm tree",3180,62,25,1
+"oil palm tree",3180,63,40,1
+"oil palm tree",3180,81,1500,1
+"oil palm tree",3180,82,2000,1
+"oil palm tree",3180,83,2500,1
+"OIL PALM TREE",3180,91,10,0
+"OIL PALM TREE",3180,92,20,0
+"OIL PALM TREE",3180,93,25,0
+"OIL PALM TREE",3180,94,50,0
+"fresh fruit bunch",3181,21,20,1
+"fresh fruit bunch",3181,22,50,1
+"fresh fruit bunch",3181,23,100,1
+"fresh fruit bunch",3181,24,120,1
+"fresh fruit bunch",3181,25,15,1
+"fresh fruit bunch",3181,26,30,1
+"fresh fruit bunch",3181,27,50,1
+"fresh fruit bunch",3181,28,75,1
+"fresh fruit bunch",3181,31,10,1
+"fresh fruit bunch",3181,32,25,1
+"fresh fruit bunch",3181,33,40,1
+"fresh fruit bunch",3181,34,75,1
+"fresh fruit bunch",3181,41,5,1
+"fresh fruit bunch",3181,42,8,1
+"fresh fruit bunch",3181,43,15,1
+"fresh fruit bunch",3181,61,15,1
+"fresh fruit bunch",3181,62,25,1
+"fresh fruit bunch",3181,63,40,1
+"fresh fruit bunch",3181,81,1500,1
+"fresh fruit bunch",3181,82,2000,1
+"fresh fruit bunch",3181,83,2500,1
+"fresh nut",3182,21,20,1
+"fresh nut",3182,22,50,1
+"fresh nut",3182,23,100,1
+"fresh nut",3182,24,120,1
+"fresh nut",3182,25,15,1
+"fresh nut",3182,26,30,1
+"fresh nut",3182,27,50,1
+"fresh nut",3182,28,75,1
+"fresh nut",3182,31,10,1
+"fresh nut",3182,32,25,1
+"fresh nut",3182,33,40,1
+"fresh nut",3182,34,75,1
+"fresh nut",3182,61,15,1
+"fresh nut",3182,62,25,1
+"fresh nut",3182,63,40,1
+"fresh nut",3182,81,1500,1
+"fresh nut",3182,82,2000,1
+"fresh nut",3182,83,2500,1
+"palm oil",3183,12,0.159,1
+"PALM OIL",3183,26,30,1
+"palm oil",3183,31,10,1
+"palm oil",3183,32,25,1
+"palm oil",3183,33,40,1
+"palm oil",3183,34,75,1
+"PALM OIL",3183,42,8,1
+"palm oil",3183,91,10,0
+"palm oil",3183,92,20,0
+"palm oil",3183,93,25,0
+"palm oil",3183,94,50,0
+"palm oil",3183,95,200,0
+"palm kernel",3184,21,20,1
+"palm kernel",3184,22,50,1
+"palm kernel",3184,23,100,1
+"palm kernel",3184,24,120,1
+"palm kernel",3184,25,15,1
+"palm kernel",3184,26,30,1
+"palm kernel",3184,27,50,1
+"palm kernel",3184,28,75,1
+"palm kernel",3184,31,10,1
+"palm kernel",3184,32,25,1
+"palm kernel",3184,33,40,1
+"palm kernel",3184,34,75,1
+"palm kernel",3184,41,5,1
+"palm kernel",3184,42,8,1
+"palm kernel",3184,43,15,1
+"palm kernel",3184,61,15,1
+"palm kernel",3184,62,25,1
+"palm kernel",3184,63,40,1
+"palm kernel",3184,71,60,1
+"palm kernel",3184,72,85,1
+"palm kernel",3184,73,110,1
+"palm kernel",3184,74,150,1
+"palm kernel",3184,81,1500,1
+"palm kernel",3184,82,2000,1
+"palm kernel",3184,83,2500,1
+"agbono - oro seed",3190,21,20,1
+"agbono - oro seed",3190,22,50,1
+"agbono - oro seed",3190,23,100,1
+"agbono - oro seed",3190,24,120,1
+"agbono - oro seed",3190,25,15,1
+"agbono - oro seed",3190,26,30,1
+"agbono - oro seed",3190,27,50,1
+"agbono - oro seed",3190,28,75,1
+"agbono - oro seed",3190,31,10,1
+"agbono - oro seed",3190,32,25,1
+"agbono - oro seed",3190,33,40,1
+"agbono - oro seed",3190,34,75,1
+"agbono - oro seed",3190,61,15,1
+"agbono - oro seed",3190,62,25,1
+"agbono - oro seed",3190,63,40,1
+"agbono - oro seed",3190,81,1500,1
+"agbono - oro seed",3190,82,2000,1
+"agbono - oro seed",3190,83,2500,1
+"oil bean",3200,21,20,1
+"oil bean",3200,22,50,1
+"oil bean",3200,23,100,1
+"oil bean",3200,24,120,1
+"oil bean",3200,25,15,1
+"oil bean",3200,26,30,1
+"oil bean",3200,27,50,1
+"oil bean",3200,28,75,1
+"oil bean",3200,31,10,1
+"oil bean",3200,32,25,1
+"oil bean",3200,33,40,1
+"oil bean",3200,34,75,1
+"oil bean",3200,61,15,1
+"oil bean",3200,62,25,1
+"oil bean",3200,63,40,1
+"pawpaw",3210,21,20,1
+"pawpaw",3210,22,50,1
+"pawpaw",3210,23,100,1
+"pawpaw",3210,24,120,1
+"pawpaw",3210,25,15,1
+"pawpaw",3210,26,30,1
+"pawpaw",3210,27,50,1
+"pawpaw",3210,28,75,1
+"pawpaw",3210,31,10,1
+"pawpaw",3210,32,25,1
+"pawpaw",3210,33,40,1
+"pawpaw",3210,34,75,1
+"pawpaw",3210,61,15,1
+"pawpaw",3210,62,25,1
+"pawpaw",3210,63,40,1
+"pawpaw",3210,71,60,1
+"pawpaw",3210,72,85,1
+"pawpaw",3210,73,110,1
+"pawpaw",3210,74,150,1
+"pawpaw",3210,81,1500,1
+"pawpaw",3210,82,2000,1
+"pawpaw",3210,83,2500,1
+"pear",3220,21,20,1
+"pear",3220,22,50,1
+"pear",3220,23,100,1
+"pear",3220,24,120,1
+"pear",3220,25,15,1
+"pear",3220,26,30,1
+"pear",3220,27,50,1
+"pear",3220,28,75,1
+"pear",3220,31,10,1
+"pear",3220,32,25,1
+"pear",3220,33,40,1
+"pear",3220,34,75,1
+"pear",3220,61,15,1
+"pear",3220,62,25,1
+"pear",3220,63,40,1
+"pear",3220,81,1500,1
+"pear",3220,82,2000,1
+"pear",3220,83,2500,1
+"avocado pear",3221,21,20,1
+"avocado pear",3221,22,50,1
+"avocado pear",3221,23,100,1
+"avocado pear",3221,24,120,1
+"avocado pear",3221,25,15,1
+"avocado pear",3221,26,30,1
+"avocado pear",3221,27,50,1
+"avocado pear",3221,28,75,1
+"avocado pear",3221,31,10,1
+"avocado pear",3221,32,25,1
+"avocado pear",3221,33,40,1
+"avocado pear",3221,34,75,1
+"avocado pear",3221,61,15,1
+"avocado pear",3221,62,25,1
+"avocado pear",3221,63,40,1
+"avocado pear",3221,71,60,1
+"avocado pear",3221,72,85,1
+"avocado pear",3221,73,110,1
+"avocado pear",3221,74,150,1
+"avocado pear",3221,81,1500,1
+"avocado pear",3221,82,2000,1
+"avocado pear",3221,83,2500,1
+"rubber",3230,21,20,1
+"rubber",3230,22,50,1
+"rubber",3230,23,100,1
+"rubber",3230,24,120,1
+"rubber",3230,25,15,1
+"rubber",3230,26,30,1
+"rubber",3230,27,50,1
+"rubber",3230,28,75,1
+"rubber",3230,31,10,1
+"rubber",3230,32,25,1
+"rubber",3230,33,40,1
+"rubber",3230,34,75,1
+"rubber",3230,61,15,1
+"rubber",3230,62,25,1
+"rubber",3230,63,40,1
+"rubber",3230,91,10,0
+"rubber",3230,92,20,0
+"rubber",3230,93,25,0
+"rubber",3230,94,50,0
+"rubber",3230,95,200,0
+"rubber paint",3231,21,20,1
+"rubber paint",3231,22,50,1
+"rubber paint",3231,23,100,1
+"rubber paint",3231,24,120,1
+"rubber paint",3231,25,15,1
+"rubber paint",3231,26,30,1
+"rubber paint",3231,27,50,1
+"rubber paint",3231,28,75,1
+"rubber paint",3231,31,10,1
+"rubber paint",3231,32,25,1
+"rubber paint",3231,33,40,1
+"rubber paint",3231,34,75,1
+"rubber paint",3231,61,15,1
+"rubber paint",3231,62,25,1
+"rubber paint",3231,63,40,1
+"rubber paint",3231,91,10,0
+"rubber paint",3231,92,20,0
+"rubber paint",3231,93,25,0
+"rubber paint",3231,94,50,0
+"rubber paint",3231,95,200,0
+"rubber sheet",3232,21,20,1
+"rubber sheet",3232,22,50,1
+"rubber sheet",3232,23,100,1
+"rubber sheet",3232,24,120,1
+"rubber sheet",3232,25,15,1
+"rubber sheet",3232,26,30,1
+"rubber sheet",3232,27,50,1
+"rubber sheet",3232,28,75,1
+"rubber sheet",3232,31,10,1
+"rubber sheet",3232,32,25,1
+"rubber sheet",3232,33,40,1
+"rubber sheet",3232,34,75,1
+"rubber sheet",3232,61,15,1
+"rubber sheet",3232,62,25,1
+"rubber sheet",3232,63,40,1
+"rubber sheet",3232,91,10,0
+"rubber sheet",3232,92,20,0
+"rubber sheet",3232,93,25,0
+"rubber sheet",3232,94,50,0
+"rubber sheet",3232,95,200,0
+"cherry",3240,21,20,1
+"cherry",3240,22,50,1
+"cherry",3240,23,100,1
+"cherry",3240,24,120,1
+"cherry",3240,25,15,1
+"cherry",3240,26,30,1
+"cherry",3240,27,50,1
+"cherry",3240,28,75,1
+"cherry",3240,31,10,1
+"cherry",3240,32,25,1
+"cherry",3240,33,40,1
+"cherry",3240,34,75,1
+"cherry",3240,61,15,1
+"cherry",3240,62,25,1
+"cherry",3240,63,40,1
+"cherry",3240,81,1500,1
+"cherry",3240,82,2000,1
+"cherry",3240,83,2500,1
+"eru",3250,21,20,1
+"eru",3250,22,50,1
+"eru",3250,23,100,1
+"eru",3250,24,120,1
+"eru",3250,25,15,1
+"eru",3250,26,30,1
+"eru",3250,27,50,1
+"eru",3250,28,75,1
+"eru",3250,31,10,1
+"eru",3250,32,25,1
+"eru",3250,33,40,1
+"eru",3250,34,75,1
+"eru",3250,61,15,1
+"eru",3250,62,25,1
+"eru",3250,63,40,1
+"iyere",3260,21,20,1
+"iyere",3260,22,50,1
+"iyere",3260,23,100,1
+"iyere",3260,24,120,1
+"iyere",3260,25,15,1
+"iyere",3260,26,30,1
+"iyere",3260,27,50,1
+"iyere",3260,28,75,1
+"iyere",3260,31,10,1
+"iyere",3260,32,25,1
+"iyere",3260,33,40,1
+"iyere",3260,34,75,1
+"iyere",3260,61,15,1
+"iyere",3260,62,25,1
+"iyere",3260,63,40,1
+"iyere",3260,81,1500,1
+"iyere",3260,82,2000,1
+"iyere",3260,83,2500,1
